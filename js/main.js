@@ -68,7 +68,7 @@ $(window).on("load", function () {
 });
 document.addEventListener('DOMContentLoaded', function () {
     new Typed('.home_title #subtitle', {
-        strings: ['Officially known as Prince Vishal Sinha.', 'I am a crazy, creative Full-Stack Developer.', 'I like to do Frontend Designing, Architecture and Development. I focus on building scalable products', 'I deliver compact, reusable and quality code.'],
+        strings: ['Officially known as Prince Vishal Sinha.', 'I am a crazy, creative Full-Stack Developer.', 'I like to do Frontend Designing, Architecture and Development.', 'I focus on building scalable products', 'I deliver compact, reusable and quality code.'],
         typeSpeed: 50,
         backSpeed: 20,
         smartBackspace: true,
