@@ -2,7 +2,7 @@
 2:I[23542,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0asz1c5i7pibs.js"],"default"]
 8:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
 9:"$Sreact.suspense"
-3:T6a6a,
+3:T6abb,
 
 <!-- scroll progress bar (top) -->
 <div class="page-progress" aria-hidden="true"><div class="bar" id="page-progress-bar"></div></div>
@@ -63,8 +63,11 @@
     <div class="col">
       <span class="hello">hi, i'm —</span>
 
-      <h1>
-        Prince. I build <span class="red">AI-native</span> systems for security, automation, and trust.
+      <h1 style="font-size: 96px;">
+        Prince.
+      </h1>
+      <h1 style="font-size: 56px;">
+        I build <span class="red">AI-native</span> systems for security, automation, and trust.
       </h1>
 
       <p class="hero-lead">
@@ -2427,7 +2430,7 @@
       color-mix(in oklab, var(--paper-2) 88%, #0a0805 12%) 100%);
     filter: drop-shadow(-1px -1px 2px rgba(0, 0, 0, 0.45));
   }
-</style>0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"body":"$3","scripts":["$4"],"styles":"$5"}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"00waVmkS4ZeWd0PsUnxuw"}
+</style>0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"body":"$3","scripts":["$4"],"styles":"$5"}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"35MgW6z9kdKXCcaHKjr9z"}
 6:["$","script","script-0",{"src":"/_next/static/chunks/0asz1c5i7pibs.js","async":true}]
 7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
 a:null
