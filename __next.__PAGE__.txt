@@ -2437,7 +2437,7 @@
       color-mix(in oklab, var(--paper-2) 88%, #0a0805 12%) 100%);
     filter: drop-shadow(-1px -1px 2px rgba(0, 0, 0, 0.45));
   }
-</style>0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"body":"$3","scripts":["$4"],"styles":"$5"}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"WLOrsJGKckqHiHGOPdzMx"}
+</style>0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"body":"$3","scripts":["$4"],"styles":"$5"}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Dp1r3sAQ-WHCFYdpMQhMJ"}
 6:["$","script","script-0",{"src":"/_next/static/chunks/0asz1c5i7pibs.js","async":true}]
 7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
 a:null
