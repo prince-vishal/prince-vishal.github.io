@@ -7,7 +7,7 @@ a:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmw
 c:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
 e:I[68027,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
 :HL["/_next/static/chunks/0-zxi~xkytfab.css","style"]
-0:{"P":null,"c":["","uses"],"q":"","i":false,"f":[[["",{"children":["uses",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0-zxi~xkytfab.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"name":"theme-color","content":"#fbf3e6"}],["$","link",null,{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              (function() {\n                try {\n                  var saved = localStorage.getItem('theme');\n                  var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;\n                  var theme = saved || (prefersDark ? 'dark' : 'light');\n                  document.documentElement.setAttribute('data-theme', theme);\n                } catch (e) {}\n              })();\n            "}}]]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$L4",[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/0asz1c5i7pibs.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],null]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0-zxi~xkytfab.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Dp1r3sAQ-WHCFYdpMQhMJ"}
+0:{"P":null,"c":["","uses"],"q":"","i":false,"f":[[["",{"children":["uses",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0-zxi~xkytfab.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"name":"theme-color","content":"#fbf3e6"}],["$","link",null,{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              (function() {\n                try {\n                  var saved = localStorage.getItem('theme');\n                  var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;\n                  var theme = saved || (prefersDark ? 'dark' : 'light');\n                  document.documentElement.setAttribute('data-theme', theme);\n                } catch (e) {}\n              })();\n            "}}]]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$L4",[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/0asz1c5i7pibs.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],null]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0-zxi~xkytfab.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"fOoCt_3lTiQDaCAXFwZ-3"}
 f:[]
 9:"$Wf"
 b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
@@ -394,9 +394,7 @@ b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","cont
     filter: drop-shadow(-1px -1px 2px rgba(0, 0, 0, 0.45));
   }
 </style>4:["$","$L10",null,{"body":"$11","scripts":["\n  const themeBtn = document.getElementById('theme-toggle');\n  if (themeBtn) themeBtn.addEventListener('click', () => {\n    const cur = document.documentElement.getAttribute('data-theme') || 'light';\n    const nxt = cur === 'light' ? 'dark' : 'light';\n    document.documentElement.setAttribute('data-theme', nxt);\n    try { localStorage.setItem('theme', nxt); } catch (e) {}\n  });\n"],"styles":"$12"}]
-8:null
-d:[["$","title","0",{"children":"/uses — what's on my desk · Prince Sinha"}],["$","meta","1",{"name":"description","content":"A complete list of the hardware, software, and services Prince Sinha uses to build things."}],["$","meta","2",{"name":"author","content":"Prince Sinha"}]]
-13:T2256,
+13:T24a8,
 
 <div class="page">
 
@@ -424,8 +422,8 @@ d:[["$","title","0",{"children":"/uses — what's on my desk · Prince Sinha"}],
     </h1>
     <p class="lead">
       The full, slightly opinionated list of <em>what I actually use</em> to build
-      things, write things, and not lose my mind. Updated whenever something
-      gets replaced; nothing here for affiliate reasons.
+      things, write things, and not lose my mind. Updated when the desk changes;
+      nothing here for affiliate reasons, and no imaginary keyboard.
     </p>
   </section>
 
@@ -435,11 +433,14 @@ d:[["$","title","0",{"children":"/uses — what's on my desk · Prince Sinha"}],
       <span class="num">hardware</span>
     </div>
     <div class="items">
-      <div class="item"><div class="name"><b>MacBook Pro 14"</b> · M2 Pro, 32GB</div><div class="why">main machine · all day, every day</div></div>
-      <div class="item"><div class="name">LG 27" 4K display</div><div class="why">vertical-pivot when reading long PRs</div></div>
-      <div class="item"><div class="name">Keychron K3 Pro · low-profile brown</div><div class="why"><span class="red">quiet enough for a video call</span></div></div>
+      <div class="item"><div class="name"><b>MacBook Pro 16"</b> · M4 Max, 128GB, 2TB</div><div class="why">main machine · absurd in the right ways</div></div>
+      <div class="item"><div class="name">Liquid Retina XDR · 3456×2234 @ 120Hz</div><div class="why">built-in screen · the good one</div></div>
+      <div class="item"><div class="name">LG UltraGear · FHD @ 180Hz</div><div class="why">India-available monitor · fast enough</div></div>
+      <div class="item"><div class="name">BenQ ZOWIE XL LCD · FHD @ 60Hz</div><div class="why">second screen · rotation supported</div></div>
+      <div class="item"><div class="name">No external keyboard</div><div class="why"><span class="red">built-in keyboard wins for now</span></div></div>
       <div class="item"><div class="name">Logitech MX Master 3S</div><div class="why">scroll wheel earns its keep</div></div>
-      <div class="item"><div class="name">Sony WH-1000XM5</div><div class="why">commute · open offices · planes</div></div>
+      <div class="item"><div class="name">iPhone · paired as Prince’s iPhone</div><div class="why">phone, camera, hotspot, interruptions</div></div>
+      <div class="item"><div class="name">AirPods Pro #2</div><div class="why">calls · commute · focus mode</div></div>
       <div class="item"><div class="name">A4 dotted notebook · Leuchtturm1917</div><div class="why">the actual real notebook</div></div>
       <div class="item"><div class="name">Lamy 2000 fountain pen</div><div class="why">because typing isn't always thinking</div></div>
     </div>
@@ -493,7 +494,8 @@ d:[["$","title","0",{"children":"/uses — what's on my desk · Prince Sinha"}],
       <span class="num">models &amp; agents</span>
     </div>
     <div class="items">
-      <div class="item"><div class="name"><b>Claude</b> · Sonnet 4.5 &amp; Opus 4</div><div class="why">daily, for almost everything</div></div>
+      <div class="item"><div class="name"><b>Claude</b> · Opus 4.7 &amp; Opus 4.5</div><div class="why">daily, for almost everything</div></div>
+      <div class="item"><div class="name">Claude Code · Max</div><div class="why">agentic coding · repo spelunking</div></div>
       <div class="item"><div class="name">ChatGPT · GPT-5 + Codex</div><div class="why">second opinion · weird edge cases</div></div>
       <div class="item"><div class="name">Ollama · llama3 + qwen3</div><div class="why">for the offline experiments</div></div>
       <div class="item"><div class="name">LangSmith</div><div class="why">eval traces · prompt diffs</div></div>
@@ -556,7 +558,7 @@ d:[["$","title","0",{"children":"/uses — what's on my desk · Prince Sinha"}],
 
   <footer class="bottom">
     <a href="/" class="big-back"><span>←</span> back to the notebook</a>
-    <div>© 2026 · <b>Prince Sinha</b> · last updated 2026 · 05 · 24</div>
+    <div>© 2026 · <b>Prince Sinha</b> · last updated 2026 · 05 · 25</div>
   </footer>
 
 </div>
@@ -738,3 +740,5 @@ d:[["$","title","0",{"children":"/uses — what's on my desk · Prince Sinha"}],
   }
   .big-back:hover { color: var(--red); gap: 18px; }
 </style>5:["$","$L10",null,{"body":"$13","scripts":["\n  const themeBtn = document.getElementById('theme-toggle');\n  if (themeBtn) themeBtn.addEventListener('click', () => {\n    const cur = document.documentElement.getAttribute('data-theme') || 'light';\n    const nxt = cur === 'light' ? 'dark' : 'light';\n    document.documentElement.setAttribute('data-theme', nxt);\n    try { localStorage.setItem('theme', nxt); } catch (e) {}\n  });\n"],"styles":"$14"}]
+8:null
+d:[["$","title","0",{"children":"/uses — what's on my desk · Prince Sinha"}],["$","meta","1",{"name":"description","content":"A complete list of the hardware, software, and services Prince Sinha uses to build things."}],["$","meta","2",{"name":"author","content":"Prince Sinha"}]]
