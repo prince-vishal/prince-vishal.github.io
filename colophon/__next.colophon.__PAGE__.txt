@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[23542,["/_next/static/chunks/0g65zv~fun4x7.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0asz1c5i7pibs.js"],"default"]
-7:I[97367,["/_next/static/chunks/0g65zv~fun4x7.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+2:I[23542,["/_next/static/chunks/0-8b5a8w8do-g.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0cpu9mdm3uq6j.js"],"default"]
+7:I[97367,["/_next/static/chunks/0-8b5a8w8do-g.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
 8:"$Sreact.suspense"
 3:T1a9b,
 
@@ -320,7 +320,7 @@
     transition: gap .15s ease, color .15s ease;
   }
   .big-back:hover { color: var(--red); gap: 18px; }
-</style>0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"body":"$3","scripts":["\n  const themeBtn = document.getElementById('theme-toggle');\n  if (themeBtn) themeBtn.addEventListener('click', () => {\n    const cur = document.documentElement.getAttribute('data-theme') || 'light';\n    const nxt = cur === 'light' ? 'dark' : 'light';\n    document.documentElement.setAttribute('data-theme', nxt);\n    try { localStorage.setItem('theme', nxt); } catch (e) {}\n  });\n"],"styles":"$4"}],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"JFKmowbWyZI3FPJtvoTaZ"}
-5:["$","script","script-0",{"src":"/_next/static/chunks/0asz1c5i7pibs.js","async":true}]
+</style>0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"body":"$3","scripts":["\n  const themeBtn = document.getElementById('theme-toggle');\n  if (themeBtn) themeBtn.addEventListener('click', () => {\n    const cur = document.documentElement.getAttribute('data-theme') || 'light';\n    const nxt = cur === 'light' ? 'dark' : 'light';\n    document.documentElement.setAttribute('data-theme', nxt);\n    try { localStorage.setItem('theme', nxt); } catch (e) {}\n  });\n"],"styles":"$4"}],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-svwUCB9t7VIBpUhkGi7h"}
+5:["$","script","script-0",{"src":"/_next/static/chunks/0cpu9mdm3uq6j.js","async":true}]
 6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
 9:null
