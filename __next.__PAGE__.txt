@@ -51,7 +51,7 @@
     <aside class="now" id="now-panel">
       <h4><a href="/now" style="color: inherit; border-bottom: 1px dashed currentColor; padding-bottom: 1px;">right now →</a></h4>
       <ul>
-        <li><span class="k">in</span><span class="v">Bengaluru, IN · <span id="clock">—</span> IST</span></li>
+        <li><span class="k">in</span><span class="v">Bengaluru, IN · <span id="clock"> - </span> IST</span></li>
         <li><span class="k">doing</span><span class="v"><span class="live-dot"></span><span id="doing">teaching a SecOps agent to ask before it acts</span></span></li>
         <li><span class="k">reading</span><span class="v">notes on autonomous investigations and retrieval</span></li>
         <li><span class="k">drinking</span><span class="v">filter coffee · second of the day</span></li>
@@ -61,7 +61,7 @@
     </aside>
 
     <div class="col">
-      <span class="hello">hi, i'm —</span>
+      <span class="hello">hi, i'm  - </span>
 
       <h1 style="font-size: 96px;">
         Prince.
@@ -214,7 +214,7 @@
 
       <!-- career timeline at Cyble: Jul 2021 → present -->
       <div class="career-timeline">
-        <span class="lab">↬ the climb at Cyble —</span>
+        <span class="lab">↬ the climb at Cyble  - </span>
         <div class="rail-wrap">
           <div class="rail"></div>
           <div class="career-node below" style="left: 6%;" data-comment-anchor="cda5ed11:187-sr-swe">
@@ -242,7 +242,7 @@
             <span class="stem"></span>
             <span class="role-label">
               <span class="role">Senior Director, <em>Innovations</em></span>
-              <span class="date">May 2025 — present</span>
+              <span class="date">May 2025  -  present</span>
             </span>
           </div>
         </div>
@@ -311,7 +311,7 @@
       <div class="brand-mark" aria-label="Postman logo">
         <img src="/postman-logo.svg" alt="Postman" width="58" height="58" />
       </div>
-      <span class="kicker">↗ before that —</span>
+      <span class="kicker">↗ before that  - </span>
       <h2>An <em>API-first</em> year at <span style="font-style: italic; color: var(--red);">Postman.</span></h2>
       <div class="postman-illo" aria-hidden="true">
         <img src="/postman-illustration.svg" alt="" loading="lazy" />
@@ -455,7 +455,7 @@
   <!-- ───────── SIGNOFF ───────── -->
   <section class="signoff" id="say-hi">
     <div class="col">
-      <span class="salutation">p.s. —</span>
+      <span class="salutation">p.s.  - </span>
       <p class="letter">
         If you read this far, that's flattering. I'm <em>open to a small number
         of conversations</em> &mdash; for collaboration, hiring, advising, or just
@@ -472,7 +472,7 @@
         <span class="kicker">↬ if you're a recruiter:</span>
         <h4>I wrote you a <em>separate letter.</em></h4>
         <p>
-          Six questions every cold email asks, answered up front — plus what I'm
+          Six questions every cold email asks, answered up front  -  plus what I'm
           open to, what to skip, and how to make this easy on both of us.
         </p>
         <span class="pill">read the letter <span aria-hidden="true">→</span></span>
@@ -490,7 +490,7 @@
     </div>
 
     <footer class="colophon">
-      <div>© 2026 — <b>Prince Sinha</b>. made by hand, mostly.</div>
+      <div>© 2026  -  <b>Prince Sinha</b>. made by hand, mostly.</div>
       <div>set in Instrument Serif, Caveat &amp; Geist Mono.</div>
       <div style="display: flex; gap: 16px; flex-wrap: wrap;">
         <a href="/now" style="color: var(--ink-mute); border-bottom: 1px dashed transparent; transition: color .15s ease, border-color .15s ease;" onmouseover="this.style.color='var(--red)';this.style.borderBottomColor='var(--red)'" onmouseout="this.style.color='var(--ink-mute)';this.style.borderBottomColor='transparent'">/now</a>
@@ -539,7 +539,7 @@
       }
     });
 
-    // §01 Field entries — alternating tilts left/right
+    // §01 Field entries  -  alternating tilts left/right
     tagAlt('.field .field-entry', 'tilt-l', 'tilt-r');
 
     // §02 Featured project zooms in; project rows tagged later (after JS renders them)
@@ -551,17 +551,17 @@
     tagAll('.postman-illo', 'right');
     tagAlt('.cyble-card .contrib-item', 'left', 'right');
 
-    // §04 Credo numbered items — each from left
+    // §04 Credo numbered items  -  each from left
     tagAll('.credo .credo-item', 'left');
 
-    // §05 Toolkit — legend from below, chips cycle through directions for variety
+    // §05 Toolkit  -  legend from below, chips cycle through directions for variety
     tagAll('.board-legend', 'down');
     // chips tagged after they render (see end of script)
 
-    // §06 Notes — three cards, three motions
+    // §06 Notes  -  three cards, three motions
     tagCycle('.notes .note', ['tilt-l', 'up', 'tilt-r']);
 
-    // §07 Contact — giant heading lifts, links cascade in from the right
+    // §07 Contact  -  giant heading lifts, links cascade in from the right
     tagAll('.contact h2', 'up');
     tagAll('.contact-links a', 'right');
 
@@ -973,7 +973,7 @@
     --mono:   "Geist Mono", ui-monospace, monospace;
   }
 
-  /* ───────── Dark mode — "library at midnight" ───────── */
+  /* ───────── Dark mode  -  "library at midnight" ───────── */
   [data-theme="dark"] {
     --paper:      #14100c;
     --paper-2:    #1d1812;
@@ -1298,7 +1298,7 @@
     background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 8' preserveAspectRatio='none'><path d='M2 5 Q 15 1 30 4 T 60 4 T 90 4 T 118 4' stroke='%23eb8364' stroke-width='1.6' fill='none' stroke-linecap='round'/></svg>") center/100% 100% no-repeat;
   }
 
-  /* ───────── Right Now panel — real paper sticky note ───────── */
+  /* ───────── Right Now panel  -  real paper sticky note ───────── */
   .now {
     position: absolute;
     right: 0; top: 60px;
@@ -1323,7 +1323,7 @@
       0 1px 0 rgba(255, 250, 232, 0.55) inset;
     font-family: var(--mono); font-size: 11.5px; color: var(--ink-soft);
   }
-  /* Washi-style tape strip — translucent, soft-edged, slightly off-center */
+  /* Washi-style tape strip  -  translucent, soft-edged, slightly off-center */
   .now::before {
     content: ""; position: absolute;
     top: -11px;
@@ -1350,7 +1350,7 @@
             mask-image: linear-gradient(90deg, transparent 0%, black 7%, black 93%, transparent 100%);
     pointer-events: none;
   }
-  /* Corner curl — bottom-right reveals the "back" of the paper */
+  /* Corner curl  -  bottom-right reveals the "back" of the paper */
   .now::after {
     content: "";
     position: absolute;
@@ -1364,7 +1364,7 @@
     filter: drop-shadow(-1px -1px 2px rgba(60, 40, 20, 0.18));
     pointer-events: none;
   }
-  /* Dark mode — paper sticky reads as warm but darker */
+  /* Dark mode  -  paper sticky reads as warm but darker */
   [data-theme="dark"] .now {
     background:
       radial-gradient(ellipse at 28% 18%, rgba(255, 230, 180, 0.04) 0%, transparent 55%),
@@ -1638,7 +1638,7 @@
     .cyble-card .brand-mark { width: 60px; height: 60px; top: -16px; left: -16px; padding: 8px; }
   }
 
-  /* Postman spot illustration — floats right of the lead text */
+  /* Postman spot illustration  -  floats right of the lead text */
   .postman-illo {
     float: right;
     width: clamp(180px, 24%, 240px);
@@ -1681,7 +1681,7 @@
   .contrib-item h4 em { color: var(--ink-soft); }
   .contrib-item p { font-size: 16px; color: var(--ink-soft); margin: 0; line-height: 1.45; }
 
-  /* ───────── Career timeline — horizontal rail with alternating labels ───────── */
+  /* ───────── Career timeline  -  horizontal rail with alternating labels ───────── */
   .career-timeline {
     margin: 12px 0 36px 0;
   }
@@ -2010,7 +2010,7 @@
   .sticky.sm .logo, .sticky.sm .logo img, .sticky.sm .logo svg { width: 24px; height: 24px; }
   .sticky.sm .name { font-size: 10.5px; }
 
-  /* color variants — muted Post-it palette */
+  /* color variants  -  muted Post-it palette */
   .sticky.c-ai    { --c: #d0dff5; --c-dark: rgba(40, 60, 110, 0.10); }  /* blue */
   .sticky.c-sec   { --c: #f4c8d4; --c-dark: rgba(120, 30, 60, 0.10); }  /* pink */
   .sticky.c-cloud { --c: #cce4cc; --c-dark: rgba(40, 90, 50, 0.10); }   /* mint */
@@ -2327,14 +2327,14 @@
     .chapter-indicator { left: 12px; bottom: 12px; font-size: 10px; padding: 7px 12px 7px 10px; }
   }
 
-  /* "keep scrolling" hint — removed; scroll-progress system replaces it */
-  /* (old .reveal-* system removed — replaced by .scr.* scroll-progress system above) */
+  /* "keep scrolling" hint  -  removed; scroll-progress system replaces it */
+  /* (old .reveal-* system removed  -  replaced by .scr.* scroll-progress system above) */
 
   /* ─────────────────── PAPER NOTE SYSTEM ─────────────────── */
-  /* Applied to every paper-card surface — overrides earlier per-card
+  /* Applied to every paper-card surface  -  overrides earlier per-card
      background/border/box-shadow rules via cascade order. */
 
-  /* (1) Paper surface — gradient + grain, no border, layered shadows */
+  /* (1) Paper surface  -  gradient + grain, no border, layered shadows */
   .featured,
   .cyble-card,
   .note,
@@ -2373,7 +2373,7 @@
             mask-image: linear-gradient(90deg, transparent 0%, black 7%, black 93%, transparent 100%);
   }
 
-  /* (3) Corner curl at bottom-right — paper-back triangle with fold shadow */
+  /* (3) Corner curl at bottom-right  -  paper-back triangle with fold shadow */
   .featured::after,
   .cyble-card::after,
   .note::after,
@@ -2437,7 +2437,7 @@
       color-mix(in oklab, var(--paper-2) 88%, #0a0805 12%) 100%);
     filter: drop-shadow(-1px -1px 2px rgba(0, 0, 0, 0.45));
   }
-</style>0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"body":"$3","scripts":["$4"],"styles":"$5"}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"jEwiYEbU6nsCUED8sFJBV"}
+</style>0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"body":"$3","scripts":["$4"],"styles":"$5"}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"a_oda3p7N626W7KRYMXst"}
 6:["$","script","script-0",{"src":"/_next/static/chunks/0cpu9mdm3uq6j.js","async":true}]
 7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
 a:null
