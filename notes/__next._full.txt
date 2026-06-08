@@ -1022,7 +1022,7 @@ d:I[68027,["/_next/static/chunks/0-8b5a8w8do-g.js","/_next/static/chunks/0d3shmw
     min-width: 100%;
   }
 }
-0:{"P":null,"c":["","notes"],"q":"","i":false,"f":[[["",{"children":["notes",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0-zxi~xkytfab.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0-8b5a8w8do-g.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"name":"theme-color","content":"#fbf3e6"}],["$","link",null,{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              (function() {\n                try {\n                  var saved = localStorage.getItem('theme');\n                  var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;\n                  var theme = saved || (prefersDark ? 'dark' : 'light');\n                  document.documentElement.setAttribute('data-theme', theme);\n                } catch (e) {}\n              })();\n            "}}]]}],["$","body",null,{"children":[[["$","$L2",null,{"id":"google-tag-manager","strategy":"afterInteractive","children":"\n          (function(w,d,s,l,i){\n            w[l]=w[l]||[];\n            w[l].push({'gtm.start': new Date().getTime(), event:'gtm.js'});\n            var f=d.getElementsByTagName(s)[0],\n                j=d.createElement(s),\n                dl=l!='dataLayer'?'&l='+l:'';\n            j.async=true;\n            j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;\n            f.parentNode.insertBefore(j,f);\n          })(window,document,'script','dataLayer','GTM-PDKHPT4');\n        "}],["$","noscript",null,{"children":"$3"}]],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$L6",[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L7",null,{}],["$","$L8",null,{}],["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$9"}}]]}]]}]]}],{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,null]},null,false,null],"$Lc",false]],"m":"$undefined","G":["$d",["$Le"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"oe_JEa_q4uGB8iOt7rxZB"}
+0:{"P":null,"c":["","notes"],"q":"","i":false,"f":[[["",{"children":["notes",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0-zxi~xkytfab.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0-8b5a8w8do-g.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"name":"theme-color","content":"#fbf3e6"}],["$","link",null,{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              (function() {\n                try {\n                  var saved = localStorage.getItem('theme');\n                  var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;\n                  var theme = saved || (prefersDark ? 'dark' : 'light');\n                  document.documentElement.setAttribute('data-theme', theme);\n                } catch (e) {}\n              })();\n            "}}]]}],["$","body",null,{"children":[[["$","$L2",null,{"id":"google-tag-manager","strategy":"afterInteractive","children":"\n          (function(w,d,s,l,i){\n            w[l]=w[l]||[];\n            w[l].push({'gtm.start': new Date().getTime(), event:'gtm.js'});\n            var f=d.getElementsByTagName(s)[0],\n                j=d.createElement(s),\n                dl=l!='dataLayer'?'&l='+l:'';\n            j.async=true;\n            j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;\n            f.parentNode.insertBefore(j,f);\n          })(window,document,'script','dataLayer','GTM-PDKHPT4');\n        "}],["$","noscript",null,{"children":"$3"}]],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$L6",[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L7",null,{}],["$","$L8",null,{}],["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$9"}}]]}]]}]]}],{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,null]},null,false,null],"$Lc",false]],"m":"$undefined","G":["$d",["$Le"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"jEwiYEbU6nsCUED8sFJBV"}
 10:I[97367,["/_next/static/chunks/0-8b5a8w8do-g.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
 11:"$Sreact.suspense"
 13:I[97367,["/_next/static/chunks/0-8b5a8w8do-g.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
@@ -1420,7 +1420,1281 @@ e:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0-zxi~xkytfab
 1a:I[22016,["/_next/static/chunks/0-8b5a8w8do-g.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0h4smigb-901j.js"],""]
 1b:I[2538,["/_next/static/chunks/0-8b5a8w8do-g.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0h4smigb-901j.js"],"default"]
 1c:I[21404,["/_next/static/chunks/0-8b5a8w8do-g.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0h4smigb-901j.js"],"default"]
-1d:T2516,
+1d:T2ac2,
+<Lede>
+  If an AI security agent becomes part of the SOC workflow, it needs reliability
+  engineering like any other production system.
+</Lede>
+
+The quickest way to make an AI security agent feel unserious is to treat it like
+a demo after it has entered production.
+
+Production has different questions:
+
+- Is it available?
+- Is it slow?
+- Is it making more mistakes this week?
+- Which tool failed?
+- Which prompt version changed?
+- Which model version answered?
+- Which evidence was retrieved?
+- Did it leak sensitive data?
+- Did it skip an approval gate?
+- Did analysts stop trusting it?
+
+If the agent helps triage alerts, enrich incidents, draft response actions, or
+recommend containment, then agent reliability is SOC reliability.
+
+That means observability, metrics, traces, SLOs, failure-mode design, evaluation
+drift monitoring, and incident response for the agent itself.
+
+AI-native security operations need SRE thinking.
+
+## The agent run is the unit of observability.
+
+For normal services, a request is often the unit of observability.
+
+For agents, the useful unit is the run.
+
+An agent run should capture:
+
+- workflow;
+- case ID;
+- triggering input;
+- model version;
+- prompt version;
+- policy version;
+- retrieved evidence;
+- tool calls;
+- tool latency;
+- tool errors;
+- intermediate decisions;
+- final output;
+- approval state;
+- analyst feedback.
+
+OpenTelemetry gives a vendor-neutral framework for traces, metrics, and logs.
+The same concepts map well to agents.
+
+A trace can represent the investigation run.
+
+Spans can represent retrieval, enrichment, model calls, tool calls, and output
+generation.
+
+Logs can capture structured events.
+
+Metrics can track latency, errors, volume, and quality signals.
+
+This makes the agent debuggable.
+
+Without it, every failure becomes a ghost story.
+
+## Agent golden signals.
+
+Google's SRE book describes four golden signals for monitoring distributed
+systems: latency, traffic, errors, and saturation.
+
+AI security agents need those plus security-specific signals.
+
+### Latency.
+
+Measure:
+
+- time to first useful evidence;
+- tool-call latency;
+- model latency;
+- retrieval latency;
+- full run duration;
+- analyst wait time.
+
+SOC workflows are time-sensitive. A beautiful answer that arrives too late is
+not reliable.
+
+### Traffic.
+
+Measure:
+
+- runs per workflow;
+- cases per hour;
+- tool calls per run;
+- model calls per run;
+- retries;
+- escalations.
+
+Traffic helps reveal load and unexpected behavior.
+
+If one workflow suddenly calls a tool 20 times more often, something changed.
+
+### Errors.
+
+Measure:
+
+- tool failures;
+- schema validation failures;
+- retrieval misses;
+- model refusals;
+- timeout rate;
+- policy violations;
+- unsafe-action attempts;
+- malformed outputs.
+
+Errors should be typed.
+
+"The agent failed" is not useful.
+
+### Saturation.
+
+Measure:
+
+- queue depth;
+- rate-limit pressure;
+- connector capacity;
+- model token budget;
+- context-window pressure;
+- evaluator backlog;
+- analyst approval backlog.
+
+Agents can saturate in strange ways. A model may be available while a connector
+is rate-limited. A run may continue while approvals pile up.
+
+## Quality is a reliability signal.
+
+For AI agents, correctness is part of reliability.
+
+Track:
+
+- evidence citation accuracy;
+- unsupported claims;
+- hallucination reports;
+- analyst override rate;
+- recommendation acceptance rate;
+- redaction failures;
+- prompt-injection failures;
+- missing required evidence;
+- stale source usage;
+- action-boundary violations.
+
+These should be treated as production quality metrics.
+
+If the agent becomes faster but less evidence-grounded, reliability went down.
+
+If the agent produces fewer errors but analysts override it more often,
+reliability went down.
+
+If the agent stops citing sources after a prompt change, reliability went down.
+
+## SLOs for AI security agents.
+
+Service-level objectives should match the workflow.
+
+Examples:
+
+- 95 percent of phishing triage runs complete in under 90 seconds.
+- 99 percent of agent actions requiring approval are staged, not executed.
+- 98 percent of high-risk recommendations include at least three evidence links.
+- 0 raw secret disclosures in analyst-visible summaries.
+- 95 percent of identity triage runs include MFA posture when available.
+- 99 percent of tool calls include case ID and actor.
+- 90 percent of analyst corrections are incorporated into reviewed memory within
+  seven days.
+
+Some SLOs are technical.
+
+Some are safety SLOs.
+
+Both matter.
+
+The agent is not reliable if it is fast and unsafe.
+
+## Design for graceful degradation.
+
+SOC agents will lose dependencies.
+
+The identity provider may be slow. The threat intelligence feed may fail. The
+EDR connector may return partial data. The model may hit rate limits. The
+retriever may miss documents. The policy service may reject a tool call.
+
+The agent should degrade clearly.
+
+Good degradation:
+
+- names unavailable sources;
+- marks evidence as incomplete;
+- avoids high-confidence claims;
+- refuses consequential action;
+- suggests manual pivots;
+- retries safe reads;
+- preserves partial context.
+
+Bad degradation:
+
+- hides missing evidence;
+- invents context;
+- continues as if complete;
+- downgrades severity without data;
+- executes action based on partial evidence.
+
+Reliability is not only uptime.
+
+It is honest behavior under failure.
+
+## Version everything.
+
+Agent behavior changes when many things change:
+
+- model;
+- prompt;
+- retriever;
+- embedding model;
+- tool schema;
+- connector;
+- policy;
+- memory;
+- evaluation set;
+- source availability.
+
+Every run should record versions.
+
+This is how you debug regressions.
+
+If analyst overrides doubled after a prompt change, you need to know. If a
+retriever update changed which threat reports appear in context, you need to
+know. If a tool schema changed and the model started passing the wrong ID, you
+need to know.
+
+No versioning means no accountability.
+
+## Incident response for the agent.
+
+If the agent is part of the SOC, the SOC needs a playbook for agent failure.
+
+Examples:
+
+- agent generated unsafe recommendation;
+- agent leaked sensitive data;
+- connector returned wrong data;
+- prompt injection bypassed policy;
+- model drift increased hallucinations;
+- action approval gate failed;
+- audit logs missing;
+- tool called wrong target;
+- agent became unavailable during incident.
+
+Response steps:
+
+- disable affected workflow;
+- preserve run trace;
+- identify versions;
+- revoke tool credentials if needed;
+- review outputs;
+- notify affected teams;
+- correct memory or graph state;
+- add evaluation case;
+- patch tool or policy;
+- run regression suite;
+- restore carefully.
+
+AI reliability and AI safety meet here.
+
+The agent can be the incident.
+
+## Build the reliability dashboard.
+
+A useful dashboard shows:
+
+- runs by workflow;
+- latency percentiles;
+- tool error rates;
+- model error rates;
+- policy violation attempts;
+- approval backlog;
+- evidence completeness;
+- analyst overrides;
+- redaction failures;
+- prompt-injection test pass rate;
+- recent version changes;
+- open reliability incidents.
+
+This dashboard is not for vanity.
+
+It tells the builder-leader whether the agent is becoming more useful or merely
+more active.
+
+Activity is not reliability.
+
+Output is not trust.
+
+Measured behavior is trust's raw material.
+
+## Key takeaways.
+
+Reliable AI security agents need the same seriousness as production
+infrastructure, plus AI-specific safety and quality metrics.
+
+The practical takeaways:
+
+- trace the full agent run, not only individual model calls;
+- capture model, prompt, policy, tool, retriever, and connector versions;
+- measure latency, traffic, errors, and saturation;
+- add AI quality signals such as evidence citation accuracy and unsafe-action
+  attempts;
+- define workflow-specific SLOs;
+- design graceful degradation for missing tools and partial evidence;
+- create incident response playbooks for agent failures;
+- make analyst overrides and corrections part of reliability monitoring.
+
+The key point is simple:
+
+<PullQuote>
+  If the agent influences SOC work, the agent is production infrastructure.
+</PullQuote>
+
+Production infrastructure needs observability.
+
+AI production infrastructure also needs evaluation.
+
+## Final thoughts.
+
+Reliable AI security agents are engineered, not wished into existence.
+
+They need traces, metrics, logs, SLOs, failure modes, versioning, evaluation,
+and incident response.
+
+The SOC should not have to guess whether its agent is working.
+
+The agent should be observable enough to debug, measurable enough to improve,
+and constrained enough to fail safely.
+
+That is what production means.
+
+And if agentic AI is going to become part of security operations, production is
+the only version that matters.
+
+## FAQ.
+
+### What makes an AI security agent reliable?
+
+An AI security agent is reliable when it is available, observable, evidence
+grounded, policy compliant, safe under failure, and consistent enough for
+analysts to trust in real workflows. Reliability includes both technical uptime
+and quality of security decisions.
+
+### What should teams monitor for AI security agents?
+
+Teams should monitor run latency, tool latency, traffic, errors, saturation,
+policy violations, evidence completeness, unsupported claims, analyst overrides,
+redaction failures, prompt-injection failures, approval backlog, and model or
+prompt version changes.
+
+### How does OpenTelemetry apply to AI agents?
+
+OpenTelemetry concepts map naturally to agent runs. A trace can represent the
+full investigation run, spans can represent retrieval, model calls, and tool
+calls, logs can capture structured events, and metrics can track latency,
+errors, volume, and quality signals.
+
+### What are good SLOs for AI SOC agents?
+
+Good SLOs are workflow-specific. Examples include triage completion latency,
+percentage of recommendations with evidence links, zero raw secret disclosures,
+percentage of action tools requiring approval, and percentage of identity
+investigations with MFA posture included when available.
+
+### Why do AI agents need incident response playbooks?
+
+AI agents can fail in security-relevant ways: leaking sensitive data, producing
+unsafe recommendations, calling the wrong tool, mishandling hostile content, or
+losing audit logs. If an agent is part of the SOC, the SOC needs a response
+plan for agent failure.
+
+## Sources.
+
+- [OpenTelemetry documentation](https://opentelemetry.io/docs/)
+- [OpenTelemetry logging specification](https://opentelemetry.io/docs/specs/otel/logs/)
+- [OpenTelemetry metrics concepts](https://opentelemetry.io/docs/concepts/signals/metrics/)
+- [Google SRE: Monitoring Distributed Systems](https://sre.google/sre-book/monitoring-distributed-systems/)
+- [NIST SP 800-61 Rev. 3](https://csrc.nist.gov/pubs/sp/800/61/r3/final)
+- [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
+- [NIST AI 600-1: Generative AI Profile](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf)
+
+<EndMark />
+1e:T2cc9,
+<Lede>
+  Threat intelligence pipelines fail when they treat intelligence as a feed
+  problem. The hard part is turning sources into evidence, context, and
+  decisions.
+</Lede>
+
+Most threat intelligence programs collect more than they operationalize.
+
+They ingest reports, indicators, feeds, vendor notes, blog posts, advisories,
+malware writeups, vulnerability mentions, actor profiles, and community shares.
+
+Then the SOC asks a practical question:
+
+<PullQuote>
+  Does any of this matter to us right now?
+</PullQuote>
+
+That is where many pipelines break.
+
+They can store intelligence.
+
+They can search intelligence.
+
+They can forward indicators.
+
+But they struggle to connect intelligence to internal exposure, detection
+coverage, investigations, and response decisions.
+
+AI can help, but only if the pipeline is designed well. A model can summarize,
+classify, extract entities, compare reports, and draft analyst notes. It should
+not become the source of truth. It should operate inside a pipeline that
+preserves source handling, provenance, confidence, and review.
+
+## Start with source governance.
+
+Before ingestion, define source policy.
+
+Every source should have:
+
+- owner;
+- type;
+- collection method;
+- license or sharing terms;
+- TLP or handling label;
+- confidence defaults;
+- refresh cadence;
+- retention policy;
+- allowed uses;
+- downstream audiences.
+
+This is not bureaucracy.
+
+Threat intelligence can be sensitive, restricted, wrong, stale, or context-free.
+If the AI pipeline ignores source handling, it can leak sensitive intelligence
+or over-promote low-confidence claims.
+
+FIRST's Traffic Light Protocol is useful because it gives teams a common
+language for sharing restrictions. The pipeline should preserve handling labels
+through ingestion, enrichment, summarization, and export.
+
+If the agent writes a summary from restricted intelligence, the summary may need
+the same restriction.
+
+Derived text is not automatically safe.
+
+## Normalize into intelligence objects.
+
+Raw feeds are not enough.
+
+The pipeline should normalize inputs into objects:
+
+- report;
+- indicator;
+- observable;
+- malware;
+- tool;
+- vulnerability;
+- attack pattern;
+- threat actor;
+- intrusion set;
+- campaign;
+- course of action;
+- sighting;
+- relationship;
+- note;
+- opinion.
+
+STIX 2.1 provides a structured language for cyber threat intelligence. TAXII
+2.1 provides a protocol for exchanging STIX content. OpenCTI builds on a
+knowledge-graph model and uses STIX concepts. MISP provides sharing,
+correlation, analyst collaboration, and operational intelligence workflows.
+
+Those systems point toward the same principle:
+
+<PullQuote>
+  Threat intelligence should be structured enough to relate, not merely stored
+  enough to search.
+</PullQuote>
+
+AI extraction should map raw text into this structure.
+
+But extraction should be reviewed, scored, and source-linked.
+
+## Entity extraction is not understanding.
+
+LLMs are good at extracting:
+
+- domains;
+- IPs;
+- hashes;
+- CVEs;
+- file paths;
+- email addresses;
+- malware names;
+- actor names;
+- tool names;
+- ATT&CK techniques.
+
+That is useful.
+
+It is not understanding.
+
+Understanding requires relationships:
+
+- domain used by campaign;
+- malware associated with intrusion set;
+- CVE exploited in the wild;
+- hash related to sample;
+- technique observed in report;
+- infrastructure overlaps with prior cluster;
+- indicator sighted in internal telemetry;
+- course of action mitigates behavior.
+
+The pipeline should separate entity extraction from relationship assertion.
+
+Extracted entity:
+
+```
+domain: login-example-security.com
+```
+
+Relationship assertion:
+
+```
+domain login-example-security.com was used in phishing campaign X according to
+source Y, confidence medium.
+```
+
+The second statement needs provenance and confidence.
+
+## Retrieval should be task-specific.
+
+Do not build one generic threat-intel search and call it done.
+
+Different workflows need different retrieval.
+
+Indicator triage:
+
+- known reputation;
+- first seen;
+- last seen;
+- related malware;
+- internal sightings;
+- source confidence;
+- benign context.
+
+Vulnerability prioritization:
+
+- CVE;
+- affected products;
+- exploit availability;
+- exploitation in the wild;
+- CISA KEV status;
+- asset exposure;
+- business criticality.
+
+Campaign research:
+
+- TTPs;
+- infrastructure;
+- malware;
+- victims;
+- timeline;
+- confidence;
+- contradictions.
+
+Detection engineering:
+
+- observed behavior;
+- data sources;
+- ATT&CK mapping;
+- Sigma or query examples;
+- false-positive notes.
+
+The AI layer should retrieve for the question being asked.
+
+Threat intelligence is not one pile.
+
+It is a set of task-specific contexts.
+
+## Enrichment should connect to the business.
+
+External intelligence becomes operational when it connects to internal reality.
+
+Enrichment should answer:
+
+- have we seen this indicator?
+- do we run the affected product?
+- is the asset internet-facing?
+- who owns it?
+- does a detection exist?
+- has a similar case happened before?
+- is the account privileged?
+- is the control already in place?
+- is the data sensitive?
+
+The pipeline should join threat intelligence with:
+
+- SIEM sightings;
+- EDR telemetry;
+- DNS logs;
+- proxy logs;
+- identity logs;
+- asset inventory;
+- vulnerability data;
+- detection catalog;
+- incident history;
+- business service inventory.
+
+AI can help summarize these joins.
+
+The joins themselves should be evidence-backed.
+
+## Summaries need citations and uncertainty.
+
+AI-generated threat summaries are useful when they are constrained.
+
+A good summary says:
+
+- what the intelligence says;
+- which sources support it;
+- what is relevant internally;
+- what confidence level applies;
+- what is unknown;
+- what action is recommended.
+
+A bad summary says:
+
+<PullQuote>
+  This actor is targeting us and we should block everything immediately.
+</PullQuote>
+
+without evidence.
+
+Threat intel is full of uncertainty. Attribution is hard. Indicators expire.
+Infrastructure is reused. Reports contradict each other. Vendor names differ.
+Actor labels are messy.
+
+The AI pipeline should preserve this mess instead of smoothing it into false
+certainty.
+
+## Analyst review is a pipeline stage.
+
+Analyst review should not be an afterthought.
+
+It should be a stage:
+
+- approve extracted entities;
+- confirm relationships;
+- mark false positives;
+- adjust confidence;
+- add local context;
+- set handling labels;
+- publish to downstream systems;
+- reject low-quality intelligence.
+
+AI can prepare the work.
+
+Analysts should decide what becomes operational.
+
+This is especially important for:
+
+- actor attribution;
+- high-impact advisories;
+- broad blocking recommendations;
+- executive summaries;
+- customer-facing language;
+- legal or privacy-sensitive findings.
+
+The goal is not to remove analysts.
+
+The goal is to reduce their clerical load while preserving judgment.
+
+## A reference pipeline.
+
+A practical AI threat intelligence pipeline:
+
+1. Register source and handling rules.
+2. Ingest raw content.
+3. Preserve original artifact.
+4. Extract entities.
+5. Normalize into intelligence objects.
+6. Propose relationships with confidence.
+7. Enrich with internal telemetry and assets.
+8. Generate task-specific summary.
+9. Route to analyst review.
+10. Publish approved intelligence.
+11. Track downstream outcomes.
+12. Learn from feedback.
+
+Each step should be observable.
+
+Each generated claim should trace back to source evidence.
+
+Each sensitive output should respect handling rules.
+
+## Metrics that matter.
+
+Measure the pipeline by usefulness:
+
+- source freshness;
+- extraction accuracy;
+- relationship approval rate;
+- analyst rejection rate;
+- internal sighting match rate;
+- duplicate reduction;
+- time from report to operational summary;
+- detections created from intelligence;
+- incidents enriched by intelligence;
+- expired indicators removed;
+- handling-label violations;
+- summaries with evidence citations.
+
+Do not measure only volume.
+
+High-volume intelligence is often low-value intelligence.
+
+The useful pipeline is the one that turns selected intelligence into decisions.
+
+## Key takeaways.
+
+An AI threat intelligence pipeline should not be judged by how much content it
+ingests.
+
+It should be judged by how well it turns intelligence into operational context.
+
+The core design principles:
+
+- govern sources before ingestion;
+- preserve TLP and handling labels through derived summaries;
+- normalize raw text into structured intelligence objects;
+- separate entity extraction from relationship assertion;
+- attach confidence and provenance to claims;
+- retrieve context based on the analyst's task;
+- enrich external intelligence with internal telemetry and assets;
+- route high-impact outputs through analyst review;
+- track downstream outcomes, not just feed volume.
+
+The AI layer is useful for extraction, summarization, comparison, and drafting.
+
+The pipeline layer is responsible for truth management.
+
+That distinction is what keeps AI-assisted threat intelligence from becoming a
+faster rumor engine.
+
+## Final thoughts.
+
+AI threat intelligence pipelines should not be feed accelerators.
+
+They should be context builders.
+
+The builder-leader move is to design the pipeline around source governance,
+structured objects, relationship confidence, internal enrichment, analyst
+review, and handling rules.
+
+AI can make the pipeline faster.
+
+Architecture makes it trustworthy.
+
+That is the difference between an IOC pile and operational intelligence.
+
+## FAQ.
+
+### What is an AI threat intelligence pipeline?
+
+An AI threat intelligence pipeline is a workflow that uses AI to help ingest,
+extract, normalize, enrich, summarize, and route threat intelligence while
+preserving source handling, provenance, confidence, and analyst review.
+
+### Why is source governance important in threat intelligence?
+
+Threat intelligence can be sensitive, restricted, stale, inaccurate, or
+misinterpreted. Source governance defines ownership, handling labels, retention,
+allowed uses, confidence defaults, and downstream sharing rules before the data
+is processed by AI systems.
+
+### How should AI use STIX and TAXII?
+
+AI can help extract and map raw intelligence into STIX-like objects and
+relationships, while TAXII can support structured exchange between systems. The
+model should not invent unsupported relationships; it should preserve evidence,
+confidence, and source references.
+
+### What is the difference between an indicator feed and operational intelligence?
+
+An indicator feed lists observables such as domains, IPs, hashes, or URLs.
+Operational intelligence connects those observables to context: internal
+sightings, affected assets, detection coverage, source confidence, business
+impact, and recommended action.
+
+### What should builder-leaders measure in an AI threat intelligence pipeline?
+
+Useful metrics include extraction accuracy, relationship approval rate,
+internal sighting match rate, analyst rejection rate, time from report to
+operational summary, detections created, expired indicators removed, and
+handling-label violations.
+
+## Sources.
+
+- [OASIS: STIX 2.1 and TAXII 2.1 standards](https://www.oasis-open.org/2021/06/23/stix-v2-1-and-taxii-v2-1-oasis-standards-are-published/)
+- [TAXII 2.1 specification](https://docs.oasis-open.org/cti/taxii/v2.1/taxii-v2.1.html)
+- [OpenCTI documentation](https://docs.opencti.io/latest/)
+- [MISP features](https://www.misp-project.org/features/)
+- [FIRST Traffic Light Protocol](https://www.first.org/tlp/)
+- [MITRE ATT&CK](https://attack.mitre.org/)
+
+<EndMark />
+1f:T2eb2,
+<Lede>
+  Agentic SOC systems need memory, but not the soft kind. They need a structured
+  graph of entities, evidence, relationships, and decisions.
+</Lede>
+
+Most SOC tools remember badly.
+
+They remember alerts as rows.
+
+They remember incidents as tickets.
+
+They remember detections as rules.
+
+They remember threat intelligence as indicators.
+
+They remember assets as inventory.
+
+They remember identity as directory objects.
+
+Then the analyst has to remember how all of it connects.
+
+That is the problem a SOC knowledge graph should solve. Not because graphs are
+fashionable, but because security investigations are relationship problems.
+
+An alert is rarely the whole story. A suspicious login matters because of the
+user, device, session, application, privilege, location, exposure history, and
+similar past cases. A domain matters because of DNS history, certificate reuse,
+campaign context, internal sightings, and detections that fired. A vulnerability
+matters because of asset ownership, exploitability, internet exposure, business
+criticality, and active threat context.
+
+Agentic AI makes this more important.
+
+If an agent is expected to investigate, it needs somewhere structured to put the
+investigation.
+
+## The graph is not the source of truth.
+
+The first design rule: the SOC knowledge graph is not the source of truth.
+
+The source of truth is still the system that produced the evidence:
+
+- identity provider;
+- EDR;
+- SIEM;
+- cloud platform;
+- vulnerability scanner;
+- asset inventory;
+- threat intelligence platform;
+- ticketing system;
+- code scanner;
+- exposure monitoring source.
+
+The graph is the relationship layer.
+
+It should preserve pointers to original evidence, not pretend to replace every
+source system. This matters because SOC data changes. Users are deprovisioned.
+Sessions expire. Assets move. Alerts close. Vulnerabilities are remediated.
+Threat intelligence is corrected.
+
+The graph should know:
+
+- what was observed;
+- where it came from;
+- when it was observed;
+- how confident the relationship is;
+- whether the relationship is current;
+- which analyst or system confirmed it;
+- which source should be checked for live state.
+
+This distinction keeps the graph useful without turning it into a stale mirror
+of the SOC.
+
+## The core entities.
+
+A practical SOC graph should begin with a small set of entities.
+
+Start with the nouns that appear in investigations:
+
+- user;
+- account;
+- role;
+- session;
+- device;
+- host;
+- cloud resource;
+- application;
+- service;
+- domain;
+- IP address;
+- URL;
+- file hash;
+- email;
+- secret;
+- vulnerability;
+- alert;
+- case;
+- detection;
+- threat actor;
+- intrusion set;
+- malware;
+- campaign;
+- ATT&CK technique;
+- business service;
+- owner;
+- evidence item.
+
+Do not start by modeling the whole universe.
+
+Start with the entities analysts pivot across every day.
+
+Then define relationships:
+
+- user owns device;
+- account has role;
+- session accessed application;
+- alert involves host;
+- vulnerability affects asset;
+- indicator seen in telemetry;
+- detection maps to technique;
+- case contains evidence;
+- domain resolves to IP;
+- secret belongs to service;
+- asset supports business service;
+- analyst confirmed relationship.
+
+The graph becomes useful when relationships are typed and explainable.
+
+## Evidence must be first-class.
+
+A SOC graph without evidence is just a rumor machine.
+
+Every meaningful edge should have provenance:
+
+- source;
+- timestamp;
+- collector;
+- query or event ID;
+- confidence;
+- handling label;
+- expiration if applicable;
+- raw evidence pointer.
+
+For example:
+
+```
+edge:
+  from: user:prince@example.com
+  relationship: authenticated_from
+  to: ip:203.0.113.10
+  observed_at: 2026-06-07T05:31:00Z
+  source: idp.signin_log
+  evidence_id: signin-923884
+  confidence: high
+```
+
+That edge is useful because it can be inspected.
+
+The agent can say:
+
+<PullQuote>
+  This user authenticated from this IP because the identity provider sign-in log
+  recorded it at this time.
+</PullQuote>
+
+That is very different from:
+
+<PullQuote>
+  The graph says they are connected.
+</PullQuote>
+
+Agents need the first kind of answer.
+
+## Confidence is not decoration.
+
+Security graphs contain relationships with different certainty.
+
+Examples:
+
+- exact user ID match: high confidence;
+- email alias match: medium confidence;
+- fuzzy name match: low confidence;
+- threat actor attribution: often low or medium confidence;
+- indicator from a high-quality internal log: high confidence;
+- forum claim: low confidence until corroborated.
+
+The graph should model confidence explicitly.
+
+It should also model relationship status:
+
+- observed;
+- inferred;
+- analyst-confirmed;
+- analyst-rejected;
+- expired;
+- contradicted.
+
+This matters for agentic systems because agents can over-flatten uncertainty.
+
+If a graph says "domain related to campaign" without confidence, a model may
+write a confident case summary that overstates attribution. If the graph says
+"relationship inferred from one low-confidence source," the model has a better
+chance of preserving caution.
+
+## Use standards where they help.
+
+Cyber threat intelligence already has useful graph-shaped standards.
+
+STIX 2.1 provides a language and serialization format for cyber threat
+intelligence. TAXII 2.1 provides a protocol for exchanging that intelligence.
+OpenCTI uses a knowledge graph model and is based on STIX 2.1. MISP supports
+sharing, storing, correlating, and collaborating on indicators and analysis.
+
+Use those ideas.
+
+Do not blindly force every SOC object into STIX if it does not fit cleanly.
+
+Internal SOC graphs often need local objects:
+
+- business service;
+- service owner;
+- incident commander;
+- deployment pipeline;
+- cloud account;
+- SaaS tenant;
+- detection owner;
+- agent action;
+- approval request;
+- analyst correction.
+
+The right approach is hybrid:
+
+- use STIX-friendly modeling for threat intelligence;
+- use ATT&CK for tactics, techniques, and data-source thinking;
+- use local schemas for operational objects;
+- keep mappings explicit.
+
+Standards create interoperability.
+
+Local models create usefulness.
+
+You need both.
+
+## How agents should use the graph.
+
+The graph should support investigation workflows.
+
+Example: suspicious login.
+
+The agent should query:
+
+- user;
+- account status;
+- role and privilege;
+- active sessions;
+- source IP;
+- previous sign-in locations;
+- device history;
+- credential exposure;
+- related alerts;
+- prior cases;
+- business service access.
+
+The output should not be a giant graph visualization.
+
+It should be an investigation workspace:
+
+- key entities;
+- evidence table;
+- relationship map;
+- risk factors;
+- unresolved questions;
+- recommended next steps.
+
+For threat intel:
+
+- indicator sightings;
+- related infrastructure;
+- campaign links;
+- source confidence;
+- internal exposure;
+- detection coverage;
+- handling labels.
+
+For vulnerability response:
+
+- affected assets;
+- exploit evidence;
+- internet exposure;
+- business owner;
+- patch status;
+- compensating controls;
+- related incidents.
+
+Agents should use the graph to reduce pivots, not to impress people with a hairball.
+
+## Analyst feedback is graph maintenance.
+
+Every analyst correction is valuable graph data.
+
+When an analyst says:
+
+- this is a false positive;
+- this user is the same person;
+- this alias is wrong;
+- this asset owner changed;
+- this detection is noisy;
+- this indicator is benign in our environment;
+- this case is related to that case;
+
+the graph should learn.
+
+But it should learn with governance:
+
+- who made the correction;
+- when;
+- confidence;
+- expiration;
+- affected edges;
+- review requirement.
+
+Do not let a casual correction become permanent global truth.
+
+Security memory should be editable, inspectable, and reversible.
+
+## Graph quality metrics.
+
+Measure the graph like a product.
+
+Useful metrics:
+
+- percentage of cases with complete entity mapping;
+- evidence-backed edge ratio;
+- stale edge count;
+- analyst correction rate;
+- rejected inference rate;
+- unknown owner count;
+- orphaned assets;
+- duplicate identity clusters;
+- relationship confidence distribution;
+- time to build investigation context;
+- graph queries used per case.
+
+The goal is not the largest graph.
+
+The goal is the graph that makes investigations faster and safer.
+
+## Key takeaways.
+
+A SOC knowledge graph is useful when it improves investigation work, not when it
+looks impressive in a visualization.
+
+The practical takeaways:
+
+- start with the entities analysts already pivot across;
+- make evidence a first-class object;
+- attach provenance to important relationships;
+- model confidence and relationship status explicitly;
+- use STIX, TAXII, OpenCTI, MISP, and ATT&CK where they fit;
+- keep local operational objects for things standards do not model well;
+- preserve analyst corrections as governed graph updates;
+- measure graph quality by investigation speed, evidence coverage, and
+  correction rate.
+
+This is the difference between a graph as a diagram and a graph as SOC
+infrastructure.
+
+For AI-native security operations, the graph should answer:
+
+<PullQuote>
+  What is connected, why do we believe it, how confident are we, and what should
+  the agent inspect next?
+</PullQuote>
+
+That is the question worth optimizing for.
+
+## Final thoughts.
+
+AI-native security operations need more than chat memory.
+
+They need operational memory.
+
+A SOC knowledge graph can provide that memory if it is built around evidence,
+provenance, confidence, and analyst correction.
+
+The builder-leader move is to resist the fantasy graph and build the useful
+one:
+
+- small enough to maintain;
+- rich enough to investigate;
+- honest enough to preserve uncertainty;
+- structured enough for agents;
+- inspectable enough for analysts.
+
+That is how a SOC graph becomes infrastructure.
+
+Not a diagram.
+
+Infrastructure.
+
+## FAQ.
+
+### What is a SOC knowledge graph?
+
+A SOC knowledge graph is a structured relationship layer that connects security
+entities such as users, accounts, devices, alerts, indicators, vulnerabilities,
+assets, detections, cases, and threat intelligence. Its value comes from
+evidence-backed relationships, provenance, confidence, and analyst feedback.
+
+### Why do agentic SOC systems need a knowledge graph?
+
+Agentic SOC systems need structured context to investigate safely. A knowledge
+graph helps an agent retrieve related entities, understand relationships,
+preserve evidence, avoid repeated pivots, and explain why it believes two
+security objects are connected.
+
+### Is a SOC knowledge graph the source of truth?
+
+No. The graph should usually be the relationship layer, not the source of truth.
+Live state should remain in systems like the identity provider, SIEM, EDR, cloud
+platform, vulnerability scanner, and ticketing system. The graph should preserve
+evidence pointers and relationship context.
+
+### How is a SOC graph different from a threat intelligence graph?
+
+A threat intelligence graph often focuses on indicators, malware, campaigns,
+actors, intrusion sets, attack patterns, and reports. A SOC graph also needs
+operational objects: users, sessions, devices, assets, business services,
+detections, approvals, cases, and analyst decisions.
+
+### What should builder-leaders measure in a SOC knowledge graph?
+
+Measure investigation usefulness: time to context, evidence-backed edge ratio,
+stale relationship count, analyst correction rate, entity mapping completeness,
+orphaned assets, duplicate identities, and how often the graph improves case
+triage.
+
+## Sources.
+
+- [OASIS: STIX 2.1 and TAXII 2.1 standards](https://www.oasis-open.org/2021/06/23/stix-v2-1-and-taxii-v2-1-oasis-standards-are-published/)
+- [TAXII 2.1 specification](https://docs.oasis-open.org/cti/taxii/v2.1/taxii-v2.1.html)
+- [OpenCTI documentation](https://docs.opencti.io/latest/usage/getting-started/)
+- [MISP features](https://www.misp-project.org/features/)
+- [MITRE ATT&CK](https://attack.mitre.org/)
+- [FIRST Traffic Light Protocol](https://www.first.org/tlp/)
+
+<EndMark />
+20:T2516,
 <Lede>
   Agentic incident response is not autonomous panic. It is structured delegation
   inside a response system that preserves evidence and keeps humans in control.
@@ -1820,7 +3094,7 @@ By making judgment faster, better informed, and easier to review.
 - [OWASP MCP Top 10](https://owasp.org/www-project-mcp-top-10/)
 
 <EndMark />
-1e:T256c,
+21:T256c,
 <Lede>
   Modern intrusions often look like normal users doing abnormal things. That
   makes identity the center of the AI-native SOC.
@@ -2202,7 +3476,7 @@ That is the shape of modern security operations.
 - [CISA Zero Trust](https://www.cisa.gov/topics/cybersecurity-best-practices/zero-trust)
 
 <EndMark />
-1f:T2292,
+22:T2292,
 <Lede>
   An AI SOC agent should not graduate to production because it gave three
   impressive demos. It should graduate because it survived evaluation.
@@ -2545,7 +3819,7 @@ By being reliable repeatedly.
 - [NIST SP 800-61 Rev. 3](https://csrc.nist.gov/pubs/sp/800/61/r3/final)
 
 <EndMark />
-20:T26ae,
+23:T26ae,
 <Lede>
   AI can help write detections, but detection engineering is still an evidence
   discipline, not a prompt trick.
@@ -2908,7 +4182,7 @@ That is the version worth building.
 - [OpenTelemetry documentation](https://opentelemetry.io/docs/)
 
 <EndMark />
-21:T2a33,
+24:T2a33,
 <Lede>
   Agentic AI in the SOC becomes dangerous when tools are treated like plugins
   instead of production security interfaces.
@@ -3290,7 +4564,7 @@ By becoming precise.
 - [OpenTelemetry documentation](https://opentelemetry.io/docs/)
 
 <EndMark />
-22:T5f9b,
+25:T5f9b,
 <Lede>
   The best AI cybersecurity talk right now is not about replacing analysts. It
   is about rebuilding the SOC around evidence, workflow, trust, and controlled
@@ -4095,7 +5369,7 @@ needed to use AI safely in cybersecurity.
 - [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications)
 
 <EndMark />
-23:T5f24,
+26:T5f24,
 <Lede>
   Modern security operations are not failing because analysts are lazy. They are
   failing because the operating model was designed around queues, dashboards,
@@ -5118,7 +6392,7 @@ But when the action matters, the human should still be able to ask:
 That is the real test of an AI-native security operations platform.
 
 <EndMark />
-24:T82c0,
+27:T82c0,
 <Lede>
   Dark web exposure work is not a search problem. It is an evidence handling
   problem wearing a black hoodie.
@@ -6262,7 +7536,7 @@ and an investigation workflow that analysts can actually trust.
 - [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 
 <EndMark />
-25:Ta0f,
+28:Ta0f,
 <Lede>
   Modern AI systems are increasingly becoming workflow systems rather than
   standalone model integrations.
@@ -6369,7 +7643,7 @@ increasingly important.
 Operational AI is ultimately about coordinating intelligence at scale.
 
 <EndMark />
-26:T863e,
+29:T863e,
 <Lede>
   Security investigations are not search problems. They are evidence problems.
 </Lede>
@@ -7643,7 +8917,7 @@ One that is willing to say “unknown.”
 In security, that may be the most intelligent answer a system can give.
 
 <EndMark />
-27:T7e9,
+2a:T7e9,
 <Lede>
   AI systems are often evaluated only on model quality.
 </Lede>
@@ -7745,7 +9019,7 @@ The future of AI platforms will be defined not only by intelligence but by:
 Operational AI requires operational engineering discipline.
 
 <EndMark />
-28:T823,
+2b:T823,
 <Lede>
   Enterprise AI systems become valuable only when they integrate deeply into
   operational workflows.
@@ -7833,7 +9107,7 @@ The most successful systems will not operate independently.
 They will function as deeply connected operational ecosystems.
 
 <EndMark />
-29:T127c,
+2c:T127c,
 <Lede>
   If you spend long enough building with LLMs, you notice something quiet:
   the <em>model</em> almost never becomes the hard part. The hard part is
@@ -7938,7 +9212,7 @@ model will catch up.
     <li>I am also wrong about this approximately 30% of the time. The other 70% feels worth planning for.</li>
   </ol>
 </Footnotes>
-2a:T1505,
+2d:T1505,
 <Lede>
   For most of the last fifteen years, the rule was simple: if you wanted
   search, you ran <em>Elasticsearch</em>, or one of its descendants,
@@ -8075,7 +9349,7 @@ please write me.</em>
     <li>All numbers are from a real 2026 workload. AWS pricing changes; <em>do your own math</em>; the shape will be similar.</li>
   </ol>
 </Footnotes>
-f:["$","main",null,{"className":"notes-page","children":[["$","div",null,{"className":"top","children":[["$","div",null,{"className":"notes-top-left","children":[["$","$L1a",null,{"href":"/","className":"back-link","children":[["$","span",null,{"className":"arr","children":"←"}]," ","back to the portfolio"]}],["$","div",null,{"className":"crumbs","children":[["$","span",null,{"children":"portfolio"}],["$","span",null,{"className":"sep","children":"/"}],["$","b",null,{"children":"notes"}]]}]]}],["$","$L1b",null,{}]]}],["$","section",null,{"className":"notes-hero","children":[["$","aside",null,{"className":"currently","children":[["$","h4",null,{"children":"now writing"}],["$","p",null,{"children":[["$","span",null,{"className":"live"}],["$","em",null,{"children":"\"the boring case for boring infrastructure.\""}]," — about ",["$","span",null,{"style":{"color":"var(--red)"},"children":"73% done."}]]}]]}],["$","span",null,{"className":"kicker","children":"— a small writing room."}],["$","h1",null,{"children":["$","em",null,{"children":"Notes."}]}],["$","p",null,{"className":"lead","children":["Half essay, half ",["$","em",null,{"children":"marginalia."}]," ","Mostly about AI agents, security systems, the boring details that make products actually work, and what I've learned by writing it down. New entries land here when they're ready."]}]]}],["$","$L1c",null,{"filters":[{"key":"all","label":"all","count":19},{"key":"ai","label":"ai & agents","count":16},{"key":"security","label":"security","count":11},{"key":"infrastructure","label":"infrastructure","count":6},{"key":"opinions","label":"opinions","count":5},{"key":"drafts","label":"drafts","count":2}],"notes":[{"number":"019","title":"Agentic incident response playbooks","titleHtml":"<em>Agentic incident response</em> playbooks.","headingHtml":"<em>Agentic incident response</em><br/><span class=\"red\">playbooks</span>.","description":"A detailed architecture guide for agentic incident response playbooks: NIST CSF 2.0, evidence handling, containment staging, human approvals, AI collaboration, TLP, and post-incident learning.","ogDescription":"How to design agentic incident response playbooks with evidence, containment staging, approvals, collaboration, TLP handling, and post-incident learning.","date":"2026-06-05","displayDate":"2026 · 06 · 05","readTime":"13 min","quirk":"-- or one incident bridge with fewer tabs","excerptHtml":"Agentic incident response is not autonomous panic. It is structured delegation inside a response system that preserves evidence and keeps humans in control.","dekHtml":"A builder-leader architecture for AI-assisted incident response: typed playbooks, evidence ledgers, approval gates, collaboration rules, and recovery memory.","tags":["ai","security","secops","incident-response","agents"],"featured":true,"tableOfContents":true,"nextSlug":"identity-first-ai-soc","slug":"agentic-incident-response-playbooks","href":"/notes/agentic-incident-response-playbooks","content":"$1d","draft":false},{"number":"018","title":"The identity-first AI SOC","titleHtml":"The <em>identity-first</em> AI SOC.","headingHtml":"The <em>identity-first</em><br/><span class=\"red\">AI SOC</span>.","description":"A technical guide to building identity-first AI security operations: valid accounts, phishing-resistant MFA, session risk, credential exposure, entity resolution, zero trust, and agent-assisted investigation.","ogDescription":"Identity-first AI SOC architecture: valid accounts, MFA posture, credential exposure, entity resolution, session risk, and zero trust investigation workflows.","date":"2026-06-05","displayDate":"2026 · 06 · 05","readTime":"13 min","quirk":"-- or one valid account caught early","excerptHtml":"Modern intrusions often look like normal users doing abnormal things. That makes identity the center of the AI-native SOC.","dekHtml":"How to design AI-assisted security operations around identities, sessions, privileges, credential exposure, authentication strength, and zero trust context.","tags":["ai","security","secops","identity","building"],"tableOfContents":true,"nextSlug":"evaluating-ai-soc-agents","slug":"identity-first-ai-soc","href":"/notes/identity-first-ai-soc","content":"$1e","draft":false,"featured":false},{"number":"017","title":"How to evaluate AI SOC agents before production","titleHtml":"How to evaluate <em>AI SOC agents</em> before production.","headingHtml":"How to evaluate<br/><span class=\"red\">AI SOC agents</span> before production.","description":"A detailed evaluation framework for AI SOC agents: golden cases, tool-call testing, prompt-injection tests, evidence scoring, false-positive handling, analyst trust, and production readiness.","ogDescription":"How to evaluate AI SOC agents before production using evidence tests, tool-call tests, prompt-injection scenarios, analyst review, and operational metrics.","date":"2026-06-05","displayDate":"2026 · 06 · 05","readTime":"12 min","quirk":"-- or one confident hallucination caught","excerptHtml":"An AI SOC agent should not graduate to production because it gave three impressive demos. It should graduate because it survived evaluation.","dekHtml":"A practical framework for testing AI security agents against real workflows, hostile inputs, tool boundaries, evidence quality, and analyst trust.","tags":["ai","security","secops","agents","evaluation"],"tableOfContents":true,"nextSlug":"detection-engineering-ai-native-soc","slug":"evaluating-ai-soc-agents","href":"/notes/evaluating-ai-soc-agents","content":"$1f","draft":false,"featured":false},{"number":"016","title":"Detection engineering for an AI-native SOC","titleHtml":"Detection engineering for an <em>AI-native SOC</em>.","headingHtml":"Detection engineering<br/>for an <span class=\"red\">AI-native SOC</span>.","description":"A technical guide to detection engineering in AI-native security operations: ATT&CK mapping, data sources, Sigma, OCSF, telemetry quality, AI-assisted rule writing, testing, and feedback loops.","ogDescription":"AI-native SOC detection engineering: how to design detections around telemetry, ATT&CK data sources, Sigma, OCSF, tests, and analyst feedback.","date":"2026-06-05","displayDate":"2026 · 06 · 05","readTime":"13 min","quirk":"-- or one noisy rule retired","excerptHtml":"AI can help write detections, but detection engineering is still an evidence discipline, not a prompt trick.","dekHtml":"How builder-leaders should design AI-assisted detection engineering around telemetry quality, normalized schemas, ATT&CK data components, test cases, and production feedback.","tags":["ai","security","secops","detection","building"],"tableOfContents":true,"nextSlug":"securing-agentic-ai-tools-for-soc","slug":"detection-engineering-ai-native-soc","href":"/notes/detection-engineering-ai-native-soc","content":"$20","draft":false,"featured":false},{"number":"015","title":"Securing agentic AI tools for the SOC","titleHtml":"Securing <em>agentic AI tools</em> for the SOC.","headingHtml":"Securing <em>agentic AI tools</em><br/>for the <span class=\"red\">SOC</span>.","description":"A technical architecture guide for securing agentic AI tools in security operations: permissions, tool schemas, MCP risks, prompt injection, evidence boundaries, audit logs, and approval gates.","ogDescription":"How to secure agentic AI tools for the SOC: least agency, scoped tools, MCP risks, prompt injection defenses, approvals, and auditability.","date":"2026-06-05","displayDate":"2026 · 06 · 05","readTime":"12 min","quirk":"-- or one overpowered tool avoided","excerptHtml":"Agentic AI in the SOC becomes dangerous when tools are treated like plugins instead of production security interfaces.","dekHtml":"A builder's guide to designing SOC agents with narrow permissions, typed tools, hostile-input handling, approval gates, and evidence-preserving audit trails.","tags":["ai","security","secops","agents","building"],"tableOfContents":true,"nextSlug":"agentic-ai-soc-speaker","slug":"securing-agentic-ai-tools-for-soc","href":"/notes/securing-agentic-ai-tools-for-soc","content":"$21","draft":false,"featured":false},{"number":"014","title":"Agentic AI in the SOC: the builder-leader talk security teams need now","titleHtml":"Agentic AI in the <em>SOC</em>: the builder-leader talk security teams need now.","headingHtml":"Agentic AI in the <em>SOC</em>:<br/><span class=\"red\">the builder-leader talk security teams need now</span>.","description":"A keynote-style field guide from a builder-leader on agentic AI in the SOC, AI-native security operations, cybersecurity leadership, analyst trust, and modern SecOps architecture.","ogDescription":"Agentic AI in the SOC from a builder-leader perspective: what security leaders, builders, and conference audiences need to understand about AI-native security operations.","date":"2026-06-05","displayDate":"2026 · 06 · 05","readTime":"15 min","quirk":"-- or one panel question answered early","excerptHtml":"The best AI cybersecurity talk right now is not about replacing analysts. It is about rebuilding the SOC around evidence, workflow, trust, and controlled agentic systems, from someone who can build and lead the work.","dekHtml":"A builder-leader field guide for security teams trying to understand agentic AI, SOC modernization, AI-native cybersecurity, and what should actually be built.","tags":["ai","security","secops","agents","speaking","building","leadership"],"featured":true,"tableOfContents":true,"nextSlug":"ai-native-secops-platform","slug":"agentic-ai-soc-speaker","href":"/notes/agentic-ai-soc-speaker","content":"$22","draft":false},{"number":"013","title":"Rethinking SecOps: designing an AI-native security operations platform","titleHtml":"Rethinking <em>SecOps</em>: designing an AI-native security operations platform.","headingHtml":"Rethinking <em>SecOps</em>:<br/><span class=\"red\">AI-native</span> security operations.","description":"A detailed architecture note on designing AI-native SecOps platforms for investigation, triage, telemetry, detection engineering, workflow orchestration, and human-supervised response.","ogDescription":"How to design AI-native SecOps platforms: alert intake, evidence, correlation, workflows, detection engineering, safety, evaluation, and analyst trust.","date":"2026-05-26","displayDate":"2026 · 05 · 26","readTime":"17 min","quirk":"— or one alert queue avoided","excerptHtml":"Traditional security platforms were built around dashboards and queues. AI-native SecOps platforms need evidence, workflow memory, typed actions, guardrails, and analyst control.","dekHtml":"Security operations do not need one more dashboard. They need systems that reason across context, orchestrate evidence, and keep humans in control of consequential action.","tags":["ai","security","secops","building"],"featured":true,"tableOfContents":true,"nextSlug":"darkweb-exposure-agent","slug":"ai-native-secops-platform","href":"/notes/ai-native-secops-platform","content":"$23","draft":false},{"number":"012","title":"Building a dark web exposure intelligence agent","titleHtml":"Building a dark web <em>exposure intelligence</em> agent.","headingHtml":"Building a dark web<br/><span class=\"red\">exposure</span> intelligence agent.","description":"A detailed architecture note on building dark web exposure intelligence agents for credential leaks, stealer logs, breach data, identity risk, enrichment, triage, and analyst-safe remediation.","ogDescription":"Dark web exposure intelligence agents: entity resolution, breach context, credential risk, source handling, safety guardrails, and operational response.","date":"2026-05-26","displayDate":"2026 · 05 · 26","readTime":"16 min","quirk":"— or one leaked credential panic avoided","excerptHtml":"Dark web exposure work is not just searching shady indexes. It is entity resolution, evidence handling, identity risk, source confidence, privacy discipline, and response orchestration.","dekHtml":"A practical architecture map for turning breach data, stealer logs, credential exposure, and external intelligence into analyst-grade operational decisions.","tags":["ai","security","threat-intel","agents"],"tableOfContents":true,"nextSlug":"langflow-workflow-engineering","slug":"darkweb-exposure-agent","href":"/notes/darkweb-exposure-agent","content":"$24","draft":false,"featured":false},{"number":"011","title":"Engineering AI workflow systems with Langflow","titleHtml":"Engineering AI workflow systems with <em>Langflow</em>.","headingHtml":"Engineering AI<br/><span class=\"red\">workflow</span> systems with Langflow.","description":"Most production AI systems are workflow systems. The model is only one node in a larger orchestration problem.","ogDescription":"A note on Langflow, conditional routing, parallel processing, and production AI orchestration.","date":"2026-05-23","displayDate":"2026 · 05 · 23","readTime":"4 min","quirk":"— or three conditional edges","excerptHtml":"Modern AI systems are increasingly becoming workflow systems rather than standalone model integrations. The workflow engine becomes the backbone of <em>operational AI</em>.","dekHtml":"On conditional routing, parallel execution, failure handling, and the quiet truth that most AI engineering is orchestration engineering.","tags":["ai","agents","infrastructure","workflow"],"nextSlug":"deep-research-systems","slug":"langflow-workflow-engineering","href":"/notes/langflow-workflow-engineering","content":"$25","draft":false,"featured":false},{"number":"010","title":"Building deep research systems for cybersecurity intelligence","titleHtml":"Building <em>deep research systems</em> for cybersecurity intelligence.","headingHtml":"Building deep research systems<br/>for <span class=\"red\">cybersecurity</span> intelligence.","description":"A detailed architecture note on building AI-assisted deep research systems for cybersecurity intelligence, threat research, vulnerability context, and analyst decision support.","ogDescription":"Deep research systems for cybersecurity intelligence: retrieval, correlation, evidence, reasoning, memory, guardrails, and operational output.","date":"2026-05-26","displayDate":"2026 · 05 · 26","readTime":"18 min","quirk":"— or one analyst with a calmer inbox","excerptHtml":"Security investigations are not search problems. They are evidence problems. Deep research systems need retrieval, correlation, memory, provenance, and a refusal to invent confidence.","dekHtml":"What changes when a cybersecurity research system is expected to synthesize operational intelligence instead of returning a pile of links, IOCs, and vibes.","tags":["ai","security","research","threat-intel"],"tableOfContents":true,"nextSlug":"infrastructure-reliability-for-ai","slug":"deep-research-systems","href":"/notes/deep-research-systems","content":"$26","draft":false,"featured":false},{"number":"009","title":"Engineering reliable AI systems: why infrastructure discipline matters","titleHtml":"Engineering reliable AI systems: why <em>infrastructure discipline</em> matters.","headingHtml":"Engineering reliable AI systems:<br/>why <span class=\"red\">infrastructure</span> discipline matters.","description":"Production AI systems are distributed systems. Reliability, observability, cost, and orchestration matter as much as model quality.","ogDescription":"A note on reliability, observability, automation, and cost engineering for operational AI systems.","date":"2026-05-21","displayDate":"2026 · 05 · 21","readTime":"3 min","quirk":"— or one p99 before lunch","excerptHtml":"AI systems are often evaluated only on model quality. In production, infrastructure reliability matters just as much as intelligence.","dekHtml":"Operational AI depends on retrieval systems, workflow engines, APIs, search infrastructure, queues, monitoring, and orchestration. That makes it a distributed systems problem.","tags":["ai","infrastructure","reliability","building"],"nextSlug":"enterprise-ai-integrations","slug":"infrastructure-reliability-for-ai","href":"/notes/infrastructure-reliability-for-ai","content":"$27","draft":false,"featured":false},{"number":"008","title":"Designing enterprise AI integrations for operational systems","titleHtml":"Designing <em>enterprise AI integrations</em> for operational systems.","headingHtml":"Designing enterprise AI integrations<br/>for <span class=\"red\">operational</span> systems.","description":"Enterprise AI is only useful when it connects to the systems where work actually happens.","ogDescription":"A note on integration architecture for enterprise AI systems: identity, messaging, workflow, search, and operational context.","date":"2026-05-20","displayDate":"2026 · 05 · 20","readTime":"3 min","quirk":"— or one SSO callback too many","excerptHtml":"Standalone AI interfaces are not enough for real operations. Enterprise AI becomes valuable when it integrates deeply into the systems where work actually happens.","dekHtml":"Messaging, identity, ticketing, search, security tooling, internal APIs: integration architecture is what turns an AI interface into an operational platform.","tags":["ai","infrastructure","enterprise","workflow"],"nextSlug":"boundary-around-the-model","slug":"enterprise-ai-integrations","href":"/notes/enterprise-ai-integrations","content":"$28","draft":false,"featured":false},{"number":"007","title":"The interesting boundary around the model","titleHtml":"The interesting <em>boundary</em> around the model.","headingHtml":"The interesting <em>boundary</em><br/><span class=\"red\">around</span> the model.","description":"Most AI product work is really tool design, approval-flow design, and observability. The model just sits in the middle, doing the easy part.","ogDescription":"On context engineering, tool design, and why approvals are the actual product.","date":"2026-05-12","displayDate":"2026 · 05 · 12","readTime":"6 min","quirk":"— or one slow espresso","excerptHtml":"Most \"AI product\" work is really tool design, approval-flow design, and observability. The model just sits in the middle, doing the <em>easy</em> part. A short essay on what actually makes these systems good.","dekHtml":"On context engineering, tool design, observability, and the quiet realization that the <em>model</em> is almost never the hard part.","tags":["ai","agents","security","building","opinions"],"featured":true,"nextSlug":"search-on-object-storage","slug":"boundary-around-the-model","href":"/notes/boundary-around-the-model","content":"$29","draft":false},{"number":"006","title":"Search, on top of object storage","titleHtml":"Search, on top of <em>object storage.</em>","headingHtml":"Search, on top of<br/><span class=\"red\">object</span> <em>storage.</em>","description":"Where the math works out, what you trade, and the strange small joy of a query plan that ends in s3.GetObject.","ogDescription":"On running search workloads where the index lives in S3.","date":"2026-04-28","displayDate":"2026 · 04 · 28","readTime":"9 min","quirk":"— or two cups of filter coffee","excerptHtml":"What you give up, what you get back, where the math actually works out, and the strange small joy of a query plan that ends in <code>s3.GetObject</code>.","dekHtml":"Where the math actually works out, what you trade for the cheaper bill, and the strange small joy of a query plan that ends in <code>s3.GetObject</code>.","tags":["infrastructure","search","building"],"nextSlug":"boundary-around-the-model","slug":"search-on-object-storage","href":"/notes/search-on-object-storage","content":"$2a","draft":false,"featured":false},{"number":"005","title":"Why agentic is quietly becoming useless","titleHtml":"Why <em>\"agentic\"</em> is quietly becoming useless.","description":"A useful word is losing its meaning. A small attempt to put it back together, with verbs.","date":"2026-03-15","displayDate":"2026 · 03 · 15","readTime":"4 min","quirk":"— or one elevator argument","excerptHtml":"A useful word is losing its meaning — not because of anyone in particular, but because everyone is using it for everything. A small attempt to put it back together, with verbs.","tags":["ai","opinions"],"slug":"agentic-becoming-useless","href":"/notes/agentic-becoming-useless","content":"\n<Lede>\n  A useful word is losing its meaning, not because of anyone in particular,\n  but because everyone is using it for everything.\n</Lede>\n\nI am still polishing this note. For now, the thesis is simple: if a system\ncannot choose a tool, plan a next step, inspect the result, and decide whether\nto continue, I probably would not call it agentic.\n\n<EndMark />\n","draft":false,"featured":false},{"number":"004","title":"Triage is a UX problem, mostly","titleHtml":"Triage is a <em>UX problem,</em> mostly.","description":"After six months of watching analysts work, I am convinced SOC triage starts with workflow design.","date":"2026-02-22","displayDate":"2026 · 02 · 22","readTime":"7 min","quirk":"— or the time for an Argo rollout","excerptHtml":"After six months of watching analysts work, I'm convinced that what SOC teams need is less AI and more reorganization. The <em>good</em> AI helps with that, too — but only if you start there.","tags":["ai","security","soc","opinions"],"slug":"triage-ux-problem","href":"/notes/triage-ux-problem","content":"\n<Lede>\n  After six months of watching analysts work, I am convinced that what SOC\n  teams need is less AI and more reorganization.\n</Lede>\n\nThe good AI helps with that too, but only if it starts from the workflow:\nwhat gets grouped, what gets hidden, what needs evidence, and where a human\nshould be asked before the system gets clever.\n\n<EndMark />\n","draft":false,"featured":false},{"number":"003","title":"What I learned writing my first MCP server","titleHtml":"What I learned writing my first <em>MCP server.</em>","description":"The protocol is small. The interesting design decisions are not.","date":"2026-01-18","displayDate":"2026 · 01 · 18","readTime":"8 min","quirk":"— or a long ssh reconnect","excerptHtml":"The protocol is small. The interesting design decisions are not. A field report from building, breaking, and re-building a tool server — and what I'd actually do differently next time.","tags":["ai","agents","infrastructure","building"],"slug":"first-mcp-server","href":"/notes/first-mcp-server","content":"\n<Lede>\n  The protocol is small. The interesting design decisions are not.\n</Lede>\n\nThe shape that surprised me most was not the transport or schema. It was the\nhuman layer around the tool: descriptions, affordances, permissions, and the\ntiny contracts that teach an agent when not to touch something.\n\n<EndMark />\n","draft":false,"featured":false},{"number":"002","title":"Reading the cap table like an offer letter","titleHtml":"Reading the cap table like an <em>offer letter.</em>","description":"A short, opinionated field guide to the part of an offer most engineers try not to read.","date":"2025-12-03","displayDate":"2025 · 12 · 03","readTime":"5 min","quirk":"— or one careful tea","excerptHtml":"Vesting, cliff, refresh, RSU vs ISO, strike price, dilution — a short, opinionated field guide to the part of an offer most engineers (including me, once) try not to read.","tags":["opinions","career"],"slug":"cap-table-offer-letter","href":"/notes/cap-table-offer-letter","content":"\n<Lede>\n  The part of the offer most engineers try not to read is often the part that\n  explains the real offer.\n</Lede>\n\nVesting, cliff, refresh, RSU vs ISO, strike price, dilution: none of this is\nromantic, but all of it changes what the number on the first page actually\nmeans.\n\n<EndMark />\n","draft":false,"featured":false},{"number":"001","title":"Demos are easy. Tuesdays are hard","titleHtml":"Demos are easy. Tuesdays are <em>hard.</em>","description":"On the gap between a thing that works in the room and a thing that works in a customer's hands.","date":"2025-10-09","displayDate":"2025 · 10 · 09","readTime":"6 min","quirk":"— or a slow K8s pod restart","excerptHtml":"On the gap between a thing that works in the room and a thing that works in a customer's hands on a Tuesday morning. The first half of a long-running argument I keep having with myself.","tags":["infrastructure","building","opinions"],"slug":"demos-tuesdays-hard","href":"/notes/demos-tuesdays-hard","content":"\n<Lede>\n  Demos are easy. Tuesdays are hard.\n</Lede>\n\nThe gap between a thing that works in the room and a thing that works in a\ncustomer's hands on Tuesday morning is where most engineering taste lives.\n\n<EndMark />\n","draft":false,"featured":false},{"number":"","title":"The boring case for boring infrastructure","titleHtml":"The boring case for <em>boring infrastructure.</em>","description":"The reasons I keep choosing the unsexy option in cloud architecture arguments.","displayDate":"— · — · —","readTime":"draft","quirk":"— stewing on this one","excerptHtml":"The reasons I keep choosing the \"unsexy\" option in cloud architecture arguments — and why I think the next ten years will reward that choice more than the previous ten did.","tags":["infrastructure","opinions"],"draft":true,"draftLabel":"still cooking","slug":"boring-infrastructure","href":"/notes/boring-infrastructure","content":"\nDraft.\n","featured":false},{"number":"","title":"Notes on token-maxxing","titleHtml":"Notes on <em>token-maxxing.</em>","description":"The fun meme; the boring truth.","displayDate":"— · — · —","readTime":"draft","quirk":"— probably worth finishing?","excerptHtml":"The fun meme; the boring truth. Context engineering vs prompt engineering vs the actual eval that gets you off the demo treadmill.","tags":["ai","opinions"],"draft":true,"draftLabel":"about to give up","slug":"token-maxxing","href":"/notes/token-maxxing","content":"\nDraft.\n","featured":false}]}],"$L2b","$L2c","$L2d"]}]
-2b:["$","div",null,{"className":"ornament","children":["$","span",null,{"children":"✦"}]}]
-2c:["$","div",null,{"className":"end-block","children":[["$","em",null,{"children":"that's everything pinned to the wall, for now."}],["$","br",null,{}],["$","span",null,{"style":{"fontSize":22},"children":["new notes show up ",["$","span",null,{"className":"arr","children":"↬"}]," ","whenever they're ready."]}]]}]
-2d:["$","footer",null,{"className":"bottom","children":[["$","$L1a",null,{"href":"/","className":"big-back","children":[["$","span",null,{"children":"←"}]," back to the rest of the notebook"]}],["$","div",null,{"children":["© 2026 · ",["$","b",null,{"children":"Prince Sinha"}]," · made by hand, mostly."]}]]}]
+f:["$","main",null,{"className":"notes-page","children":[["$","div",null,{"className":"top","children":[["$","div",null,{"className":"notes-top-left","children":[["$","$L1a",null,{"href":"/","className":"back-link","children":[["$","span",null,{"className":"arr","children":"←"}]," ","back to the portfolio"]}],["$","div",null,{"className":"crumbs","children":[["$","span",null,{"children":"portfolio"}],["$","span",null,{"className":"sep","children":"/"}],["$","b",null,{"children":"notes"}]]}]]}],["$","$L1b",null,{}]]}],["$","section",null,{"className":"notes-hero","children":[["$","aside",null,{"className":"currently","children":[["$","h4",null,{"children":"now writing"}],["$","p",null,{"children":[["$","span",null,{"className":"live"}],["$","em",null,{"children":"\"the boring case for boring infrastructure.\""}]," — about ",["$","span",null,{"style":{"color":"var(--red)"},"children":"73% done."}]]}]]}],["$","span",null,{"className":"kicker","children":"— a small writing room."}],["$","h1",null,{"children":["$","em",null,{"children":"Notes."}]}],["$","p",null,{"className":"lead","children":["Half essay, half ",["$","em",null,{"children":"marginalia."}]," ","Mostly about AI agents, security systems, the boring details that make products actually work, and what I've learned by writing it down. New entries land here when they're ready."]}]]}],["$","$L1c",null,{"filters":[{"key":"all","label":"all","count":22},{"key":"ai","label":"ai & agents","count":19},{"key":"security","label":"security","count":14},{"key":"infrastructure","label":"infrastructure","count":6},{"key":"opinions","label":"opinions","count":5},{"key":"drafts","label":"drafts","count":2}],"notes":[{"number":"022","title":"Engineering reliable AI security agents","titleHtml":"Engineering <em>reliable AI security agents</em>.","headingHtml":"Engineering <em>reliable AI</em><br/><span class=\"red\">security agents</span>.","description":"A technical guide to reliability engineering for AI security agents: observability, traces, metrics, logs, SLOs, failure modes, agent runs, tool latency, evaluation drift, and incident response.","ogDescription":"How to engineer reliable AI security agents using observability, OpenTelemetry, SLOs, failure-mode design, run traces, tool metrics, and evaluation drift monitoring.","date":"2026-06-07","displayDate":"2026 · 06 · 07","readTime":"12 min","quirk":"-- or one agent outage noticed before the analyst does","excerptHtml":"If an AI security agent becomes part of the SOC workflow, it needs reliability engineering like any other production system.","dekHtml":"A builder's guide to making AI security agents observable, measurable, debuggable, resilient, and safe enough for production security operations.","tags":["ai","security","secops","reliability","agents"],"featured":true,"tableOfContents":true,"nextSlug":"ai-threat-intelligence-pipeline","slug":"reliable-ai-security-agents","href":"/notes/reliable-ai-security-agents","content":"$1d","draft":false},{"number":"021","title":"Designing an AI threat intelligence pipeline","titleHtml":"Designing an <em>AI threat intelligence pipeline</em>.","headingHtml":"Designing an <em>AI threat intelligence</em><br/><span class=\"red\">pipeline</span>.","description":"A technical guide to AI-assisted threat intelligence pipelines: source intake, STIX/TAXII, MISP, OpenCTI, TLP handling, entity normalization, retrieval, enrichment, summarization, and analyst review.","ogDescription":"How to design an AI threat intelligence pipeline with source governance, STIX/TAXII, MISP, OpenCTI, TLP, entity normalization, enrichment, and analyst-safe AI.","date":"2026-06-07","displayDate":"2026 · 06 · 07","readTime":"12 min","quirk":"-- or one IOC pile turned into context","excerptHtml":"Threat intelligence pipelines fail when they treat intelligence as a feed problem. The hard part is turning sources into evidence, context, and decisions.","dekHtml":"A builder's architecture for AI-assisted threat intelligence that respects source handling, normalizes entities, preserves provenance, and gives analysts usable context.","tags":["ai","security","threat-intel","secops","building"],"tableOfContents":true,"nextSlug":"soc-knowledge-graph-agentic-investigations","slug":"ai-threat-intelligence-pipeline","href":"/notes/ai-threat-intelligence-pipeline","content":"$1e","draft":false,"featured":false},{"number":"020","title":"Building a SOC knowledge graph for agentic investigations","titleHtml":"Building a <em>SOC knowledge graph</em> for agentic investigations.","headingHtml":"Building a <em>SOC knowledge graph</em><br/>for <span class=\"red\">agentic investigations</span>.","description":"A technical guide to building SOC knowledge graphs for AI-native security operations: entities, relationships, evidence, provenance, confidence, ATT&CK mapping, and agentic investigation workflows.","ogDescription":"How to build a SOC knowledge graph for agentic AI investigations using entities, evidence, provenance, confidence, ATT&CK, STIX, and analyst feedback.","date":"2026-06-07","displayDate":"2026 · 06 · 07","readTime":"12 min","quirk":"-- or one less tab spiral","excerptHtml":"Agentic SOC systems need memory, but not the soft kind. They need a structured graph of entities, evidence, relationships, and decisions.","dekHtml":"A builder-leader architecture for turning alerts, identities, assets, vulnerabilities, threat intelligence, and analyst decisions into a graph agents can investigate safely.","tags":["ai","security","secops","agents","knowledge-graph"],"featured":true,"tableOfContents":true,"nextSlug":"agentic-incident-response-playbooks","slug":"soc-knowledge-graph-agentic-investigations","href":"/notes/soc-knowledge-graph-agentic-investigations","content":"$1f","draft":false},{"number":"019","title":"Agentic incident response playbooks","titleHtml":"<em>Agentic incident response</em> playbooks.","headingHtml":"<em>Agentic incident response</em><br/><span class=\"red\">playbooks</span>.","description":"A detailed architecture guide for agentic incident response playbooks: NIST CSF 2.0, evidence handling, containment staging, human approvals, AI collaboration, TLP, and post-incident learning.","ogDescription":"How to design agentic incident response playbooks with evidence, containment staging, approvals, collaboration, TLP handling, and post-incident learning.","date":"2026-06-05","displayDate":"2026 · 06 · 05","readTime":"13 min","quirk":"-- or one incident bridge with fewer tabs","excerptHtml":"Agentic incident response is not autonomous panic. It is structured delegation inside a response system that preserves evidence and keeps humans in control.","dekHtml":"A builder-leader architecture for AI-assisted incident response: typed playbooks, evidence ledgers, approval gates, collaboration rules, and recovery memory.","tags":["ai","security","secops","incident-response","agents"],"featured":true,"tableOfContents":true,"nextSlug":"identity-first-ai-soc","slug":"agentic-incident-response-playbooks","href":"/notes/agentic-incident-response-playbooks","content":"$20","draft":false},{"number":"018","title":"The identity-first AI SOC","titleHtml":"The <em>identity-first</em> AI SOC.","headingHtml":"The <em>identity-first</em><br/><span class=\"red\">AI SOC</span>.","description":"A technical guide to building identity-first AI security operations: valid accounts, phishing-resistant MFA, session risk, credential exposure, entity resolution, zero trust, and agent-assisted investigation.","ogDescription":"Identity-first AI SOC architecture: valid accounts, MFA posture, credential exposure, entity resolution, session risk, and zero trust investigation workflows.","date":"2026-06-05","displayDate":"2026 · 06 · 05","readTime":"13 min","quirk":"-- or one valid account caught early","excerptHtml":"Modern intrusions often look like normal users doing abnormal things. That makes identity the center of the AI-native SOC.","dekHtml":"How to design AI-assisted security operations around identities, sessions, privileges, credential exposure, authentication strength, and zero trust context.","tags":["ai","security","secops","identity","building"],"tableOfContents":true,"nextSlug":"evaluating-ai-soc-agents","slug":"identity-first-ai-soc","href":"/notes/identity-first-ai-soc","content":"$21","draft":false,"featured":false},{"number":"017","title":"How to evaluate AI SOC agents before production","titleHtml":"How to evaluate <em>AI SOC agents</em> before production.","headingHtml":"How to evaluate<br/><span class=\"red\">AI SOC agents</span> before production.","description":"A detailed evaluation framework for AI SOC agents: golden cases, tool-call testing, prompt-injection tests, evidence scoring, false-positive handling, analyst trust, and production readiness.","ogDescription":"How to evaluate AI SOC agents before production using evidence tests, tool-call tests, prompt-injection scenarios, analyst review, and operational metrics.","date":"2026-06-05","displayDate":"2026 · 06 · 05","readTime":"12 min","quirk":"-- or one confident hallucination caught","excerptHtml":"An AI SOC agent should not graduate to production because it gave three impressive demos. It should graduate because it survived evaluation.","dekHtml":"A practical framework for testing AI security agents against real workflows, hostile inputs, tool boundaries, evidence quality, and analyst trust.","tags":["ai","security","secops","agents","evaluation"],"tableOfContents":true,"nextSlug":"detection-engineering-ai-native-soc","slug":"evaluating-ai-soc-agents","href":"/notes/evaluating-ai-soc-agents","content":"$22","draft":false,"featured":false},{"number":"016","title":"Detection engineering for an AI-native SOC","titleHtml":"Detection engineering for an <em>AI-native SOC</em>.","headingHtml":"Detection engineering<br/>for an <span class=\"red\">AI-native SOC</span>.","description":"A technical guide to detection engineering in AI-native security operations: ATT&CK mapping, data sources, Sigma, OCSF, telemetry quality, AI-assisted rule writing, testing, and feedback loops.","ogDescription":"AI-native SOC detection engineering: how to design detections around telemetry, ATT&CK data sources, Sigma, OCSF, tests, and analyst feedback.","date":"2026-06-05","displayDate":"2026 · 06 · 05","readTime":"13 min","quirk":"-- or one noisy rule retired","excerptHtml":"AI can help write detections, but detection engineering is still an evidence discipline, not a prompt trick.","dekHtml":"How builder-leaders should design AI-assisted detection engineering around telemetry quality, normalized schemas, ATT&CK data components, test cases, and production feedback.","tags":["ai","security","secops","detection","building"],"tableOfContents":true,"nextSlug":"securing-agentic-ai-tools-for-soc","slug":"detection-engineering-ai-native-soc","href":"/notes/detection-engineering-ai-native-soc","content":"$23","draft":false,"featured":false},{"number":"015","title":"Securing agentic AI tools for the SOC","titleHtml":"Securing <em>agentic AI tools</em> for the SOC.","headingHtml":"Securing <em>agentic AI tools</em><br/>for the <span class=\"red\">SOC</span>.","description":"A technical architecture guide for securing agentic AI tools in security operations: permissions, tool schemas, MCP risks, prompt injection, evidence boundaries, audit logs, and approval gates.","ogDescription":"How to secure agentic AI tools for the SOC: least agency, scoped tools, MCP risks, prompt injection defenses, approvals, and auditability.","date":"2026-06-05","displayDate":"2026 · 06 · 05","readTime":"12 min","quirk":"-- or one overpowered tool avoided","excerptHtml":"Agentic AI in the SOC becomes dangerous when tools are treated like plugins instead of production security interfaces.","dekHtml":"A builder's guide to designing SOC agents with narrow permissions, typed tools, hostile-input handling, approval gates, and evidence-preserving audit trails.","tags":["ai","security","secops","agents","building"],"tableOfContents":true,"nextSlug":"agentic-ai-soc-speaker","slug":"securing-agentic-ai-tools-for-soc","href":"/notes/securing-agentic-ai-tools-for-soc","content":"$24","draft":false,"featured":false},{"number":"014","title":"Agentic AI in the SOC: the builder-leader talk security teams need now","titleHtml":"Agentic AI in the <em>SOC</em>: the builder-leader talk security teams need now.","headingHtml":"Agentic AI in the <em>SOC</em>:<br/><span class=\"red\">the builder-leader talk security teams need now</span>.","description":"A keynote-style field guide from a builder-leader on agentic AI in the SOC, AI-native security operations, cybersecurity leadership, analyst trust, and modern SecOps architecture.","ogDescription":"Agentic AI in the SOC from a builder-leader perspective: what security leaders, builders, and conference audiences need to understand about AI-native security operations.","date":"2026-06-05","displayDate":"2026 · 06 · 05","readTime":"15 min","quirk":"-- or one panel question answered early","excerptHtml":"The best AI cybersecurity talk right now is not about replacing analysts. It is about rebuilding the SOC around evidence, workflow, trust, and controlled agentic systems, from someone who can build and lead the work.","dekHtml":"A builder-leader field guide for security teams trying to understand agentic AI, SOC modernization, AI-native cybersecurity, and what should actually be built.","tags":["ai","security","secops","agents","speaking","building","leadership"],"featured":true,"tableOfContents":true,"nextSlug":"ai-native-secops-platform","slug":"agentic-ai-soc-speaker","href":"/notes/agentic-ai-soc-speaker","content":"$25","draft":false},{"number":"013","title":"Rethinking SecOps: designing an AI-native security operations platform","titleHtml":"Rethinking <em>SecOps</em>: designing an AI-native security operations platform.","headingHtml":"Rethinking <em>SecOps</em>:<br/><span class=\"red\">AI-native</span> security operations.","description":"A detailed architecture note on designing AI-native SecOps platforms for investigation, triage, telemetry, detection engineering, workflow orchestration, and human-supervised response.","ogDescription":"How to design AI-native SecOps platforms: alert intake, evidence, correlation, workflows, detection engineering, safety, evaluation, and analyst trust.","date":"2026-05-26","displayDate":"2026 · 05 · 26","readTime":"17 min","quirk":"— or one alert queue avoided","excerptHtml":"Traditional security platforms were built around dashboards and queues. AI-native SecOps platforms need evidence, workflow memory, typed actions, guardrails, and analyst control.","dekHtml":"Security operations do not need one more dashboard. They need systems that reason across context, orchestrate evidence, and keep humans in control of consequential action.","tags":["ai","security","secops","building"],"featured":true,"tableOfContents":true,"nextSlug":"darkweb-exposure-agent","slug":"ai-native-secops-platform","href":"/notes/ai-native-secops-platform","content":"$26","draft":false},{"number":"012","title":"Building a dark web exposure intelligence agent","titleHtml":"Building a dark web <em>exposure intelligence</em> agent.","headingHtml":"Building a dark web<br/><span class=\"red\">exposure</span> intelligence agent.","description":"A detailed architecture note on building dark web exposure intelligence agents for credential leaks, stealer logs, breach data, identity risk, enrichment, triage, and analyst-safe remediation.","ogDescription":"Dark web exposure intelligence agents: entity resolution, breach context, credential risk, source handling, safety guardrails, and operational response.","date":"2026-05-26","displayDate":"2026 · 05 · 26","readTime":"16 min","quirk":"— or one leaked credential panic avoided","excerptHtml":"Dark web exposure work is not just searching shady indexes. It is entity resolution, evidence handling, identity risk, source confidence, privacy discipline, and response orchestration.","dekHtml":"A practical architecture map for turning breach data, stealer logs, credential exposure, and external intelligence into analyst-grade operational decisions.","tags":["ai","security","threat-intel","agents"],"tableOfContents":true,"nextSlug":"langflow-workflow-engineering","slug":"darkweb-exposure-agent","href":"/notes/darkweb-exposure-agent","content":"$27","draft":false,"featured":false},{"number":"011","title":"Engineering AI workflow systems with Langflow","titleHtml":"Engineering AI workflow systems with <em>Langflow</em>.","headingHtml":"Engineering AI<br/><span class=\"red\">workflow</span> systems with Langflow.","description":"Most production AI systems are workflow systems. The model is only one node in a larger orchestration problem.","ogDescription":"A note on Langflow, conditional routing, parallel processing, and production AI orchestration.","date":"2026-05-23","displayDate":"2026 · 05 · 23","readTime":"4 min","quirk":"— or three conditional edges","excerptHtml":"Modern AI systems are increasingly becoming workflow systems rather than standalone model integrations. The workflow engine becomes the backbone of <em>operational AI</em>.","dekHtml":"On conditional routing, parallel execution, failure handling, and the quiet truth that most AI engineering is orchestration engineering.","tags":["ai","agents","infrastructure","workflow"],"nextSlug":"deep-research-systems","slug":"langflow-workflow-engineering","href":"/notes/langflow-workflow-engineering","content":"$28","draft":false,"featured":false},{"number":"010","title":"Building deep research systems for cybersecurity intelligence","titleHtml":"Building <em>deep research systems</em> for cybersecurity intelligence.","headingHtml":"Building deep research systems<br/>for <span class=\"red\">cybersecurity</span> intelligence.","description":"A detailed architecture note on building AI-assisted deep research systems for cybersecurity intelligence, threat research, vulnerability context, and analyst decision support.","ogDescription":"Deep research systems for cybersecurity intelligence: retrieval, correlation, evidence, reasoning, memory, guardrails, and operational output.","date":"2026-05-26","displayDate":"2026 · 05 · 26","readTime":"18 min","quirk":"— or one analyst with a calmer inbox","excerptHtml":"Security investigations are not search problems. They are evidence problems. Deep research systems need retrieval, correlation, memory, provenance, and a refusal to invent confidence.","dekHtml":"What changes when a cybersecurity research system is expected to synthesize operational intelligence instead of returning a pile of links, IOCs, and vibes.","tags":["ai","security","research","threat-intel"],"tableOfContents":true,"nextSlug":"infrastructure-reliability-for-ai","slug":"deep-research-systems","href":"/notes/deep-research-systems","content":"$29","draft":false,"featured":false},{"number":"009","title":"Engineering reliable AI systems: why infrastructure discipline matters","titleHtml":"Engineering reliable AI systems: why <em>infrastructure discipline</em> matters.","headingHtml":"Engineering reliable AI systems:<br/>why <span class=\"red\">infrastructure</span> discipline matters.","description":"Production AI systems are distributed systems. Reliability, observability, cost, and orchestration matter as much as model quality.","ogDescription":"A note on reliability, observability, automation, and cost engineering for operational AI systems.","date":"2026-05-21","displayDate":"2026 · 05 · 21","readTime":"3 min","quirk":"— or one p99 before lunch","excerptHtml":"AI systems are often evaluated only on model quality. In production, infrastructure reliability matters just as much as intelligence.","dekHtml":"Operational AI depends on retrieval systems, workflow engines, APIs, search infrastructure, queues, monitoring, and orchestration. That makes it a distributed systems problem.","tags":["ai","infrastructure","reliability","building"],"nextSlug":"enterprise-ai-integrations","slug":"infrastructure-reliability-for-ai","href":"/notes/infrastructure-reliability-for-ai","content":"$2a","draft":false,"featured":false},{"number":"008","title":"Designing enterprise AI integrations for operational systems","titleHtml":"Designing <em>enterprise AI integrations</em> for operational systems.","headingHtml":"Designing enterprise AI integrations<br/>for <span class=\"red\">operational</span> systems.","description":"Enterprise AI is only useful when it connects to the systems where work actually happens.","ogDescription":"A note on integration architecture for enterprise AI systems: identity, messaging, workflow, search, and operational context.","date":"2026-05-20","displayDate":"2026 · 05 · 20","readTime":"3 min","quirk":"— or one SSO callback too many","excerptHtml":"Standalone AI interfaces are not enough for real operations. Enterprise AI becomes valuable when it integrates deeply into the systems where work actually happens.","dekHtml":"Messaging, identity, ticketing, search, security tooling, internal APIs: integration architecture is what turns an AI interface into an operational platform.","tags":["ai","infrastructure","enterprise","workflow"],"nextSlug":"boundary-around-the-model","slug":"enterprise-ai-integrations","href":"/notes/enterprise-ai-integrations","content":"$2b","draft":false,"featured":false},{"number":"007","title":"The interesting boundary around the model","titleHtml":"The interesting <em>boundary</em> around the model.","headingHtml":"The interesting <em>boundary</em><br/><span class=\"red\">around</span> the model.","description":"Most AI product work is really tool design, approval-flow design, and observability. The model just sits in the middle, doing the easy part.","ogDescription":"On context engineering, tool design, and why approvals are the actual product.","date":"2026-05-12","displayDate":"2026 · 05 · 12","readTime":"6 min","quirk":"— or one slow espresso","excerptHtml":"Most \"AI product\" work is really tool design, approval-flow design, and observability. The model just sits in the middle, doing the <em>easy</em> part. A short essay on what actually makes these systems good.","dekHtml":"On context engineering, tool design, observability, and the quiet realization that the <em>model</em> is almost never the hard part.","tags":["ai","agents","security","building","opinions"],"featured":true,"nextSlug":"search-on-object-storage","slug":"boundary-around-the-model","href":"/notes/boundary-around-the-model","content":"$2c","draft":false},{"number":"006","title":"Search, on top of object storage","titleHtml":"Search, on top of <em>object storage.</em>","headingHtml":"Search, on top of<br/><span class=\"red\">object</span> <em>storage.</em>","description":"Where the math works out, what you trade, and the strange small joy of a query plan that ends in s3.GetObject.","ogDescription":"On running search workloads where the index lives in S3.","date":"2026-04-28","displayDate":"2026 · 04 · 28","readTime":"9 min","quirk":"— or two cups of filter coffee","excerptHtml":"What you give up, what you get back, where the math actually works out, and the strange small joy of a query plan that ends in <code>s3.GetObject</code>.","dekHtml":"Where the math actually works out, what you trade for the cheaper bill, and the strange small joy of a query plan that ends in <code>s3.GetObject</code>.","tags":["infrastructure","search","building"],"nextSlug":"boundary-around-the-model","slug":"search-on-object-storage","href":"/notes/search-on-object-storage","content":"$2d","draft":false,"featured":false},{"number":"005","title":"Why agentic is quietly becoming useless","titleHtml":"Why <em>\"agentic\"</em> is quietly becoming useless.","description":"A useful word is losing its meaning. A small attempt to put it back together, with verbs.","date":"2026-03-15","displayDate":"2026 · 03 · 15","readTime":"4 min","quirk":"— or one elevator argument","excerptHtml":"A useful word is losing its meaning — not because of anyone in particular, but because everyone is using it for everything. A small attempt to put it back together, with verbs.","tags":["ai","opinions"],"slug":"agentic-becoming-useless","href":"/notes/agentic-becoming-useless","content":"\n<Lede>\n  A useful word is losing its meaning, not because of anyone in particular,\n  but because everyone is using it for everything.\n</Lede>\n\nI am still polishing this note. For now, the thesis is simple: if a system\ncannot choose a tool, plan a next step, inspect the result, and decide whether\nto continue, I probably would not call it agentic.\n\n<EndMark />\n","draft":false,"featured":false},{"number":"004","title":"Triage is a UX problem, mostly","titleHtml":"Triage is a <em>UX problem,</em> mostly.","description":"After six months of watching analysts work, I am convinced SOC triage starts with workflow design.","date":"2026-02-22","displayDate":"2026 · 02 · 22","readTime":"7 min","quirk":"— or the time for an Argo rollout","excerptHtml":"After six months of watching analysts work, I'm convinced that what SOC teams need is less AI and more reorganization. The <em>good</em> AI helps with that, too — but only if you start there.","tags":["ai","security","soc","opinions"],"slug":"triage-ux-problem","href":"/notes/triage-ux-problem","content":"\n<Lede>\n  After six months of watching analysts work, I am convinced that what SOC\n  teams need is less AI and more reorganization.\n</Lede>\n\nThe good AI helps with that too, but only if it starts from the workflow:\nwhat gets grouped, what gets hidden, what needs evidence, and where a human\nshould be asked before the system gets clever.\n\n<EndMark />\n","draft":false,"featured":false},{"number":"003","title":"What I learned writing my first MCP server","titleHtml":"What I learned writing my first <em>MCP server.</em>","description":"The protocol is small. The interesting design decisions are not.","date":"2026-01-18","displayDate":"2026 · 01 · 18","readTime":"8 min","quirk":"— or a long ssh reconnect","excerptHtml":"The protocol is small. The interesting design decisions are not. A field report from building, breaking, and re-building a tool server — and what I'd actually do differently next time.","tags":["ai","agents","infrastructure","building"],"slug":"first-mcp-server","href":"/notes/first-mcp-server","content":"\n<Lede>\n  The protocol is small. The interesting design decisions are not.\n</Lede>\n\nThe shape that surprised me most was not the transport or schema. It was the\nhuman layer around the tool: descriptions, affordances, permissions, and the\ntiny contracts that teach an agent when not to touch something.\n\n<EndMark />\n","draft":false,"featured":false},{"number":"002","title":"Reading the cap table like an offer letter","titleHtml":"Reading the cap table like an <em>offer letter.</em>","description":"A short, opinionated field guide to the part of an offer most engineers try not to read.","date":"2025-12-03","displayDate":"2025 · 12 · 03","readTime":"5 min","quirk":"— or one careful tea","excerptHtml":"Vesting, cliff, refresh, RSU vs ISO, strike price, dilution — a short, opinionated field guide to the part of an offer most engineers (including me, once) try not to read.","tags":["opinions","career"],"slug":"cap-table-offer-letter","href":"/notes/cap-table-offer-letter","content":"\n<Lede>\n  The part of the offer most engineers try not to read is often the part that\n  explains the real offer.\n</Lede>\n\nVesting, cliff, refresh, RSU vs ISO, strike price, dilution: none of this is\nromantic, but all of it changes what the number on the first page actually\nmeans.\n\n<EndMark />\n","draft":false,"featured":false},{"number":"001","title":"Demos are easy. Tuesdays are hard","titleHtml":"Demos are easy. Tuesdays are <em>hard.</em>","description":"On the gap between a thing that works in the room and a thing that works in a customer's hands.","date":"2025-10-09","displayDate":"2025 · 10 · 09","readTime":"6 min","quirk":"— or a slow K8s pod restart","excerptHtml":"On the gap between a thing that works in the room and a thing that works in a customer's hands on a Tuesday morning. The first half of a long-running argument I keep having with myself.","tags":["infrastructure","building","opinions"],"slug":"demos-tuesdays-hard","href":"/notes/demos-tuesdays-hard","content":"\n<Lede>\n  Demos are easy. Tuesdays are hard.\n</Lede>\n\nThe gap between a thing that works in the room and a thing that works in a\ncustomer's hands on Tuesday morning is where most engineering taste lives.\n\n<EndMark />\n","draft":false,"featured":false},{"number":"","title":"The boring case for boring infrastructure","titleHtml":"The boring case for <em>boring infrastructure.</em>","description":"The reasons I keep choosing the unsexy option in cloud architecture arguments.","displayDate":"— · — · —","readTime":"draft","quirk":"— stewing on this one","excerptHtml":"The reasons I keep choosing the \"unsexy\" option in cloud architecture arguments — and why I think the next ten years will reward that choice more than the previous ten did.","tags":["infrastructure","opinions"],"draft":true,"draftLabel":"still cooking","slug":"boring-infrastructure","href":"/notes/boring-infrastructure","content":"\nDraft.\n","featured":false},{"number":"","title":"Notes on token-maxxing","titleHtml":"Notes on <em>token-maxxing.</em>","description":"The fun meme; the boring truth.","displayDate":"— · — · —","readTime":"draft","quirk":"— probably worth finishing?","excerptHtml":"The fun meme; the boring truth. Context engineering vs prompt engineering vs the actual eval that gets you off the demo treadmill.","tags":["ai","opinions"],"draft":true,"draftLabel":"about to give up","slug":"token-maxxing","href":"/notes/token-maxxing","content":"\nDraft.\n","featured":false}]}],"$L2e","$L2f","$L30"]}]
+2e:["$","div",null,{"className":"ornament","children":["$","span",null,{"children":"✦"}]}]
+2f:["$","div",null,{"className":"end-block","children":[["$","em",null,{"children":"that's everything pinned to the wall, for now."}],["$","br",null,{}],["$","span",null,{"style":{"fontSize":22},"children":["new notes show up ",["$","span",null,{"className":"arr","children":"↬"}]," ","whenever they're ready."]}]]}]
+30:["$","footer",null,{"className":"bottom","children":[["$","$L1a",null,{"href":"/","className":"big-back","children":[["$","span",null,{"children":"←"}]," back to the rest of the notebook"]}],["$","div",null,{"children":["© 2026 · ",["$","b",null,{"children":"Prince Sinha"}]," · made by hand, mostly."]}]]}]
