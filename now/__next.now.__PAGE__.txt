@@ -2,7 +2,7 @@
 2:I[23542,["/_next/static/chunks/0-8b5a8w8do-g.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0cpu9mdm3uq6j.js"],"default"]
 7:I[97367,["/_next/static/chunks/0-8b5a8w8do-g.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
 8:"$Sreact.suspense"
-3:T19e8,
+3:T1a31,
 
 <div class="page">
 
@@ -33,7 +33,7 @@
     </p>
     <div class="updated">
       <span class="dot"></span>
-      <span>last updated <b>2026 · 05 · 25</b></span>
+      <span>last updated <b>2026 · 07 · 06</b></span>
       <span style="color: var(--ink-faint);">·</span>
       <span>from <b>Bengaluru, IN</b></span>
     </div>
@@ -66,10 +66,10 @@
     <span class="k">reading →</span>
     <div class="v">
       <ul>
-        <li>My own notes-in-progress on <a href="/notes" style="color: var(--red); border-bottom: 1px dashed var(--red);">AI, SecOps, retrieval, and infrastructure</a> &mdash; editing is thinking with receipts.</li>
+        <li>My own notes-in-progress on <a href="/notes" style="color: var(--red); border-bottom: 1px dashed var(--red);">AI, SecOps, retrieval, and infrastructure</a> &mdash; editing is usually where I find the gaps.</li>
         <li>Architecture writeups on object-storage-backed search and low-cost indexing.</li>
         <li>Trust, safety, and security engineering posts that sound like they have met a pager.</li>
-        <li>Long threads only when they come with implementation details. Vibes are not an API.</li>
+        <li>Long threads when they come with implementation details. Vibes are not an API.</li>
       </ul>
     </div>
   </div>
@@ -91,7 +91,7 @@
     <div class="v">
       <ul>
         <li>Generic "AI transformation" language with no verbs attached.</li>
-        <li>Cold outreach with no compensation range. <em>(See <a href="/for-recruiters" style="color: var(--red); border-bottom: 1px dashed var(--red);">the letter</a>.)</em></li>
+        <li>Recruiter outreach with too little context to understand the role. <em>(I left a few helpful details in <a href="/for-recruiters" style="color: var(--red); border-bottom: 1px dashed var(--red);">the letter</a>.)</em></li>
         <li>Architecture that needs six systems before it has one user.</li>
         <li>Meetings that could have been a Linear comment with a screenshot.</li>
       </ul>
@@ -114,9 +114,9 @@
     <span class="k">status →</span>
     <div class="v">
       <p>
-        <b style="color: var(--red);">Open to selective work.</b> Engineering
+        <b style="color: var(--red);">Open to thoughtful conversations.</b> Engineering
         leadership, principal IC, or advisory conversations where AI, security,
-        and infrastructure are all real parts of the product. <em>The full filter is</em>
+        and infrastructure are meaningful parts of the product. <em>A little more context is</em>
         <a href="/for-recruiters" style="color: var(--red); border-bottom: 1px dashed var(--red);">over here</a>.
       </p>
     </div>
@@ -140,7 +140,7 @@
 
   <footer class="bottom">
     <a href="/" class="big-back"><span>←</span> back to the notebook</a>
-    <div>© 2026 · <b>Prince Sinha</b> · last updated 2026 · 05 · 25</div>
+    <div>© 2026 · <b>Prince Sinha</b> · last updated 2026 · 07 · 06</div>
   </footer>
 
 </div>
@@ -347,7 +347,7 @@
     transition: gap .15s ease, color .15s ease;
   }
   .big-back:hover { color: var(--red); gap: 18px; }
-</style>0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"body":"$3","scripts":["\n  const themeBtn = document.getElementById('theme-toggle');\n  if (themeBtn) {\n    themeBtn.addEventListener('click', () => {\n      const cur = document.documentElement.getAttribute('data-theme') || 'light';\n      const nxt = cur === 'light' ? 'dark' : 'light';\n      themeBtn.classList.remove('flipping');\n      void themeBtn.offsetWidth;\n      themeBtn.classList.add('flipping');\n      document.documentElement.setAttribute('data-theme', nxt);\n      try { localStorage.setItem('theme', nxt); } catch (e) {}\n    });\n  }\n"],"styles":"$4"}],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"7OdBAH1vPtu7vwY_UXXy3"}
+</style>0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"body":"$3","scripts":["\n  const themeBtn = document.getElementById('theme-toggle');\n  if (themeBtn) {\n    themeBtn.addEventListener('click', () => {\n      const cur = document.documentElement.getAttribute('data-theme') || 'light';\n      const nxt = cur === 'light' ? 'dark' : 'light';\n      themeBtn.classList.remove('flipping');\n      void themeBtn.offsetWidth;\n      themeBtn.classList.add('flipping');\n      document.documentElement.setAttribute('data-theme', nxt);\n      try { localStorage.setItem('theme', nxt); } catch (e) {}\n    });\n  }\n"],"styles":"$4"}],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"UKW3vhTZj5jQvtpQOStf3"}
 5:["$","script","script-0",{"src":"/_next/static/chunks/0cpu9mdm3uq6j.js","async":true}]
 6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
 9:null

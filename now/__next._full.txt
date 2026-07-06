@@ -1021,7 +1021,7 @@ e:I[68027,["/_next/static/chunks/0-8b5a8w8do-g.js","/_next/static/chunks/0d3shmw
     min-width: 100%;
   }
 }
-0:{"P":null,"c":["","now"],"q":"","i":false,"f":[[["",{"children":["now",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0-zxi~xkytfab.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0-8b5a8w8do-g.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"name":"theme-color","content":"#fbf3e6"}],["$","link",null,{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              (function() {\n                try {\n                  var saved = localStorage.getItem('theme');\n                  var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;\n                  var theme = saved || (prefersDark ? 'dark' : 'light');\n                  document.documentElement.setAttribute('data-theme', theme);\n                } catch (e) {}\n              })();\n            "}}]]}],["$","body",null,{"children":[[["$","$L2",null,{"id":"google-tag-manager","strategy":"afterInteractive","children":"\n          (function(w,d,s,l,i){\n            w[l]=w[l]||[];\n            w[l].push({'gtm.start': new Date().getTime(), event:'gtm.js'});\n            var f=d.getElementsByTagName(s)[0],\n                j=d.createElement(s),\n                dl=l!='dataLayer'?'&l='+l:'';\n            j.async=true;\n            j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;\n            f.parentNode.insertBefore(j,f);\n          })(window,document,'script','dataLayer','GTM-PDKHPT4');\n        "}],["$","noscript",null,{"children":"$3"}]],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$L6",[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L7",null,{}],["$","$L8",null,{}],["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$9"}}]]}]]}]]}],{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"7OdBAH1vPtu7vwY_UXXy3"}
+0:{"P":null,"c":["","now"],"q":"","i":false,"f":[[["",{"children":["now",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0-zxi~xkytfab.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0-8b5a8w8do-g.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"name":"theme-color","content":"#fbf3e6"}],["$","link",null,{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              (function() {\n                try {\n                  var saved = localStorage.getItem('theme');\n                  var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;\n                  var theme = saved || (prefersDark ? 'dark' : 'light');\n                  document.documentElement.setAttribute('data-theme', theme);\n                } catch (e) {}\n              })();\n            "}}]]}],["$","body",null,{"children":[[["$","$L2",null,{"id":"google-tag-manager","strategy":"afterInteractive","children":"\n          (function(w,d,s,l,i){\n            w[l]=w[l]||[];\n            w[l].push({'gtm.start': new Date().getTime(), event:'gtm.js'});\n            var f=d.getElementsByTagName(s)[0],\n                j=d.createElement(s),\n                dl=l!='dataLayer'?'&l='+l:'';\n            j.async=true;\n            j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;\n            f.parentNode.insertBefore(j,f);\n          })(window,document,'script','dataLayer','GTM-PDKHPT4');\n        "}],["$","noscript",null,{"children":"$3"}]],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$L6",[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L7",null,{}],["$","$L8",null,{}],["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$9"}}]]}]]}]]}],{"children":["$La",{"children":["$Lb",{},null,false,null]},null,false,"$@c"]},null,false,null],"$Ld",false]],"m":"$undefined","G":["$e",["$Lf"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"UKW3vhTZj5jQvtpQOStf3"}
 11:I[97367,["/_next/static/chunks/0-8b5a8w8do-g.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
 12:"$Sreact.suspense"
 15:I[97367,["/_next/static/chunks/0-8b5a8w8do-g.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
@@ -1416,7 +1416,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0-zxi~xkytfab
     filter: drop-shadow(-1px -1px 2px rgba(0, 0, 0, 0.45));
   }
 </style>6:["$","$L19",null,{"body":"$1a","scripts":["\n  const themeBtn = document.getElementById('theme-toggle');\n  if (themeBtn) themeBtn.addEventListener('click', () => {\n    const cur = document.documentElement.getAttribute('data-theme') || 'light';\n    const nxt = cur === 'light' ? 'dark' : 'light';\n    document.documentElement.setAttribute('data-theme', nxt);\n    try { localStorage.setItem('theme', nxt); } catch (e) {}\n  });\n"],"styles":"$1b"}]
-1c:T19e8,
+1c:T1a31,
 
 <div class="page">
 
@@ -1447,7 +1447,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0-zxi~xkytfab
     </p>
     <div class="updated">
       <span class="dot"></span>
-      <span>last updated <b>2026 · 05 · 25</b></span>
+      <span>last updated <b>2026 · 07 · 06</b></span>
       <span style="color: var(--ink-faint);">·</span>
       <span>from <b>Bengaluru, IN</b></span>
     </div>
@@ -1480,10 +1480,10 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0-zxi~xkytfab
     <span class="k">reading →</span>
     <div class="v">
       <ul>
-        <li>My own notes-in-progress on <a href="/notes" style="color: var(--red); border-bottom: 1px dashed var(--red);">AI, SecOps, retrieval, and infrastructure</a> &mdash; editing is thinking with receipts.</li>
+        <li>My own notes-in-progress on <a href="/notes" style="color: var(--red); border-bottom: 1px dashed var(--red);">AI, SecOps, retrieval, and infrastructure</a> &mdash; editing is usually where I find the gaps.</li>
         <li>Architecture writeups on object-storage-backed search and low-cost indexing.</li>
         <li>Trust, safety, and security engineering posts that sound like they have met a pager.</li>
-        <li>Long threads only when they come with implementation details. Vibes are not an API.</li>
+        <li>Long threads when they come with implementation details. Vibes are not an API.</li>
       </ul>
     </div>
   </div>
@@ -1505,7 +1505,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0-zxi~xkytfab
     <div class="v">
       <ul>
         <li>Generic "AI transformation" language with no verbs attached.</li>
-        <li>Cold outreach with no compensation range. <em>(See <a href="/for-recruiters" style="color: var(--red); border-bottom: 1px dashed var(--red);">the letter</a>.)</em></li>
+        <li>Recruiter outreach with too little context to understand the role. <em>(I left a few helpful details in <a href="/for-recruiters" style="color: var(--red); border-bottom: 1px dashed var(--red);">the letter</a>.)</em></li>
         <li>Architecture that needs six systems before it has one user.</li>
         <li>Meetings that could have been a Linear comment with a screenshot.</li>
       </ul>
@@ -1528,9 +1528,9 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0-zxi~xkytfab
     <span class="k">status →</span>
     <div class="v">
       <p>
-        <b style="color: var(--red);">Open to selective work.</b> Engineering
+        <b style="color: var(--red);">Open to thoughtful conversations.</b> Engineering
         leadership, principal IC, or advisory conversations where AI, security,
-        and infrastructure are all real parts of the product. <em>The full filter is</em>
+        and infrastructure are meaningful parts of the product. <em>A little more context is</em>
         <a href="/for-recruiters" style="color: var(--red); border-bottom: 1px dashed var(--red);">over here</a>.
       </p>
     </div>
@@ -1554,7 +1554,7 @@ f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0-zxi~xkytfab
 
   <footer class="bottom">
     <a href="/" class="big-back"><span>←</span> back to the notebook</a>
-    <div>© 2026 · <b>Prince Sinha</b> · last updated 2026 · 05 · 25</div>
+    <div>© 2026 · <b>Prince Sinha</b> · last updated 2026 · 07 · 06</div>
   </footer>
 
 </div>

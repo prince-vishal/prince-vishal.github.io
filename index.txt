@@ -1021,17 +1021,19 @@ c:I[68027,["/_next/static/chunks/0-8b5a8w8do-g.js","/_next/static/chunks/0d3shmw
     min-width: 100%;
   }
 }
-0:{"P":null,"c":["",""],"q":"","i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0-zxi~xkytfab.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0-8b5a8w8do-g.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"name":"theme-color","content":"#fbf3e6"}],["$","link",null,{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              (function() {\n                try {\n                  var saved = localStorage.getItem('theme');\n                  var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;\n                  var theme = saved || (prefersDark ? 'dark' : 'light');\n                  document.documentElement.setAttribute('data-theme', theme);\n                } catch (e) {}\n              })();\n            "}}]]}],["$","body",null,{"children":[[["$","$L2",null,{"id":"google-tag-manager","strategy":"afterInteractive","children":"\n          (function(w,d,s,l,i){\n            w[l]=w[l]||[];\n            w[l].push({'gtm.start': new Date().getTime(), event:'gtm.js'});\n            var f=d.getElementsByTagName(s)[0],\n                j=d.createElement(s),\n                dl=l!='dataLayer'?'&l='+l:'';\n            j.async=true;\n            j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;\n            f.parentNode.insertBefore(j,f);\n          })(window,document,'script','dataLayer','GTM-PDKHPT4');\n        "}],["$","noscript",null,{"children":"$3"}]],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$L6",[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L7",null,{}],["$","$L8",null,{}],["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$9"}}]]}]]}]]}],{"children":["$La",{},null,false,null]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"7OdBAH1vPtu7vwY_UXXy3"}
-f:I[97367,["/_next/static/chunks/0-8b5a8w8do-g.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
-10:"$Sreact.suspense"
-12:I[97367,["/_next/static/chunks/0-8b5a8w8do-g.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
-14:I[97367,["/_next/static/chunks/0-8b5a8w8do-g.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
-a:["$","$1","c",{"children":["$Le",[["$","script","script-0",{"src":"/_next/static/chunks/0cpu9mdm3uq6j.js","async":true,"nonce":"$undefined"}]],["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}]
-b:["$","$1","h",{"children":[null,["$","$L12",null,{"children":"$L13"}],["$","div",null,{"hidden":true,"children":["$","$L14",null,{"children":["$","$10",null,{"name":"Next.Metadata","children":"$L15"}]}]}],null]}]
+0:{"P":null,"c":["",""],"q":"","i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0-zxi~xkytfab.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0-8b5a8w8do-g.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"name":"theme-color","content":"#fbf3e6"}],["$","link",null,{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              (function() {\n                try {\n                  var saved = localStorage.getItem('theme');\n                  var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;\n                  var theme = saved || (prefersDark ? 'dark' : 'light');\n                  document.documentElement.setAttribute('data-theme', theme);\n                } catch (e) {}\n              })();\n            "}}]]}],["$","body",null,{"children":[[["$","$L2",null,{"id":"google-tag-manager","strategy":"afterInteractive","children":"\n          (function(w,d,s,l,i){\n            w[l]=w[l]||[];\n            w[l].push({'gtm.start': new Date().getTime(), event:'gtm.js'});\n            var f=d.getElementsByTagName(s)[0],\n                j=d.createElement(s),\n                dl=l!='dataLayer'?'&l='+l:'';\n            j.async=true;\n            j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;\n            f.parentNode.insertBefore(j,f);\n          })(window,document,'script','dataLayer','GTM-PDKHPT4');\n        "}],["$","noscript",null,{"children":"$3"}]],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$L6",[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L7",null,{}],["$","$L8",null,{}],["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$9"}}]]}]]}]]}],{"children":["$La",{},null,false,null]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"UKW3vhTZj5jQvtpQOStf3"}
+10:I[97367,["/_next/static/chunks/0-8b5a8w8do-g.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+11:"$Sreact.suspense"
+13:I[97367,["/_next/static/chunks/0-8b5a8w8do-g.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+15:I[97367,["/_next/static/chunks/0-8b5a8w8do-g.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+e:Ta09,[{"@context":"https://schema.org","@type":"ProfilePage","@id":"https://theprincevishal.in#webpage","name":"Prince Sinha","description":"Portfolio and hiring profile for Prince Sinha, an AI-native cybersecurity and SecOps platform engineering leader.","url":"https://theprincevishal.in","inLanguage":"en","mainEntity":{"@type":"Person","@id":"https://theprincevishal.in#prince-sinha","name":"Prince Sinha","url":"https://theprincevishal.in","email":"mailto:vishal.prince30@gmail.com","sameAs":["https://www.linkedin.com/in/princevishal/","https://github.com/prince-vishal"],"jobTitle":["AI Security Engineering Leader","Cybersecurity Engineering Leader","SecOps Platform Architect","Builder-Leader"],"workLocation":{"@type":"Place","name":"Bengaluru, India"},"knowsAbout":["AI-native cybersecurity","Agentic SOC architecture","SecOps platforms","Threat intelligence automation","AI security engineering","Cybersecurity product engineering","Engineering leadership","Infrastructure reliability","Reliable AI systems"]},"hasPart":[{"@type":"WebPage","name":"For Recruiters","url":"https://theprincevishal.in/for-recruiters"},{"@type":"CollectionPage","name":"AI Security & Agentic SOC Notes","url":"https://theprincevishal.in/notes"},{"@type":"WebPage","name":"Selected AI security and engineering leadership notes","url":"https://theprincevishal.in/notes#hiring-track"},{"@type":"WebPage","name":"AI security leadership interview questions I would actually ask","url":"https://theprincevishal.in/notes/ai-security-leadership-interview-questions"},{"@type":"WebPage","name":"What I would build as Head of AI Security Platform","url":"https://theprincevishal.in/notes/head-of-ai-security-platform-brief"},{"@type":"WebPage","name":"From AI security demo to production: the checklist I use","url":"https://theprincevishal.in/notes/ai-security-demo-to-production-checklist"},{"@type":"WebPage","name":"Agentic SOC product strategy for founders who need the real version","url":"https://theprincevishal.in/notes/agentic-soc-product-strategy-founders"},{"@type":"WebPage","name":"The AI cybersecurity founding CTO memo I would want to read","url":"https://theprincevishal.in/notes/founding-cto-ai-cybersecurity-startup"}],"potentialAction":{"@type":"ContactAction","name":"Book a 15 minute call","target":"https://cal.com/prince-vishal-30/15min"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://theprincevishal.in#website","name":"Prince Sinha","url":"https://theprincevishal.in","author":{"@id":"https://theprincevishal.in#prince-sinha"},"inLanguage":"en"}]a:["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$e"}}],"$Lf"],[["$","script","script-0",{"src":"/_next/static/chunks/0cpu9mdm3uq6j.js","async":true,"nonce":"$undefined"}]],["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}]
+b:["$","$1","h",{"children":[null,["$","$L13",null,{"children":"$L14"}],["$","div",null,{"hidden":true,"children":["$","$L15",null,{"children":["$","$11",null,{"name":"Next.Metadata","children":"$L16"}]}]}],null]}]
 d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0-zxi~xkytfab.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
-13:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-16:I[23542,["/_next/static/chunks/0-8b5a8w8do-g.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0cpu9mdm3uq6j.js"],"default"]
-17:Tb4b,
+14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:null
+16:[["$","title","0",{"children":"Prince Sinha  -  AI-native cybersecurity & SecOps platform architect"}],["$","meta","1",{"name":"description","content":"Engineering leader and builder working on AI-native cybersecurity, agentic SOC architecture, SecOps platforms, threat intelligence, automation, and infrastructure."}],["$","meta","2",{"name":"author","content":"Prince Sinha"}],["$","link","3",{"rel":"canonical","href":"https://theprincevishal.in"}],["$","meta","4",{"property":"og:title","content":"Prince Sinha  -  AI-native cybersecurity & SecOps platform architect"}],["$","meta","5",{"property":"og:description","content":"Engineering leader building AI-native systems for security operations, threat intelligence, automation, and trust."}],["$","meta","6",{"property":"og:url","content":"https://theprincevishal.in"}],["$","meta","7",{"property":"og:type","content":"profile"}],["$","meta","8",{"name":"twitter:card","content":"summary"}],["$","meta","9",{"name":"twitter:title","content":"Prince Sinha  -  AI-native cybersecurity & SecOps platform architect"}],["$","meta","10",{"name":"twitter:description","content":"Engineering leader building AI-native systems for security operations, threat intelligence, automation, and trust."}]]
+17:I[23542,["/_next/static/chunks/0-8b5a8w8do-g.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0cpu9mdm3uq6j.js"],"default"]
+18:Tb4b,
 
 <div class="page">
 
@@ -1102,7 +1104,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0-zxi~xkytfab
 
 
 
-18:T300b,<style>
+19:T300b,<style>
   :root {
     --paper: #fbf3e6; --paper-2: #f5ead4; --paper-3: #ede0c6;
     --tape: #f3e4b0; --tape-2: #e9d58a; --tape-a: 0.6; --tape-b: 0.85;
@@ -1412,8 +1414,8 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0-zxi~xkytfab
       color-mix(in oklab, var(--paper-2) 88%, #0a0805 12%) 100%);
     filter: drop-shadow(-1px -1px 2px rgba(0, 0, 0, 0.45));
   }
-</style>6:["$","$L16",null,{"body":"$17","scripts":["\n  const themeBtn = document.getElementById('theme-toggle');\n  if (themeBtn) themeBtn.addEventListener('click', () => {\n    const cur = document.documentElement.getAttribute('data-theme') || 'light';\n    const nxt = cur === 'light' ? 'dark' : 'light';\n    document.documentElement.setAttribute('data-theme', nxt);\n    try { localStorage.setItem('theme', nxt); } catch (e) {}\n  });\n"],"styles":"$18"}]
-19:T6abb,
+</style>6:["$","$L17",null,{"body":"$18","scripts":["\n  const themeBtn = document.getElementById('theme-toggle');\n  if (themeBtn) themeBtn.addEventListener('click', () => {\n    const cur = document.documentElement.getAttribute('data-theme') || 'light';\n    const nxt = cur === 'light' ? 'dark' : 'light';\n    document.documentElement.setAttribute('data-theme', nxt);\n    try { localStorage.setItem('theme', nxt); } catch (e) {}\n  });\n"],"styles":"$19"}]
+1a:T6cc8,
 
 <!-- scroll progress bar (top) -->
 <div class="page-progress" aria-hidden="true"><div class="bar" id="page-progress-bar"></div></div>
@@ -1482,9 +1484,9 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0-zxi~xkytfab
       </h1>
 
       <p class="hero-lead">
-        I'm Prince Sinha, an engineering leader and product builder working across
+        I'm Prince Sinha, an engineering leader who still enjoys building, working across
         <span class="hl">AI agents, cybersecurity, SecOps, cloud infrastructure, and high-scale data systems</span>
-        &mdash; mostly the parts where products become technically inconvenient.
+        &mdash; especially the parts where a promising idea has to become a dependable product.
       </p>
       <p class="hero-lead">
         Lately that means AI-assisted investigations, autonomous alert triage,
@@ -1508,7 +1510,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0-zxi~xkytfab
   <section class="section" id="build">
     <div class="chapter">
       <div class="stamp">§ chapter one</div>
-      <h2>what I build, <em>when the problem gets real.</em></h2>
+      <h2>the kinds of systems <em>I keep learning to build.</em></h2>
     </div>
 
     <div class="col wide">
@@ -1836,26 +1838,29 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0-zxi~xkytfab
     <div class="col wide">
       <div class="notes">
         <article class="note">
-          <div class="date">2026 · 05</div>
-          <h4>Rethinking <em>SecOps</em> as an AI-native platform.</h4>
-          <p>Security operations do not need one more dashboard. They need systems that reason across context, orchestrate workflows, and keep analysts in control.</p>
-          <a class="more" href="/notes/ai-native-secops-platform">read note →</a>
+          <div class="date">2026 · 06</div>
+          <h4>Agentic SOC product strategy for founders who need the <em>real</em> version.</h4>
+          <p>A founder-facing memo on wedges, trust, workflow proof, agent controls, GTM claims, and what actually compounds.</p>
+          <a class="more" href="/notes/agentic-soc-product-strategy-founders">read note →</a>
         </article>
         <article class="note">
-          <div class="date">2026 · 05</div>
-          <h4>Building deep research systems for <em>cybersecurity.</em></h4>
-          <p>Search is useful, but the real product is the operational explanation: retrieval, correlation, reasoning, and memory working together.</p>
-          <a class="more" href="/notes/deep-research-systems">read note →</a>
+          <div class="date">2026 · 06</div>
+          <h4>The AI cybersecurity <em>founding CTO</em> memo I would want to read.</h4>
+          <p>What the early technical leader has to own: product trust, evidence, architecture, hiring, and delivery discipline.</p>
+          <a class="more" href="/notes/founding-cto-ai-cybersecurity-startup">read note →</a>
         </article>
         <article class="note">
-          <div class="date">2026 · 05</div>
-          <h4>Why infrastructure discipline matters for <em>AI systems.</em></h4>
-          <p>Production AI is a distributed systems problem: retrieval, queues, workflow tracing, cost, observability, and failure handling all count.</p>
-          <a class="more" href="/notes/infrastructure-reliability-for-ai">read note →</a>
+          <div class="date">2026 · 06</div>
+          <h4>What I would build as <em>Head of AI Security Platform.</em></h4>
+          <p>A practical brief on evidence layers, agent control, trust UX, customer controls, team design, and execution rhythm.</p>
+          <a class="more" href="/notes/head-of-ai-security-platform-brief">read note →</a>
         </article>
       </div>
 
-      <div style="margin-top: 32px; text-align: right;">
+      <div style="margin-top: 32px; text-align: right; display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 12px 24px;">
+        <a href="/notes#hiring-track" style="display: inline-flex; align-items: baseline; gap: 10px; font-family: var(--hand); font-size: 26px; color: var(--red); transform: rotate(1deg); transition: gap .15s ease;" onmouseover="this.style.gap='16px'" onmouseout="this.style.gap='10px'">
+          start with selected notes <span style="font-family: var(--serif); font-style: italic; font-size: 22px;">→</span>
+        </a>
         <a href="/notes" style="display: inline-flex; align-items: baseline; gap: 10px; font-family: var(--hand); font-size: 26px; color: var(--red); transform: rotate(-1.5deg); transition: gap .15s ease;" onmouseover="this.style.gap='16px'" onmouseout="this.style.gap='10px'">
           see all notes <span style="font-family: var(--serif); font-style: italic; font-size: 22px;">→</span>
         </a>
@@ -1868,10 +1873,10 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0-zxi~xkytfab
     <div class="col">
       <span class="salutation">p.s.  - </span>
       <p class="letter">
-        If you read this far, that's flattering. I'm <em>open to a small number
-        of conversations</em> &mdash; for collaboration, hiring, advising, or just
-        comparing notes on cyber/AI things. The fastest path is email.
-        I usually reply within a day.
+        If you read this far, thank you. I'm <em>open to thoughtful conversations</em>
+        &mdash; about collaboration, hiring, advising, or simply comparing notes on
+        cyber and AI. Email is the easiest way to reach me, and I usually reply within
+        a few days.
       </p>
 
       <div style="margin-top: 24px;">
@@ -1883,8 +1888,8 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0-zxi~xkytfab
         <span class="kicker">↬ if you're a recruiter:</span>
         <h4>I wrote you a <em>separate letter.</em></h4>
         <p>
-          Six questions every cold email asks, answered up front  -  plus what I'm
-          open to, what to skip, and how to make this easy on both of us.
+          A practical introduction to the work I enjoy, the roles where I may be useful,
+          and the context that helps us have a better first conversation.
         </p>
         <span class="pill">read the letter <span aria-hidden="true">→</span></span>
       </a>
@@ -1917,7 +1922,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0-zxi~xkytfab
 
 
 
-1a:T6456,
+1b:T6456,
   // ───────── Scroll animations (chapters reveal + page progress + indicator) ─────────
   // ───────── Scroll-progress driven animations + page progress + chapter indicator ─────────
   (function() {
@@ -2355,7 +2360,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0-zxi~xkytfab
     el.classList.add('scr', cycle[i % cycle.length]);
   });
   if (window.__scrRegister) window.__scrRegister();
-1b:Tcb7d,<style>
+1c:Tcb93,<style>
   :root {
     --paper:      #fbf3e6;
     --paper-2:    #f5ead4;
@@ -2497,6 +2502,7 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0-zxi~xkytfab
   .page {
     max-width: 1200px;
     margin: 0 auto;
+    overflow-x: clip;
     padding: 0 clamp(20px, 4vw, 48px);
     position: relative;
   }
@@ -3848,6 +3854,4 @@ d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0-zxi~xkytfab
       color-mix(in oklab, var(--paper-2) 88%, #0a0805 12%) 100%);
     filter: drop-shadow(-1px -1px 2px rgba(0, 0, 0, 0.45));
   }
-</style>e:["$","$L16",null,{"body":"$19","scripts":["$1a"],"styles":"$1b"}]
-11:null
-15:[["$","title","0",{"children":"Prince Sinha  -  AI-native cybersecurity & SecOps platform architect"}],["$","meta","1",{"name":"description","content":"Engineering leader building AI-native systems for security operations, threat intelligence, automation, and infrastructure."}],["$","meta","2",{"name":"author","content":"Prince Sinha"}]]
+</style>f:["$","$L17",null,{"body":"$1a","scripts":["$1b"],"styles":"$1c"}]

@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
-2:I[23542,["/_next/static/chunks/0-8b5a8w8do-g.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0cpu9mdm3uq6j.js"],"default"]
-8:I[97367,["/_next/static/chunks/0-8b5a8w8do-g.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
-9:"$Sreact.suspense"
-3:T6abb,
+3:I[23542,["/_next/static/chunks/0-8b5a8w8do-g.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0cpu9mdm3uq6j.js"],"default"]
+9:I[97367,["/_next/static/chunks/0-8b5a8w8do-g.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+2:Ta09,[{"@context":"https://schema.org","@type":"ProfilePage","@id":"https://theprincevishal.in#webpage","name":"Prince Sinha","description":"Portfolio and hiring profile for Prince Sinha, an AI-native cybersecurity and SecOps platform engineering leader.","url":"https://theprincevishal.in","inLanguage":"en","mainEntity":{"@type":"Person","@id":"https://theprincevishal.in#prince-sinha","name":"Prince Sinha","url":"https://theprincevishal.in","email":"mailto:vishal.prince30@gmail.com","sameAs":["https://www.linkedin.com/in/princevishal/","https://github.com/prince-vishal"],"jobTitle":["AI Security Engineering Leader","Cybersecurity Engineering Leader","SecOps Platform Architect","Builder-Leader"],"workLocation":{"@type":"Place","name":"Bengaluru, India"},"knowsAbout":["AI-native cybersecurity","Agentic SOC architecture","SecOps platforms","Threat intelligence automation","AI security engineering","Cybersecurity product engineering","Engineering leadership","Infrastructure reliability","Reliable AI systems"]},"hasPart":[{"@type":"WebPage","name":"For Recruiters","url":"https://theprincevishal.in/for-recruiters"},{"@type":"CollectionPage","name":"AI Security & Agentic SOC Notes","url":"https://theprincevishal.in/notes"},{"@type":"WebPage","name":"Selected AI security and engineering leadership notes","url":"https://theprincevishal.in/notes#hiring-track"},{"@type":"WebPage","name":"AI security leadership interview questions I would actually ask","url":"https://theprincevishal.in/notes/ai-security-leadership-interview-questions"},{"@type":"WebPage","name":"What I would build as Head of AI Security Platform","url":"https://theprincevishal.in/notes/head-of-ai-security-platform-brief"},{"@type":"WebPage","name":"From AI security demo to production: the checklist I use","url":"https://theprincevishal.in/notes/ai-security-demo-to-production-checklist"},{"@type":"WebPage","name":"Agentic SOC product strategy for founders who need the real version","url":"https://theprincevishal.in/notes/agentic-soc-product-strategy-founders"},{"@type":"WebPage","name":"The AI cybersecurity founding CTO memo I would want to read","url":"https://theprincevishal.in/notes/founding-cto-ai-cybersecurity-startup"}],"potentialAction":{"@type":"ContactAction","name":"Book a 15 minute call","target":"https://cal.com/prince-vishal-30/15min"}},{"@context":"https://schema.org","@type":"WebSite","@id":"https://theprincevishal.in#website","name":"Prince Sinha","url":"https://theprincevishal.in","author":{"@id":"https://theprincevishal.in#prince-sinha"},"inLanguage":"en"}]4:T6cc8,
 
 <!-- scroll progress bar (top) -->
 <div class="page-progress" aria-hidden="true"><div class="bar" id="page-progress-bar"></div></div>
@@ -71,9 +71,9 @@
       </h1>
 
       <p class="hero-lead">
-        I'm Prince Sinha, an engineering leader and product builder working across
+        I'm Prince Sinha, an engineering leader who still enjoys building, working across
         <span class="hl">AI agents, cybersecurity, SecOps, cloud infrastructure, and high-scale data systems</span>
-        &mdash; mostly the parts where products become technically inconvenient.
+        &mdash; especially the parts where a promising idea has to become a dependable product.
       </p>
       <p class="hero-lead">
         Lately that means AI-assisted investigations, autonomous alert triage,
@@ -97,7 +97,7 @@
   <section class="section" id="build">
     <div class="chapter">
       <div class="stamp">§ chapter one</div>
-      <h2>what I build, <em>when the problem gets real.</em></h2>
+      <h2>the kinds of systems <em>I keep learning to build.</em></h2>
     </div>
 
     <div class="col wide">
@@ -425,26 +425,29 @@
     <div class="col wide">
       <div class="notes">
         <article class="note">
-          <div class="date">2026 · 05</div>
-          <h4>Rethinking <em>SecOps</em> as an AI-native platform.</h4>
-          <p>Security operations do not need one more dashboard. They need systems that reason across context, orchestrate workflows, and keep analysts in control.</p>
-          <a class="more" href="/notes/ai-native-secops-platform">read note →</a>
+          <div class="date">2026 · 06</div>
+          <h4>Agentic SOC product strategy for founders who need the <em>real</em> version.</h4>
+          <p>A founder-facing memo on wedges, trust, workflow proof, agent controls, GTM claims, and what actually compounds.</p>
+          <a class="more" href="/notes/agentic-soc-product-strategy-founders">read note →</a>
         </article>
         <article class="note">
-          <div class="date">2026 · 05</div>
-          <h4>Building deep research systems for <em>cybersecurity.</em></h4>
-          <p>Search is useful, but the real product is the operational explanation: retrieval, correlation, reasoning, and memory working together.</p>
-          <a class="more" href="/notes/deep-research-systems">read note →</a>
+          <div class="date">2026 · 06</div>
+          <h4>The AI cybersecurity <em>founding CTO</em> memo I would want to read.</h4>
+          <p>What the early technical leader has to own: product trust, evidence, architecture, hiring, and delivery discipline.</p>
+          <a class="more" href="/notes/founding-cto-ai-cybersecurity-startup">read note →</a>
         </article>
         <article class="note">
-          <div class="date">2026 · 05</div>
-          <h4>Why infrastructure discipline matters for <em>AI systems.</em></h4>
-          <p>Production AI is a distributed systems problem: retrieval, queues, workflow tracing, cost, observability, and failure handling all count.</p>
-          <a class="more" href="/notes/infrastructure-reliability-for-ai">read note →</a>
+          <div class="date">2026 · 06</div>
+          <h4>What I would build as <em>Head of AI Security Platform.</em></h4>
+          <p>A practical brief on evidence layers, agent control, trust UX, customer controls, team design, and execution rhythm.</p>
+          <a class="more" href="/notes/head-of-ai-security-platform-brief">read note →</a>
         </article>
       </div>
 
-      <div style="margin-top: 32px; text-align: right;">
+      <div style="margin-top: 32px; text-align: right; display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 12px 24px;">
+        <a href="/notes#hiring-track" style="display: inline-flex; align-items: baseline; gap: 10px; font-family: var(--hand); font-size: 26px; color: var(--red); transform: rotate(1deg); transition: gap .15s ease;" onmouseover="this.style.gap='16px'" onmouseout="this.style.gap='10px'">
+          start with selected notes <span style="font-family: var(--serif); font-style: italic; font-size: 22px;">→</span>
+        </a>
         <a href="/notes" style="display: inline-flex; align-items: baseline; gap: 10px; font-family: var(--hand); font-size: 26px; color: var(--red); transform: rotate(-1.5deg); transition: gap .15s ease;" onmouseover="this.style.gap='16px'" onmouseout="this.style.gap='10px'">
           see all notes <span style="font-family: var(--serif); font-style: italic; font-size: 22px;">→</span>
         </a>
@@ -457,10 +460,10 @@
     <div class="col">
       <span class="salutation">p.s.  - </span>
       <p class="letter">
-        If you read this far, that's flattering. I'm <em>open to a small number
-        of conversations</em> &mdash; for collaboration, hiring, advising, or just
-        comparing notes on cyber/AI things. The fastest path is email.
-        I usually reply within a day.
+        If you read this far, thank you. I'm <em>open to thoughtful conversations</em>
+        &mdash; about collaboration, hiring, advising, or simply comparing notes on
+        cyber and AI. Email is the easiest way to reach me, and I usually reply within
+        a few days.
       </p>
 
       <div style="margin-top: 24px;">
@@ -472,8 +475,8 @@
         <span class="kicker">↬ if you're a recruiter:</span>
         <h4>I wrote you a <em>separate letter.</em></h4>
         <p>
-          Six questions every cold email asks, answered up front  -  plus what I'm
-          open to, what to skip, and how to make this easy on both of us.
+          A practical introduction to the work I enjoy, the roles where I may be useful,
+          and the context that helps us have a better first conversation.
         </p>
         <span class="pill">read the letter <span aria-hidden="true">→</span></span>
       </a>
@@ -506,7 +509,7 @@
 
 
 
-4:T6456,
+5:T6456,
   // ───────── Scroll animations (chapters reveal + page progress + indicator) ─────────
   // ───────── Scroll-progress driven animations + page progress + chapter indicator ─────────
   (function() {
@@ -944,7 +947,7 @@
     el.classList.add('scr', cycle[i % cycle.length]);
   });
   if (window.__scrRegister) window.__scrRegister();
-5:Tcb7d,<style>
+6:Tcb93,<style>
   :root {
     --paper:      #fbf3e6;
     --paper-2:    #f5ead4;
@@ -1086,6 +1089,7 @@
   .page {
     max-width: 1200px;
     margin: 0 auto;
+    overflow-x: clip;
     padding: 0 clamp(20px, 4vw, 48px);
     position: relative;
   }
@@ -2437,7 +2441,7 @@
       color-mix(in oklab, var(--paper-2) 88%, #0a0805 12%) 100%);
     filter: drop-shadow(-1px -1px 2px rgba(0, 0, 0, 0.45));
   }
-</style>0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"body":"$3","scripts":["$4"],"styles":"$5"}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"7OdBAH1vPtu7vwY_UXXy3"}
-6:["$","script","script-0",{"src":"/_next/static/chunks/0cpu9mdm3uq6j.js","async":true}]
-7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
-a:null
+</style>0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","$L3",null,{"body":"$4","scripts":["$5"],"styles":"$6"}]],["$L7"],"$L8"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"UKW3vhTZj5jQvtpQOStf3"}
+7:["$","script","script-0",{"src":"/_next/static/chunks/0cpu9mdm3uq6j.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null
