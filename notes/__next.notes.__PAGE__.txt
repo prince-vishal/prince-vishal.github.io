@@ -2,9 +2,9 @@
 c:I[22016,["/_next/static/chunks/0-8b5a8w8do-g.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0h4smigb-901j.js"],""]
 d:I[2538,["/_next/static/chunks/0-8b5a8w8do-g.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0h4smigb-901j.js"],"default"]
 12:I[21404,["/_next/static/chunks/0-8b5a8w8do-g.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0h4smigb-901j.js"],"default"]
-2f:I[97367,["/_next/static/chunks/0-8b5a8w8do-g.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
-30:"$Sreact.suspense"
-2:T1174,[{"@context":"https://schema.org","@type":"CollectionPage","@id":"https://theprincevishal.in/notes#webpage","name":"AI Security & Agentic SOC Notes","description":"Technical notes by Prince Sinha on AI-native cybersecurity, agentic SOC architecture, SecOps platforms, security engineering leadership, and reliable AI systems.","url":"https://theprincevishal.in/notes","inLanguage":"en","isPartOf":{"@type":"WebSite","name":"Prince Sinha","url":"https://theprincevishal.in"},"author":{"@type":"Person","name":"Prince Sinha","url":"https://theprincevishal.in","knowsAbout":["AI security engineering","Agentic SOC architecture","Cybersecurity engineering leadership","SecOps platforms","AI-native security products","Threat intelligence automation"]},"hasPart":{"@type":"ItemList","@id":"https://theprincevishal.in/notes#ai-security-builder-leader-track","name":"Selected AI security and engineering leadership notes","description":"A curated reading path for recruiters, founders, CISOs, and engineering leaders exploring Prince Sinha’s approach to AI-native cybersecurity.","itemListOrder":"https://schema.org/ItemListOrderAscending","numberOfItems":9,"itemListElement":[{"@type":"ListItem","position":1,"url":"https://theprincevishal.in/notes/agentic-soc-product-strategy-founders","name":"Agentic SOC product strategy for founders who need the real version","description":"Agentic SOC strategy is not 'AI replaces analysts.' The real strategy is choosing a painful workflow, proving trust, and earning automation step by step."},{"@type":"ListItem","position":2,"url":"https://theprincevishal.in/notes/founding-cto-ai-cybersecurity-startup","name":"The AI cybersecurity founding CTO memo I would want to read","description":"A founding CTO in AI cybersecurity has to build the product, the trust system, the engineering culture, and the risk posture at the same time."},{"@type":"ListItem","position":3,"url":"https://theprincevishal.in/notes/head-of-ai-security-platform-brief","name":"What I would build as Head of AI Security Platform","description":"If I owned an AI security platform, I would build around evidence, controlled agency, analyst workflows, reliability, trust, and a team that can ship without losing judgment."},{"@type":"ListItem","position":4,"url":"https://theprincevishal.in/notes/ai-security-demo-to-production-checklist","name":"From AI security demo to production: the checklist I use","description":"AI security demos are easy to like. Production systems need evidence, permissions, evals, observability, rollout discipline, and a plan for being wrong."},{"@type":"ListItem","position":5,"url":"https://theprincevishal.in/notes/ai-security-leadership-interview-questions","name":"AI security leadership interview questions I would actually ask","description":"A practical interview loop for finding AI security leaders who can build systems, lead teams, reason about risk, and ship products analysts can trust."},{"@type":"ListItem","position":6,"url":"https://theprincevishal.in/notes/agentic-soc-architecture-scorecard","name":"The agentic SOC architecture scorecard","description":"An agentic SOC platform should be judged by the control system around the model, not by the confidence of the demo."},{"@type":"ListItem","position":7,"url":"https://theprincevishal.in/notes/hiring-ai-security-engineering-leader","name":"How I would evaluate an AI security engineering leader","description":"The fastest way to hire an AI security engineering leader is to stop interviewing only for management polish."},{"@type":"ListItem","position":8,"url":"https://theprincevishal.in/notes/ai-security-engineering-90-day-plan","name":"My 90-day plan for leading an AI security engineering team","description":"The fastest way to evaluate an AI security engineering leader is to ask what they would change in the first 90 days."},{"@type":"ListItem","position":9,"url":"https://theprincevishal.in/notes/builder-leader-cybersecurity-engineering","name":"What I mean by builder-leader in cybersecurity engineering","description":"Builder-leader is the shortest phrase I have for the kind of cybersecurity engineering work I want to do next."}]}},{"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://theprincevishal.in/notes#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://theprincevishal.in"},{"@type":"ListItem","position":2,"name":"Notes","item":"https://theprincevishal.in/notes"}]}]0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"notes-page","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"UKW3vhTZj5jQvtpQOStf3"}
+34:I[97367,["/_next/static/chunks/0-8b5a8w8do-g.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+35:"$Sreact.suspense"
+2:T1174,[{"@context":"https://schema.org","@type":"CollectionPage","@id":"https://theprincevishal.in/notes#webpage","name":"AI Security & Agentic SOC Notes","description":"Technical notes by Prince Sinha on AI-native cybersecurity, agentic SOC architecture, SecOps platforms, security engineering leadership, and reliable AI systems.","url":"https://theprincevishal.in/notes","inLanguage":"en","isPartOf":{"@type":"WebSite","name":"Prince Sinha","url":"https://theprincevishal.in"},"author":{"@type":"Person","name":"Prince Sinha","url":"https://theprincevishal.in","knowsAbout":["AI security engineering","Agentic SOC architecture","Cybersecurity engineering leadership","SecOps platforms","AI-native security products","Threat intelligence automation"]},"hasPart":{"@type":"ItemList","@id":"https://theprincevishal.in/notes#ai-security-builder-leader-track","name":"Selected AI security and engineering leadership notes","description":"A curated reading path for recruiters, founders, CISOs, and engineering leaders exploring Prince Sinha’s approach to AI-native cybersecurity.","itemListOrder":"https://schema.org/ItemListOrderAscending","numberOfItems":9,"itemListElement":[{"@type":"ListItem","position":1,"url":"https://theprincevishal.in/notes/agentic-soc-product-strategy-founders","name":"Agentic SOC product strategy for founders who need the real version","description":"Agentic SOC strategy is not 'AI replaces analysts.' The real strategy is choosing a painful workflow, proving trust, and earning automation step by step."},{"@type":"ListItem","position":2,"url":"https://theprincevishal.in/notes/founding-cto-ai-cybersecurity-startup","name":"The AI cybersecurity founding CTO memo I would want to read","description":"A founding CTO in AI cybersecurity has to build the product, the trust system, the engineering culture, and the risk posture at the same time."},{"@type":"ListItem","position":3,"url":"https://theprincevishal.in/notes/head-of-ai-security-platform-brief","name":"What I would build as Head of AI Security Platform","description":"If I owned an AI security platform, I would build around evidence, controlled agency, analyst workflows, reliability, trust, and a team that can ship without losing judgment."},{"@type":"ListItem","position":4,"url":"https://theprincevishal.in/notes/ai-security-demo-to-production-checklist","name":"From AI security demo to production: the checklist I use","description":"AI security demos are easy to like. Production systems need evidence, permissions, evals, observability, rollout discipline, and a plan for being wrong."},{"@type":"ListItem","position":5,"url":"https://theprincevishal.in/notes/ai-security-leadership-interview-questions","name":"AI security leadership interview questions I would actually ask","description":"A practical interview loop for finding AI security leaders who can build systems, lead teams, reason about risk, and ship products analysts can trust."},{"@type":"ListItem","position":6,"url":"https://theprincevishal.in/notes/agentic-soc-architecture-scorecard","name":"The agentic SOC architecture scorecard","description":"An agentic SOC platform should be judged by the control system around the model, not by the confidence of the demo."},{"@type":"ListItem","position":7,"url":"https://theprincevishal.in/notes/hiring-ai-security-engineering-leader","name":"How I would evaluate an AI security engineering leader","description":"The fastest way to hire an AI security engineering leader is to stop interviewing only for management polish."},{"@type":"ListItem","position":8,"url":"https://theprincevishal.in/notes/ai-security-engineering-90-day-plan","name":"My 90-day plan for leading an AI security engineering team","description":"The fastest way to evaluate an AI security engineering leader is to ask what they would change in the first 90 days."},{"@type":"ListItem","position":9,"url":"https://theprincevishal.in/notes/builder-leader-cybersecurity-engineering","name":"What I mean by builder-leader in cybersecurity engineering","description":"Builder-leader is the shortest phrase I have for the kind of cybersecurity engineering work I want to do next."}]}},{"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://theprincevishal.in/notes#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://theprincevishal.in"},{"@type":"ListItem","position":2,"name":"Notes","item":"https://theprincevishal.in/notes"}]}]0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"notes-page","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4","$L5","$L6","$L7","$L8","$L9"]}],["$La"],"$Lb"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QYlbjLMyYCGrds_xPgPUW"}
 3:["$","div",null,{"className":"top","children":[["$","div",null,{"className":"notes-top-left","children":[["$","$Lc",null,{"href":"/","className":"back-link","children":[["$","span",null,{"className":"arr","children":"←"}]," ","back to the portfolio"]}],["$","div",null,{"className":"crumbs","children":[["$","span",null,{"children":"portfolio"}],["$","span",null,{"className":"sep","children":"/"}],["$","b",null,{"children":"notes"}]]}]]}],["$","$Ld",null,{}]]}]
 4:["$","section",null,{"className":"notes-hero","children":[["$","aside",null,{"className":"currently","children":[["$","h4",null,{"children":"now writing"}],["$","p",null,{"children":[["$","span",null,{"className":"live"}],["$","em",null,{"children":"\"the boring case for boring infrastructure.\""}],"  -  about ",["$","span",null,{"style":{"color":"var(--red)"},"children":"73% done."}]]}]]}],["$","span",null,{"className":"kicker","children":" -  a small writing room."}],["$","h1",null,{"children":["$","em",null,{"children":"Notes."}]}],["$","p",null,{"className":"lead","children":["Half essay, half ",["$","em",null,{"children":"marginalia."}]," ","Mostly about AI agents, security systems, the boring details that make products actually work, and what I've learned by writing it down. New entries land here when they're ready."]}]]}]
 5:["$","section",null,{"className":"hiring-path","id":"hiring-track","aria-labelledby":"hiring-path-title","children":[["$","div",null,{"className":"hiring-path-head","children":[["$","span",null,{"className":"scribble","children":"start here if you're hiring -"}],["$","h2",null,{"id":"hiring-path-title","children":"a short path through my work."}],["$","p",null,{"children":"A curated reading path for recruiters, founders, CISOs, and engineering leaders who would like to understand how I approach AI-native cybersecurity, agentic SOC, SecOps platforms, and hands-on engineering leadership."}]]}],["$","div",null,{"className":"hiring-path-grid","children":[["$","$Lc","agentic-soc-product-strategy-founders",{"className":"hiring-path-card","href":"/notes/agentic-soc-product-strategy-founders","children":[["$","span",null,{"className":"step","children":"01"}],["$","strong",null,{"dangerouslySetInnerHTML":{"__html":"Agentic SOC product strategy for founders who need the <em>real</em> version."}}],["$","small",null,{"dangerouslySetInnerHTML":{"__html":"Agentic SOC strategy is not 'AI replaces analysts.' The real strategy is choosing a painful workflow, proving trust, and earning automation step by step."}}]]}],["$","$Lc","founding-cto-ai-cybersecurity-startup",{"className":"hiring-path-card","href":"/notes/founding-cto-ai-cybersecurity-startup","children":[["$","span",null,{"className":"step","children":"02"}],["$","strong",null,{"dangerouslySetInnerHTML":{"__html":"The AI cybersecurity <em>founding CTO</em> memo I would want to read."}}],["$","small",null,{"dangerouslySetInnerHTML":{"__html":"A founding CTO in AI cybersecurity has to build the product, the trust system, the engineering culture, and the risk posture at the same time."}}]]}],["$","$Lc","head-of-ai-security-platform-brief",{"className":"hiring-path-card","href":"/notes/head-of-ai-security-platform-brief","children":[["$","span",null,{"className":"step","children":"03"}],["$","strong",null,{"dangerouslySetInnerHTML":{"__html":"What I would build as <em>Head of AI Security Platform</em>."}}],["$","small",null,{"dangerouslySetInnerHTML":{"__html":"If I owned an AI security platform, I would build around evidence, controlled agency, analyst workflows, reliability, trust, and a team that can ship without losing judgment."}}]]}],["$","$Lc","ai-security-demo-to-production-checklist",{"className":"hiring-path-card","href":"/notes/ai-security-demo-to-production-checklist","children":[["$","span",null,{"className":"step","children":"04"}],["$","strong",null,{"dangerouslySetInnerHTML":{"__html":"From AI security demo to <em>production</em>: the checklist I use."}}],["$","small",null,{"dangerouslySetInnerHTML":{"__html":"AI security demos are easy to like. Production systems need evidence, permissions, evals, observability, rollout discipline, and a plan for being wrong."}}]]}],["$","$Lc","ai-security-leadership-interview-questions",{"className":"hiring-path-card","href":"/notes/ai-security-leadership-interview-questions","children":[["$","span",null,{"className":"step","children":"05"}],["$","strong",null,{"dangerouslySetInnerHTML":{"__html":"AI security leadership interview questions I would <em>actually</em> ask."}}],["$","small",null,{"dangerouslySetInnerHTML":{"__html":"A practical interview loop for finding AI security leaders who can build systems, lead teams, reason about risk, and ship products analysts can trust."}}]]}],["$","$Lc","agentic-soc-architecture-scorecard",{"className":"hiring-path-card","href":"/notes/agentic-soc-architecture-scorecard","children":[["$","span",null,{"className":"step","children":"06"}],["$","strong",null,{"dangerouslySetInnerHTML":{"__html":"The <em>agentic SOC</em> architecture scorecard."}}],["$","small",null,{"dangerouslySetInnerHTML":{"__html":"An agentic SOC platform should be judged by the control system around the model, not by the confidence of the demo."}}]]}],"$Le","$Lf","$L10"]}],"$L11"]}]
@@ -10164,113 +10164,168 @@ and an investigation workflow that analysts can actually trust.
 - [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 
 <EndMark />
-29:Ta0f,
+29:T1410,
 <Lede>
-  Modern AI systems are increasingly becoming workflow systems rather than
-  standalone model integrations.
+  Langflow makes AI workflow structure visible. Production engineering begins
+  with deciding which responsibilities belong outside the graph.
 </Lede>
 
-As AI applications grow in complexity, orchestration becomes one of the most
-important engineering problems.
+I like visual workflow tools because they force hidden orchestration into view.
+You can inspect where context enters, which branch invokes a model, and how a
+result reaches the next component.
 
-I worked on extending workflow-driven AI pipelines using Langflow to support
-advanced routing, conditional execution, and parallel processing patterns for
-operational AI systems.
+That visibility is useful. It does not remove the need for production
+architecture.
 
-## Why workflow systems matter.
+## Understand the execution model.
 
-Most AI products fail because they treat LLMs as isolated components.
+Langflow represents a flow as components and edges. Its documentation describes
+building a directed acyclic graph and processing nodes in dependency order.
 
-Production-grade AI systems require:
+That model fits many retrieval, transformation, enrichment, and generation
+pipelines. Before building, decide:
 
-- workflow orchestration;
-- conditional execution;
-- tool routing;
-- context management;
-- parallel processing;
-- memory systems;
-- retry logic;
-- observability.
+- which nodes are deterministic;
+- which call remote systems;
+- which mutate state;
+- which can run concurrently;
+- which require durable recovery;
+- which need human approval.
 
-The workflow engine becomes the backbone of operational AI.
+## Use components as typed boundaries.
 
-## Designing conditional routing systems.
+A component should have a narrow responsibility and explicit input and output
+types.
 
-One of the key workflow challenges is dynamic routing.
+Useful component boundaries include:
 
-Different queries require different processing paths.
+- normalize a request;
+- resolve an entity;
+- retrieve evidence;
+- rerank results;
+- extract structured facts;
+- evaluate confidence;
+- render a response.
 
-For example:
+Avoid components that retrieve, reason, execute, and format in one block. They
+are difficult to test and reuse.
 
-- threat analysis workflows;
-- intelligence retrieval workflows;
-- search-heavy pipelines;
-- report generation flows;
-- correlation pipelines.
+## Route on validated state.
 
-Conditional routing enables workflows to adapt dynamically based on context.
+Langflow provides conditional routing such as its If-Else component. For
+production use, route on structured values you validate, not unconstrained model
+prose.
 
-## Parallel processing in AI workflows.
+Examples:
 
-Sequential pipelines create latency bottlenecks.
+- route by request type;
+- branch when evidence is missing;
+- escalate by risk tier;
+- choose a model by sensitivity;
+- stop when policy denies an action.
 
-To improve throughput and responsiveness, modern AI systems increasingly rely on
-parallel execution patterns.
+Keep security policy outside model-controlled text.
 
-Examples include:
+## Use subflows for stable capabilities.
 
-- multi-source retrieval;
-- simultaneous enrichment;
-- parallel context generation;
-- distributed reasoning;
-- concurrent search operations.
+The Run Flow component can call another flow and can expose a flow as an agent
+tool. Subflows help isolate reusable capabilities such as retrieval or entity
+enrichment.
 
-Parallelism dramatically improves operational responsiveness.
+Version their contracts. A change in output shape can break every parent flow.
+Pin versions for releases and test compatibility before promoting changes.
 
-## Workflow reliability challenges.
+## Be careful with parallelism.
 
-Operational AI workflows introduce new engineering challenges:
+Independent retrieval and enrichment can run in parallel, but parallel branches
+need deterministic merge behavior:
 
-- failure handling;
-- retry systems;
-- partial execution recovery;
-- timeout management;
-- state tracking;
-- context persistence.
+- deadlines;
+- partial-result policy;
+- source precedence;
+- deduplication;
+- cancellation;
+- bounded fan-out.
 
-Workflow systems must behave reliably under production load.
+Parallel model calls can reduce latency and increase cost or rate-limit risk.
+Measure the complete workflow.
 
-## AI systems as orchestration problems.
+## Draw the production boundary.
 
-<PullQuote>
-  Most AI engineering problems are orchestration problems.
-</PullQuote>
+I would not make the visual graph the only owner of:
 
-The challenge is rarely just model quality.
+- long-lived workflow state;
+- tenant authorization;
+- secrets;
+- high-risk action policy;
+- audit storage;
+- global rate limits;
+- release approvals.
 
-The challenge is coordinating:
+Keep these in platform services with explicit contracts. Let the flow call them.
 
-- tools;
-- search systems;
-- APIs;
-- memory layers;
-- context pipelines;
-- retrieval engines;
-- reasoning flows.
+## Expose flows through controlled APIs.
 
-The hard part is making those pieces behave like one reliable operational
-workflow.
+Langflow's Workflow API supports synchronous and asynchronous execution and
+allows a flow version to be selected. Treat it as a production API:
 
-## Final thoughts.
+- authenticate callers;
+- derive tenant context server-side;
+- validate inputs;
+- set time and cost budgets;
+- use idempotency for submitted work;
+- monitor job state;
+- support cancellation;
+- avoid arbitrary request-level overrides.
 
-The future of AI platforms depends heavily on workflow orchestration systems.
+The documentation marks the current Workflow API as beta, so teams should pin
+versions and plan for interface change.
 
-As AI applications grow more autonomous, workflow infrastructure becomes
-increasingly important.
+## Test at three levels.
 
-Operational AI is ultimately about coordinating intelligence at scale.
+**Component tests** validate parsing, transformation, and edge cases.
 
-<EndMark />
+**Flow tests** use fixed tool and model responses to check routing, merge, and
+failure behavior.
+
+**System evaluations** test the deployed combination of retrieval, models,
+tools, policy, and UX against representative and adversarial cases.
+
+Save difficult production failures as regression fixtures.
+
+## Observe nodes without leaking data.
+
+Trace each component's duration, status, retries, input and output types, model
+usage, and tool result. Record content only when necessary and protected.
+
+Security workflows can contain credentials, malware, personal data, and customer
+evidence. Debug convenience does not justify unrestricted logs.
+
+## When Langflow is a good fit.
+
+It is particularly useful when:
+
+- teams need to explore workflow structure quickly;
+- domain experts and engineers collaborate on flows;
+- components are reusable;
+- execution paths need visual inspection;
+- the platform around the flow supplies production controls.
+
+It is a weaker fit when the primary problem is high-volume deterministic
+streaming, deeply stateful transactions, or strict real-time execution.
+
+The most useful lesson is not that every AI system needs Langflow.
+
+It is that AI products are workflow systems, and their orchestration deserves a
+design surface as deliberate as their model choice.
+
+## Sources and further reading.
+
+- [Langflow flow concepts](https://docs.langflow.org/concepts-flows)
+- [Langflow If-Else routing](https://docs.langflow.org/if-else)
+- [Langflow Run Flow component](https://docs.langflow.org/run-flow)
+- [Langflow Workflow API](https://docs.langflow.org/workflow-api)
+- [Engineering reliable AI systems](/notes/infrastructure-reliability-for-ai)
 2a:T863e,
 <Lede>
   Security investigations are not search problems. They are evidence problems.
@@ -11545,196 +11600,346 @@ One that is willing to say “unknown.”
 In security, that may be the most intelligent answer a system can give.
 
 <EndMark />
-2b:T7e9,
+2b:T12b2,
 <Lede>
-  AI systems are often evaluated only on model quality.
+  Model quality matters, but users experience the reliability of the complete
+  workflow.
 </Lede>
 
-But in production environments, infrastructure reliability matters just as much
-as intelligence.
+An AI product may depend on an API gateway, identity provider, retrieval system,
+vector index, model provider, workflow engine, tool integrations, policy
+service, queue, database, and observability stack.
 
-Operational AI systems depend on:
+That is a distributed system, even when the interface is one text box.
 
-- retrieval systems;
-- workflow engines;
-- APIs;
-- search infrastructure;
-- queues;
-- monitoring systems;
-- orchestration layers.
+## Define reliability around user work.
 
-Without infrastructure discipline, AI systems become unreliable.
+Service uptime alone is insufficient. A model endpoint can return 200 while the
+workflow retrieves stale evidence or produces an unusable result.
 
-## AI systems are distributed systems.
+Define a successful unit such as:
 
-Modern AI platforms are not just models.
+> an investigation completed with required evidence, a valid disposition, and
+> no policy violation within the latency objective.
 
-They are distributed operational systems.
+Then set service-level indicators for:
 
-This introduces challenges involving:
+- workflow completion;
+- evidence availability;
+- valid structured output;
+- tool success;
+- end-to-end latency;
+- safe action execution;
+- freshness;
+- cost per completed unit.
 
-- scalability;
-- reliability;
-- observability;
-- cost optimization;
-- failure handling;
-- workflow tracing.
+## Map the dependency budget.
 
-Engineering discipline becomes critical.
+If a workflow makes several sequential remote calls, its reliability and
+latency inherit every dependency.
 
-## Observability for AI workflows.
+Document:
 
-Traditional monitoring focuses on:
+- timeout;
+- retry policy;
+- rate limit;
+- concurrency limit;
+- regional dependency;
+- data freshness;
+- fallback;
+- circuit breaker;
+- owner.
 
-- CPU;
-- memory;
-- network usage.
+Do not give every service the full end-to-end timeout. Allocate a budget by
+step, and preserve time for recovery or a useful failure response.
 
-Operational AI systems require deeper telemetry:
+## Make workflows durable.
 
-- prompt execution;
-- workflow latency;
-- retrieval quality;
-- API reliability;
-- cost patterns;
-- failure tracing;
-- tool execution health.
+Production workflows need state that survives restarts and deployments.
 
-Observability becomes foundational infrastructure.
+Use:
 
-## Infrastructure automation.
+- durable step state;
+- idempotency keys;
+- bounded exponential backoff;
+- retry classifications;
+- dead-letter handling;
+- cancellation;
+- compensating actions;
+- resumable approvals.
 
-Reliable AI systems depend heavily on automation.
+Never retry a state-changing tool automatically unless the operation is
+idempotent or its result can be checked.
 
-Examples include:
+## Degrade deliberately.
 
-- automated scaling;
-- dynamic provisioning;
-- workflow recovery systems;
-- secret management;
-- resource optimization;
-- intelligent scheduling.
+A fallback should preserve the user's ability to make a safe decision.
 
-Automation reduces operational complexity and improves resilience.
+Examples:
 
-## Cost engineering.
+- switch to lexical retrieval when embeddings are unavailable;
+- use a smaller approved model for extraction;
+- return evidence without a generated summary;
+- queue nonurgent enrichment;
+- require manual review;
+- disable actions while retaining read-only investigation.
 
-One of the biggest challenges in AI systems is operational cost.
+Do not silently lower quality and preserve the same confidence language.
 
-AI pipelines can become expensive without optimization.
+## Observe AI-specific failure.
 
-Cost-aware architectures require:
+OpenTelemetry's generative AI conventions support model, token, agent, and tool
+signals. Combine them with normal traces, logs, and metrics.
 
-- efficient retrieval;
-- smart caching;
-- workflow optimization;
-- token minimization;
-- resource scheduling.
+Record:
 
-Cost engineering becomes part of system architecture.
+- workflow and step IDs;
+- model and prompt version;
+- retrieval query and result IDs;
+- token usage;
+- tool arguments in redacted form;
+- policy and approval decisions;
+- retries and fallback;
+- output validation;
+- analyst correction;
+- final outcome.
 
-## Final thoughts.
+Sensitive prompts and evidence require stricter access and retention than normal
+service metadata.
 
-The future of AI platforms will be defined not only by intelligence but by:
+## Treat data quality as reliability.
 
-- reliability;
-- scalability;
-- operational resilience;
-- integration quality;
-- observability;
-- infrastructure maturity.
+Stale indexes, missing telemetry, parser regressions, and entity collisions can
+produce fast but wrong output.
 
-Operational AI requires operational engineering discipline.
+Monitor:
 
-<EndMark />
-2c:T823,
+- ingestion lag;
+- source coverage;
+- schema rejection;
+- duplication;
+- freshness by source;
+- entity-resolution confidence;
+- retrieval empty-result rate;
+- citation integrity.
+
+For AI security systems, evidence health belongs on the reliability dashboard.
+
+## Control cost and resource exhaustion.
+
+Set limits for steps, tokens, retrieved context, tool calls, wall-clock time,
+and concurrent workflows. Detect recursive loops and retry storms.
+
+Measure tail cost. A small percentage of pathological cases can dominate spend
+and capacity.
+
+Cost controls should degrade explicitly rather than truncate work invisibly.
+
+## Release the system, not only the prompt.
+
+A prompt update, model change, embedding change, parser deployment, or policy
+edit can all change behavior.
+
+Use:
+
+1. versioned artifacts;
+2. offline regression;
+3. adversarial tests;
+4. shadow traffic;
+5. canary rollout;
+6. outcome monitoring;
+7. rollback.
+
+Preserve replayable cases so the team can compare versions against the same
+evidence.
+
+## Write runbooks before incidents.
+
+Operators need to know:
+
+- how to disable actions;
+- how to pin a model version;
+- how to drain workflows;
+- how to replay failed work;
+- how to rotate credentials;
+- how to inspect provider and retrieval health;
+- how to communicate degraded quality.
+
+The system is not reliable because it rarely fails. It is reliable because
+failure is bounded, visible, and recoverable.
+
+## Sources and further reading.
+
+- [OpenTelemetry generative AI observability](https://opentelemetry.io/blog/2026/genai-observability/)
+- [OpenTelemetry semantic conventions](https://opentelemetry.io/docs/specs/semconv/)
+- [NIST AI security and resilience](https://www.nist.gov/artificial-intelligence/ai-research-security-and-resilience)
+- [Demos are easy. Tuesdays are hard](/notes/demos-tuesdays-hard)
+2c:T1481,
 <Lede>
-  Enterprise AI systems become valuable only when they integrate deeply into
-  operational workflows.
+  Enterprise AI becomes useful when it enters existing work without losing
+  identity, context, reliability, or control.
 </Lede>
 
-Standalone AI interfaces are insufficient for real-world enterprise operations.
+A standalone AI interface can answer questions. Operational systems must also
+know who is asking, which records they may access, what workflow is in progress,
+and whether a proposed action is allowed.
 
-Modern platforms must integrate with:
+Integration architecture is what turns a model feature into part of the
+enterprise.
 
-- messaging systems;
-- identity providers;
-- ticketing platforms;
-- search infrastructure;
-- security tooling;
-- internal APIs;
-- workflow systems.
+## Start with the unit of work.
 
-Integration architecture becomes a core engineering discipline.
+Do not begin with a list of connectors.
 
-## Why integrations matter.
+Begin with a workflow such as:
 
-Operational systems depend on context.
+- investigate an alert;
+- prepare a customer-risk review;
+- summarize a production incident;
+- resolve an access request;
+- draft a change with evidence.
 
-Without integrations, AI systems lack visibility into the enterprise
-environment.
+Map its actors, systems of record, events, decisions, actions, approvals, and
+completion criteria. Integrate only what the workflow needs.
 
-Strong integration layers enable:
+## Preserve identity end to end.
 
-- context enrichment;
-- workflow automation;
-- operational continuity;
-- cross-system intelligence;
-- human collaboration.
+The user authenticated in Slack, a web app, or a ticketing system must not become
+an anonymous model request with a shared service credential.
 
-Integrations transform isolated AI systems into operational platforms.
+Carry:
 
-## Identity and access systems.
+- principal;
+- tenant;
+- role;
+- delegated authority;
+- case or request scope;
+- data entitlements;
+- approval state.
 
-Identity infrastructure is foundational for enterprise systems.
+Use short-lived credentials and server-side policy checks. The model should not
+choose the tenant or expand its own scope.
 
-Modern operational platforms often integrate with:
+## Separate events, queries, and commands.
 
-- federated authentication systems;
-- enterprise identity providers;
-- role-based access systems;
-- trust enforcement layers.
+These integration shapes have different contracts.
 
-Identity systems help maintain operational security and governance.
+**Events** announce that something happened. They need stable IDs,
+deduplication, ordering assumptions, versioned schemas, and replay handling.
 
-## Messaging and workflow integrations.
+**Queries** retrieve current or historical information. They need authorization,
+pagination, freshness, source metadata, and bounded results.
 
-Operational workflows increasingly happen inside collaboration platforms.
+**Commands** change state. They need validation, idempotency, policy, approval,
+audit, and a clear result.
 
-Integrations with messaging systems enable:
+Hiding all three behind one generic tool makes recovery and governance harder.
 
-- alert delivery;
-- investigation collaboration;
-- workflow approvals;
-- incident escalation;
-- real-time notifications.
+## Build adapters around canonical contracts.
 
-This reduces operational friction for security teams.
+Vendor payloads change. Internal workflows should not.
 
-## Search and intelligence integrations.
+Translate external records into stable domain objects such as:
 
-Search infrastructure plays a massive role in operational AI systems.
+- evidence;
+- entity;
+- alert;
+- case;
+- finding;
+- action proposal;
+- approval;
+- execution result.
 
-Integrated search systems enable:
+Preserve the raw source and provenance. Avoid a universal schema that erases
+details; use a stable common envelope plus source-specific attributes.
 
-- fast retrieval;
-- context generation;
-- historical analysis;
-- correlation workflows;
-- timeline reconstruction.
+## Design for asynchronous work.
 
-The integration layer becomes the intelligence backbone.
+Enterprise actions often take longer than one request. They wait for rate
+limits, approvals, background jobs, or human responses.
 
-## Final thoughts.
+Use durable workflow state with correlation IDs, deadlines, cancellation,
+bounded retries, and compensating actions. Publish state transitions so the user
+can see progress.
 
-The future of enterprise AI platforms depends heavily on integration
-architecture.
+A chat transcript is not a workflow database.
 
-The most successful systems will not operate independently.
+## Treat retrieved content as untrusted.
 
-They will function as deeply connected operational ecosystems.
+Tickets, documents, messages, and web pages can contain malicious instructions.
+OWASP describes indirect prompt injection as attacker-controlled content that
+later enters a model's context.
 
-<EndMark />
+Mark sources, delimit retrieved data, validate model outputs, and enforce tool
+permissions outside the prompt. Retrieved text can supply evidence; it cannot
+grant authority.
+
+## Make failures explicit.
+
+Normalize integration failures:
+
+- authentication expired;
+- permission denied;
+- object missing;
+- rate limited;
+- upstream unavailable;
+- conflict;
+- partial result;
+- validation failed;
+- approval required.
+
+The workflow should know which errors are retryable and which require a person.
+Blind retries can duplicate tickets, actions, and cost.
+
+## Observe the full operation.
+
+Trace the journey from user request through retrieval, model calls, tools,
+policy, approval, and final system-of-record update.
+
+Record versions and identifiers without copying sensitive payloads into every
+telemetry system. Measure completion, latency, correction, reliability, and cost
+for the whole unit of work.
+
+## Operate connectors as products.
+
+Each integration needs:
+
+- an owner;
+- supported API versions;
+- permission documentation;
+- health and rate-limit monitoring;
+- contract tests;
+- sandbox fixtures;
+- deprecation policy;
+- customer-visible failure behavior.
+
+Connector count is a weak platform metric. Reliable workflow coverage is much
+stronger.
+
+## The design review questions.
+
+Before releasing an integration, ask:
+
+1. Which identity and tenant reach every operation?
+2. What is the system of record?
+3. How are duplicates and retries handled?
+4. Can untrusted content influence a command?
+5. What does partial failure look like?
+6. Which actions require approval?
+7. Can the workflow be resumed and audited?
+8. How will API changes be detected?
+9. What data enters prompts, logs, and traces?
+10. How can the integration be disabled safely?
+
+Enterprise integration is not glamorous. It is where an AI product proves that
+it can participate in real operations rather than sit beside them.
+
+## Sources and further reading.
+
+- [CISA and NCSC secure AI system development guidance](https://www.cisa.gov/news-events/alerts/2023/11/26/cisa-and-uk-ncsc-unveil-joint-guidelines-secure-ai-system-development)
+- [OWASP prompt injection](https://owasp.org/www-community/attacks/PromptInjection)
+- [OWASP agentic AI threats and mitigations](https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/)
+- [The interesting boundary around the model](/notes/boundary-around-the-model)
 2d:T127c,
 <Lede>
   If you spend long enough building with LLMs, you notice something quiet:
@@ -11977,14 +12182,831 @@ please write me.</em>
     <li>All numbers are from a real 2026 workload. AWS pricing changes; <em>do your own math</em>; the shape will be similar.</li>
   </ol>
 </Footnotes>
-6:["$","$L12",null,{"filters":[{"key":"all","label":"all","count":33},{"key":"ai","label":"ai & agents","count":30},{"key":"security","label":"security","count":25},{"key":"infrastructure","label":"infrastructure","count":6},{"key":"opinions","label":"opinions","count":5},{"key":"drafts","label":"drafts","count":2}],"notes":[{"number":"033","title":"Agentic SOC product strategy for founders who need the real version","titleHtml":"Agentic SOC product strategy for founders who need the <em>real</em> version.","headingHtml":"Agentic SOC product strategy<br/>for founders who need the <span class=\"red\">real</span> version.","description":"A practical product strategy note for founders building agentic SOC platforms: wedge selection, trust, analyst workflows, evidence, automation boundaries, GTM proof, and product sequencing.","ogDescription":"Agentic SOC product strategy for founders: pick the right wedge, build trust first, sequence automation, and prove value beyond a demo.","date":"2026-06-25","displayDate":"2026 · 06 · 25","readTime":"11 min","quirk":"-- because the TAM slide is not the product","excerptHtml":"Agentic SOC strategy is not 'AI replaces analysts.' The real strategy is choosing a painful workflow, proving trust, and earning automation step by step.","dekHtml":"A founder-facing product strategy memo for agentic SOC, AI-native SecOps, and security automation teams trying to move from demo to durable business.","tags":["ai","security","secops","agents","startup","product","leadership"],"featured":true,"tableOfContents":true,"nextSlug":"founding-cto-ai-cybersecurity-startup","slug":"agentic-soc-product-strategy-founders","href":"/notes/agentic-soc-product-strategy-founders","content":"$13","draft":false,"scheduled":false},{"number":"032","title":"The AI cybersecurity founding CTO memo I would want to read","titleHtml":"The AI cybersecurity <em>founding CTO</em> memo I would want to read.","headingHtml":"The AI cybersecurity<br/><span class=\"red\">founding CTO</span> memo I would want to read.","description":"A practical founding CTO memo for AI cybersecurity startups: what to build first, how to earn trust, how to avoid shallow AI wrappers, and how to lead the early engineering system.","ogDescription":"A founding CTO memo for AI cybersecurity startups: trust contract, product wedge, architecture, evidence, agent controls, hiring, and operating rhythm.","date":"2026-06-25","displayDate":"2026 · 06 · 25","readTime":"10 min","quirk":"-- or the startup brief that filters out the wrong chaos","excerptHtml":"A founding CTO in AI cybersecurity has to build the product, the trust system, the engineering culture, and the risk posture at the same time.","dekHtml":"A practical memo for founders and recruiters evaluating founding CTO or early engineering leadership in AI-native cybersecurity.","tags":["career","leadership","security","ai","startup","building"],"featured":true,"tableOfContents":true,"nextSlug":"head-of-ai-security-platform-brief","slug":"founding-cto-ai-cybersecurity-startup","href":"/notes/founding-cto-ai-cybersecurity-startup","content":"$14","draft":false,"scheduled":false},{"number":"031","title":"What I would build as Head of AI Security Platform","titleHtml":"What I would build as <em>Head of AI Security Platform</em>.","headingHtml":"What I would build as<br/><span class=\"red\">Head of AI Security Platform</span>.","description":"A practical leadership brief for building AI security platforms: product primitives, evidence systems, agent control, SecOps workflows, trust, team design, and execution.","ogDescription":"What to build as Head of AI Security Platform: evidence layer, agent control plane, SecOps workflows, evals, trust systems, and team operating model.","date":"2026-06-25","displayDate":"2026 · 06 · 25","readTime":"12 min","quirk":"-- or the job description I keep accidentally writing for myself","excerptHtml":"If I owned an AI security platform, I would build around evidence, controlled agency, analyst workflows, reliability, trust, and a team that can ship without losing judgment.","dekHtml":"A builder-leader brief for founders, CISOs, and recruiters evaluating what AI security platform leadership should actually do.","tags":["career","leadership","security","ai","platform","building"],"featured":true,"tableOfContents":true,"nextSlug":"ai-security-demo-to-production-checklist","slug":"head-of-ai-security-platform-brief","href":"/notes/head-of-ai-security-platform-brief","content":"$15","draft":false,"scheduled":false},{"number":"030","title":"From AI security demo to production: the checklist I use","titleHtml":"From AI security demo to <em>production</em>: the checklist I use.","headingHtml":"From AI security demo<br/>to <span class=\"red\">production</span>: the checklist I use.","description":"A practical production-readiness checklist for AI security products, agentic SOC systems, SecOps copilots, and LLM-powered investigation workflows.","ogDescription":"A production-readiness checklist for AI security products: evidence, permissions, evals, observability, rollout gates, analyst trust, and incident response.","date":"2026-06-25","displayDate":"2026 · 06 · 25","readTime":"11 min","quirk":"-- because the demo is where risk politely wears a blazer","excerptHtml":"AI security demos are easy to like. Production systems need evidence, permissions, evals, observability, rollout discipline, and a plan for being wrong.","dekHtml":"A builder's checklist for moving AI-native security workflows from impressive demo to trusted production system.","tags":["ai","security","secops","platform","building","leadership"],"featured":true,"tableOfContents":true,"nextSlug":"ai-security-leadership-interview-questions","slug":"ai-security-demo-to-production-checklist","href":"/notes/ai-security-demo-to-production-checklist","content":"$16","draft":false,"scheduled":false},{"number":"029","title":"AI security leadership interview questions I would actually ask","titleHtml":"AI security leadership interview questions I would <em>actually</em> ask.","headingHtml":"AI security leadership<br/>interview questions I would <span class=\"red\">actually</span> ask.","description":"A practical interview guide for hiring AI security engineering leaders across agentic SOC architecture, SecOps platforms, AI risk, product security, delivery, and team leadership.","ogDescription":"Interview questions for hiring AI security engineering leaders, agentic SOC builders, SecOps platform owners, and hands-on cybersecurity product leaders.","date":"2026-06-25","displayDate":"2026 · 06 · 25","readTime":"14 min","quirk":"-- for recruiters, founders, CISOs, and anyone allergic to vague leadership interviews","excerptHtml":"A practical interview loop for finding AI security leaders who can build systems, lead teams, reason about risk, and ship products analysts can trust.","dekHtml":"A field guide for interviewing AI security engineering leaders: architecture, agent control, SecOps workflow, product judgment, delivery discipline, and team leadership.","tags":["career","leadership","security","ai","secops","building","hiring"],"featured":true,"tableOfContents":true,"nextSlug":"agentic-soc-architecture-scorecard","slug":"ai-security-leadership-interview-questions","href":"/notes/ai-security-leadership-interview-questions","content":"$17","draft":false,"scheduled":false},{"number":"028","title":"The agentic SOC architecture scorecard","titleHtml":"The <em>agentic SOC</em> architecture scorecard.","headingHtml":"The <em>agentic SOC</em><br/>architecture <span class=\"red\">scorecard</span>.","description":"A technical scorecard for agentic SOC architecture: evidence, identity context, tool permissions, approvals, evals, observability, reliability, and analyst trust.","ogDescription":"A practical agentic SOC architecture scorecard for CISOs, founders, and security engineering leaders evaluating AI-native SecOps platforms.","date":"2026-06-25","displayDate":"2026 · 06 · 25","readTime":"13 min","quirk":"-- or twelve questions before the demo gets dangerous","excerptHtml":"An agentic SOC platform should be judged by the control system around the model, not by the confidence of the demo.","dekHtml":"A CISO- and founder-friendly architecture scorecard for evaluating AI-native SOC platforms, security agents, evidence layers, control planes, and analyst trust.","tags":["ai","security","secops","agents","platform","building"],"featured":true,"tableOfContents":true,"nextSlug":"hiring-ai-security-engineering-leader","slug":"agentic-soc-architecture-scorecard","href":"/notes/agentic-soc-architecture-scorecard","content":"$18","draft":false,"scheduled":false},{"number":"027","title":"How I would evaluate an AI security engineering leader","titleHtml":"How I would evaluate an <em>AI security engineering leader</em>.","headingHtml":"How I would evaluate an <em>AI security engineering leader</em>.","description":"A practical scorecard for hiring AI security engineering leaders: architecture judgment, SecOps depth, agent safety, delivery rhythm, product taste, and team leadership.","ogDescription":"A hiring scorecard for AI security engineering leaders across architecture, SecOps, agent safety, delivery, product judgment, and leadership.","date":"2026-06-25","displayDate":"2026 · 06 · 25","readTime":"12 min","quirk":"-- or the interview loop I wish more teams used","excerptHtml":"The fastest way to hire an AI security engineering leader is to stop interviewing only for management polish.","dekHtml":"A recruiter- and founder-friendly scorecard for evaluating builder-leaders in AI-native cybersecurity, SecOps platforms, agentic SOC systems, and security engineering teams.","tags":["career","leadership","security","ai","secops","building"],"featured":true,"tableOfContents":true,"nextSlug":"builder-leader-cybersecurity-engineering","slug":"hiring-ai-security-engineering-leader","href":"/notes/hiring-ai-security-engineering-leader","content":"$19","draft":false,"scheduled":false},{"number":"026","title":"What I mean by builder-leader in cybersecurity engineering","titleHtml":"What I mean by <em>builder-leader</em> in cybersecurity engineering.","headingHtml":"What I mean by <em>builder-leader</em><br/>in <span class=\"red\">cybersecurity engineering</span>.","description":"A recruiter-facing essay on builder-leadership in cybersecurity engineering: technical depth, product judgment, AI-native SecOps, team leadership, and shipping trustworthy systems.","ogDescription":"What builder-leader means in cybersecurity engineering: hands-on architecture, product judgment, AI-native SecOps, team leadership, and delivery.","date":"2026-06-25","displayDate":"2026 · 06 · 25","readTime":"9 min","quirk":"-- or the job title beneath the job title","excerptHtml":"Builder-leader is the shortest phrase I have for the kind of cybersecurity engineering work I want to do next.","dekHtml":"A clear positioning note for recruiters and hiring teams: the role fit is hands-on engineering leadership for AI-native security products and SecOps platforms.","tags":["career","leadership","security","ai","building"],"featured":true,"tableOfContents":true,"nextSlug":"secops-agent-control-plane","slug":"builder-leader-cybersecurity-engineering","href":"/notes/builder-leader-cybersecurity-engineering","content":"$1a","draft":false,"scheduled":false},{"number":"025","title":"The control plane for SecOps agents","titleHtml":"The <em>control plane</em> for SecOps agents.","headingHtml":"The <em>control plane</em><br/>for <span class=\"red\">SecOps agents</span>.","description":"A technical guide to designing the control plane for SecOps agents: policies, tool permissions, approvals, workflows, audit logs, human review, and safe autonomy.","ogDescription":"How to design a SecOps agent control plane with scoped tools, policy enforcement, approvals, evidence, audit logs, and safe autonomy.","date":"2026-06-25","displayDate":"2026 · 06 · 25","readTime":"11 min","quirk":"-- or one agent kept on a leash","excerptHtml":"The difference between useful SecOps agents and dangerous SecOps agents is the control plane around them.","dekHtml":"A technical builder-leader note on the policies, permissions, approvals, tool boundaries, and audit trails that make security agents production-safe.","tags":["ai","security","secops","agents","platform"],"tableOfContents":true,"nextSlug":"evidence-layer-ai-security-platforms","slug":"secops-agent-control-plane","href":"/notes/secops-agent-control-plane","content":"$1b","draft":false,"scheduled":false,"featured":false},{"number":"024","title":"The evidence layer in AI security platforms","titleHtml":"The <em>evidence layer</em> in AI security platforms.","headingHtml":"The <em>evidence layer</em><br/>in <span class=\"red\">AI security platforms</span>.","description":"A technical architecture note on evidence layers for AI security platforms: provenance, citations, confidence, source handling, agent memory, analyst trust, and auditability.","ogDescription":"Why AI security platforms need an evidence layer: provenance, citations, confidence, source handling, analyst trust, auditability, and agent-safe workflows.","date":"2026-06-25","displayDate":"2026 · 06 · 25","readTime":"10 min","quirk":"-- or one summary that can defend itself","excerptHtml":"AI security platforms will not earn analyst trust by sounding fluent. They will earn trust by showing evidence.","dekHtml":"A builder's guide to the platform primitive that makes AI-native SOC systems inspectable, auditable, and safe enough to use.","tags":["ai","security","secops","platform","building"],"featured":true,"tableOfContents":true,"nextSlug":"ai-security-engineering-90-day-plan","slug":"evidence-layer-ai-security-platforms","href":"/notes/evidence-layer-ai-security-platforms","content":"$1c","draft":false,"scheduled":false},{"number":"023","title":"My 90-day plan for leading an AI security engineering team","titleHtml":"My <em>90-day plan</em> for leading an AI security engineering team.","headingHtml":"My <em>90-day plan</em><br/>for leading an <span class=\"red\">AI security engineering</span> team.","description":"A practical 90-day plan for AI security engineering leadership: trust, architecture, SecOps workflows, agent guardrails, delivery rhythm, hiring signals, and measurable outcomes.","ogDescription":"A builder-leader 90-day plan for leading AI security engineering teams across agentic SOC, product architecture, trust boundaries, delivery, and hiring outcomes.","date":"2026-06-25","displayDate":"2026 · 06 · 25","readTime":"11 min","quirk":"-- or one onboarding plan with fewer platitudes","excerptHtml":"The fastest way to evaluate an AI security engineering leader is to ask what they would change in the first 90 days.","dekHtml":"A concrete operating plan for hiring managers who need someone to lead AI-native security product work without losing the builder's grip on architecture.","tags":["ai","security","leadership","building","career"],"featured":true,"tableOfContents":true,"nextSlug":"reliable-ai-security-agents","slug":"ai-security-engineering-90-day-plan","href":"/notes/ai-security-engineering-90-day-plan","content":"$1d","draft":false,"scheduled":false},{"number":"022","title":"Engineering reliable AI security agents","titleHtml":"Engineering <em>reliable AI security agents</em>.","headingHtml":"Engineering <em>reliable AI</em><br/><span class=\"red\">security agents</span>.","description":"A technical guide to reliability engineering for AI security agents: observability, traces, metrics, logs, SLOs, failure modes, agent runs, tool latency, evaluation drift, and incident response.","ogDescription":"How to engineer reliable AI security agents using observability, OpenTelemetry, SLOs, failure-mode design, run traces, tool metrics, and evaluation drift monitoring.","date":"2026-06-07","displayDate":"2026 · 06 · 07","readTime":"12 min","quirk":"-- or one agent outage noticed before the analyst does","excerptHtml":"If an AI security agent becomes part of the SOC workflow, it needs reliability engineering like any other production system.","dekHtml":"A builder's guide to making AI security agents observable, measurable, debuggable, resilient, and safe enough for production security operations.","tags":["ai","security","secops","reliability","agents"],"featured":true,"tableOfContents":true,"nextSlug":"ai-threat-intelligence-pipeline","slug":"reliable-ai-security-agents","href":"/notes/reliable-ai-security-agents","content":"$1e","draft":false,"scheduled":false},{"number":"021","title":"Designing an AI threat intelligence pipeline","titleHtml":"Designing an <em>AI threat intelligence pipeline</em>.","headingHtml":"Designing an <em>AI threat intelligence</em><br/><span class=\"red\">pipeline</span>.","description":"A technical guide to AI-assisted threat intelligence pipelines: source intake, STIX/TAXII, MISP, OpenCTI, TLP handling, entity normalization, retrieval, enrichment, summarization, and analyst review.","ogDescription":"How to design an AI threat intelligence pipeline with source governance, STIX/TAXII, MISP, OpenCTI, TLP, entity normalization, enrichment, and analyst-safe AI.","date":"2026-06-07","displayDate":"2026 · 06 · 07","readTime":"12 min","quirk":"-- or one IOC pile turned into context","excerptHtml":"Threat intelligence pipelines fail when they treat intelligence as a feed problem. The hard part is turning sources into evidence, context, and decisions.","dekHtml":"A builder's architecture for AI-assisted threat intelligence that respects source handling, normalizes entities, preserves provenance, and gives analysts usable context.","tags":["ai","security","threat-intel","secops","building"],"tableOfContents":true,"nextSlug":"soc-knowledge-graph-agentic-investigations","slug":"ai-threat-intelligence-pipeline","href":"/notes/ai-threat-intelligence-pipeline","content":"$1f","draft":false,"scheduled":false,"featured":false},{"number":"020","title":"Building a SOC knowledge graph for agentic investigations","titleHtml":"Building a <em>SOC knowledge graph</em> for agentic investigations.","headingHtml":"Building a <em>SOC knowledge graph</em><br/>for <span class=\"red\">agentic investigations</span>.","description":"A technical guide to building SOC knowledge graphs for AI-native security operations: entities, relationships, evidence, provenance, confidence, ATT&CK mapping, and agentic investigation workflows.","ogDescription":"How to build a SOC knowledge graph for agentic AI investigations using entities, evidence, provenance, confidence, ATT&CK, STIX, and analyst feedback.","date":"2026-06-07","displayDate":"2026 · 06 · 07","readTime":"12 min","quirk":"-- or one less tab spiral","excerptHtml":"Agentic SOC systems need memory, but not the soft kind. They need a structured graph of entities, evidence, relationships, and decisions.","dekHtml":"A builder-leader architecture for turning alerts, identities, assets, vulnerabilities, threat intelligence, and analyst decisions into a graph agents can investigate safely.","tags":["ai","security","secops","agents","knowledge-graph"],"featured":true,"tableOfContents":true,"nextSlug":"agentic-incident-response-playbooks","slug":"soc-knowledge-graph-agentic-investigations","href":"/notes/soc-knowledge-graph-agentic-investigations","content":"$20","draft":false,"scheduled":false},{"number":"019","title":"Agentic incident response playbooks","titleHtml":"<em>Agentic incident response</em> playbooks.","headingHtml":"<em>Agentic incident response</em><br/><span class=\"red\">playbooks</span>.","description":"A detailed architecture guide for agentic incident response playbooks: NIST CSF 2.0, evidence handling, containment staging, human approvals, AI collaboration, TLP, and post-incident learning.","ogDescription":"How to design agentic incident response playbooks with evidence, containment staging, approvals, collaboration, TLP handling, and post-incident learning.","date":"2026-06-05","displayDate":"2026 · 06 · 05","readTime":"13 min","quirk":"-- or one incident bridge with fewer tabs","excerptHtml":"Agentic incident response is not autonomous panic. It is structured delegation inside a response system that preserves evidence and keeps humans in control.","dekHtml":"A builder-leader architecture for AI-assisted incident response: typed playbooks, evidence ledgers, approval gates, collaboration rules, and recovery memory.","tags":["ai","security","secops","incident-response","agents"],"featured":true,"tableOfContents":true,"nextSlug":"identity-first-ai-soc","slug":"agentic-incident-response-playbooks","href":"/notes/agentic-incident-response-playbooks","content":"$21","draft":false,"scheduled":false},{"number":"018","title":"The identity-first AI SOC","titleHtml":"The <em>identity-first</em> AI SOC.","headingHtml":"The <em>identity-first</em><br/><span class=\"red\">AI SOC</span>.","description":"A technical guide to building identity-first AI security operations: valid accounts, phishing-resistant MFA, session risk, credential exposure, entity resolution, zero trust, and agent-assisted investigation.","ogDescription":"Identity-first AI SOC architecture: valid accounts, MFA posture, credential exposure, entity resolution, session risk, and zero trust investigation workflows.","date":"2026-06-05","displayDate":"2026 · 06 · 05","readTime":"13 min","quirk":"-- or one valid account caught early","excerptHtml":"Modern intrusions often look like normal users doing abnormal things. That makes identity the center of the AI-native SOC.","dekHtml":"How to design AI-assisted security operations around identities, sessions, privileges, credential exposure, authentication strength, and zero trust context.","tags":["ai","security","secops","identity","building"],"tableOfContents":true,"nextSlug":"evaluating-ai-soc-agents","slug":"identity-first-ai-soc","href":"/notes/identity-first-ai-soc","content":"$22","draft":false,"scheduled":false,"featured":false},{"number":"017","title":"How to evaluate AI SOC agents before production","titleHtml":"How to evaluate <em>AI SOC agents</em> before production.","headingHtml":"How to evaluate<br/><span class=\"red\">AI SOC agents</span> before production.","description":"A detailed evaluation framework for AI SOC agents: golden cases, tool-call testing, prompt-injection tests, evidence scoring, false-positive handling, analyst trust, and production readiness.","ogDescription":"How to evaluate AI SOC agents before production using evidence tests, tool-call tests, prompt-injection scenarios, analyst review, and operational metrics.","date":"2026-06-05","displayDate":"2026 · 06 · 05","readTime":"12 min","quirk":"-- or one confident hallucination caught","excerptHtml":"An AI SOC agent should not graduate to production because it gave three impressive demos. It should graduate because it survived evaluation.","dekHtml":"A practical framework for testing AI security agents against real workflows, hostile inputs, tool boundaries, evidence quality, and analyst trust.","tags":["ai","security","secops","agents","evaluation"],"tableOfContents":true,"nextSlug":"detection-engineering-ai-native-soc","slug":"evaluating-ai-soc-agents","href":"/notes/evaluating-ai-soc-agents","content":"$23","draft":false,"scheduled":false,"featured":false},{"number":"016","title":"Detection engineering for an AI-native SOC","titleHtml":"Detection engineering for an <em>AI-native SOC</em>.","headingHtml":"Detection engineering<br/>for an <span class=\"red\">AI-native SOC</span>.","description":"A technical guide to detection engineering in AI-native security operations: ATT&CK mapping, data sources, Sigma, OCSF, telemetry quality, AI-assisted rule writing, testing, and feedback loops.","ogDescription":"AI-native SOC detection engineering: how to design detections around telemetry, ATT&CK data sources, Sigma, OCSF, tests, and analyst feedback.","date":"2026-06-05","displayDate":"2026 · 06 · 05","readTime":"13 min","quirk":"-- or one noisy rule retired","excerptHtml":"AI can help write detections, but detection engineering is still an evidence discipline, not a prompt trick.","dekHtml":"How builder-leaders should design AI-assisted detection engineering around telemetry quality, normalized schemas, ATT&CK data components, test cases, and production feedback.","tags":["ai","security","secops","detection","building"],"tableOfContents":true,"nextSlug":"securing-agentic-ai-tools-for-soc","slug":"detection-engineering-ai-native-soc","href":"/notes/detection-engineering-ai-native-soc","content":"$24","draft":false,"scheduled":false,"featured":false},{"number":"015","title":"Securing agentic AI tools for the SOC","titleHtml":"Securing <em>agentic AI tools</em> for the SOC.","headingHtml":"Securing <em>agentic AI tools</em><br/>for the <span class=\"red\">SOC</span>.","description":"A technical architecture guide for securing agentic AI tools in security operations: permissions, tool schemas, MCP risks, prompt injection, evidence boundaries, audit logs, and approval gates.","ogDescription":"How to secure agentic AI tools for the SOC: least agency, scoped tools, MCP risks, prompt injection defenses, approvals, and auditability.","date":"2026-06-05","displayDate":"2026 · 06 · 05","readTime":"12 min","quirk":"-- or one overpowered tool avoided","excerptHtml":"Agentic AI in the SOC becomes dangerous when tools are treated like plugins instead of production security interfaces.","dekHtml":"A builder's guide to designing SOC agents with narrow permissions, typed tools, hostile-input handling, approval gates, and evidence-preserving audit trails.","tags":["ai","security","secops","agents","building"],"tableOfContents":true,"nextSlug":"agentic-ai-soc-speaker","slug":"securing-agentic-ai-tools-for-soc","href":"/notes/securing-agentic-ai-tools-for-soc","content":"$25","draft":false,"scheduled":false,"featured":false},{"number":"014","title":"Agentic AI in the SOC: the builder-leader talk security teams need now","titleHtml":"Agentic AI in the <em>SOC</em>: the builder-leader talk security teams need now.","headingHtml":"Agentic AI in the <em>SOC</em>:<br/><span class=\"red\">the builder-leader talk security teams need now</span>.","description":"A keynote-style field guide from a builder-leader on agentic AI in the SOC, AI-native security operations, cybersecurity leadership, analyst trust, and modern SecOps architecture.","ogDescription":"Agentic AI in the SOC from a builder-leader perspective: what security leaders, builders, and conference audiences need to understand about AI-native security operations.","date":"2026-06-05","displayDate":"2026 · 06 · 05","readTime":"15 min","quirk":"-- or one panel question answered early","excerptHtml":"The best AI cybersecurity talk right now is not about replacing analysts. It is about rebuilding the SOC around evidence, workflow, trust, and controlled agentic systems, from someone who can build and lead the work.","dekHtml":"A builder-leader field guide for security teams trying to understand agentic AI, SOC modernization, AI-native cybersecurity, and what should actually be built.","tags":["ai","security","secops","agents","speaking","building","leadership"],"featured":true,"tableOfContents":true,"nextSlug":"ai-native-secops-platform","slug":"agentic-ai-soc-speaker","href":"/notes/agentic-ai-soc-speaker","content":"$26","draft":false,"scheduled":false},{"number":"013","title":"Rethinking SecOps: designing an AI-native security operations platform","titleHtml":"Rethinking <em>SecOps</em>: designing an AI-native security operations platform.","headingHtml":"Rethinking <em>SecOps</em>:<br/><span class=\"red\">AI-native</span> security operations.","description":"A detailed architecture note on designing AI-native SecOps platforms for investigation, triage, telemetry, detection engineering, workflow orchestration, and human-supervised response.","ogDescription":"How to design AI-native SecOps platforms: alert intake, evidence, correlation, workflows, detection engineering, safety, evaluation, and analyst trust.","date":"2026-05-26","displayDate":"2026 · 05 · 26","readTime":"17 min","quirk":" -  or one alert queue avoided","excerptHtml":"Traditional security platforms were built around dashboards and queues. AI-native SecOps platforms need evidence, workflow memory, typed actions, guardrails, and analyst control.","dekHtml":"Security operations do not need one more dashboard. They need systems that reason across context, orchestrate evidence, and keep humans in control of consequential action.","tags":["ai","security","secops","building"],"featured":true,"tableOfContents":true,"nextSlug":"darkweb-exposure-agent","slug":"ai-native-secops-platform","href":"/notes/ai-native-secops-platform","content":"$27","draft":false,"scheduled":false},{"number":"012","title":"Building a dark web exposure intelligence agent","titleHtml":"Building a dark web <em>exposure intelligence</em> agent.","headingHtml":"Building a dark web<br/><span class=\"red\">exposure</span> intelligence agent.","description":"A detailed architecture note on building dark web exposure intelligence agents for credential leaks, stealer logs, breach data, identity risk, enrichment, triage, and analyst-safe remediation.","ogDescription":"Dark web exposure intelligence agents: entity resolution, breach context, credential risk, source handling, safety guardrails, and operational response.","date":"2026-05-26","displayDate":"2026 · 05 · 26","readTime":"16 min","quirk":" -  or one leaked credential panic avoided","excerptHtml":"Dark web exposure work is not just searching shady indexes. It is entity resolution, evidence handling, identity risk, source confidence, privacy discipline, and response orchestration.","dekHtml":"A practical architecture map for turning breach data, stealer logs, credential exposure, and external intelligence into analyst-grade operational decisions.","tags":["ai","security","threat-intel","agents"],"tableOfContents":true,"nextSlug":"langflow-workflow-engineering","slug":"darkweb-exposure-agent","href":"/notes/darkweb-exposure-agent","content":"$28","draft":false,"scheduled":false,"featured":false},{"number":"011","title":"Engineering AI workflow systems with Langflow","titleHtml":"Engineering AI workflow systems with <em>Langflow</em>.","headingHtml":"Engineering AI<br/><span class=\"red\">workflow</span> systems with Langflow.","description":"Most production AI systems are workflow systems. The model is only one node in a larger orchestration problem.","ogDescription":"A note on Langflow, conditional routing, parallel processing, and production AI orchestration.","date":"2026-05-23","displayDate":"2026 · 05 · 23","readTime":"4 min","quirk":" -  or three conditional edges","excerptHtml":"Modern AI systems are increasingly becoming workflow systems rather than standalone model integrations. The workflow engine becomes the backbone of <em>operational AI</em>.","dekHtml":"On conditional routing, parallel execution, failure handling, and the quiet truth that most AI engineering is orchestration engineering.","tags":["ai","agents","infrastructure","workflow"],"nextSlug":"deep-research-systems","slug":"langflow-workflow-engineering","href":"/notes/langflow-workflow-engineering","content":"$29","draft":false,"scheduled":false,"featured":false},{"number":"010","title":"Building deep research systems for cybersecurity intelligence","titleHtml":"Building <em>deep research systems</em> for cybersecurity intelligence.","headingHtml":"Building deep research systems<br/>for <span class=\"red\">cybersecurity</span> intelligence.","description":"A detailed architecture note on building AI-assisted deep research systems for cybersecurity intelligence, threat research, vulnerability context, and analyst decision support.","ogDescription":"Deep research systems for cybersecurity intelligence: retrieval, correlation, evidence, reasoning, memory, guardrails, and operational output.","date":"2026-05-26","displayDate":"2026 · 05 · 26","readTime":"18 min","quirk":" -  or one analyst with a calmer inbox","excerptHtml":"Security investigations are not search problems. They are evidence problems. Deep research systems need retrieval, correlation, memory, provenance, and a refusal to invent confidence.","dekHtml":"What changes when a cybersecurity research system is expected to synthesize operational intelligence instead of returning a pile of links, IOCs, and vibes.","tags":["ai","security","research","threat-intel"],"tableOfContents":true,"nextSlug":"infrastructure-reliability-for-ai","slug":"deep-research-systems","href":"/notes/deep-research-systems","content":"$2a","draft":false,"scheduled":false,"featured":false},{"number":"009","title":"Engineering reliable AI systems: why infrastructure discipline matters","titleHtml":"Engineering reliable AI systems: why <em>infrastructure discipline</em> matters.","headingHtml":"Engineering reliable AI systems:<br/>why <span class=\"red\">infrastructure</span> discipline matters.","description":"Production AI systems are distributed systems. Reliability, observability, cost, and orchestration matter as much as model quality.","ogDescription":"A note on reliability, observability, automation, and cost engineering for operational AI systems.","date":"2026-05-21","displayDate":"2026 · 05 · 21","readTime":"3 min","quirk":" -  or one p99 before lunch","excerptHtml":"AI systems are often evaluated only on model quality. In production, infrastructure reliability matters just as much as intelligence.","dekHtml":"Operational AI depends on retrieval systems, workflow engines, APIs, search infrastructure, queues, monitoring, and orchestration. That makes it a distributed systems problem.","tags":["ai","infrastructure","reliability","building"],"nextSlug":"enterprise-ai-integrations","slug":"infrastructure-reliability-for-ai","href":"/notes/infrastructure-reliability-for-ai","content":"$2b","draft":false,"scheduled":false,"featured":false},{"number":"008","title":"Designing enterprise AI integrations for operational systems","titleHtml":"Designing <em>enterprise AI integrations</em> for operational systems.","headingHtml":"Designing enterprise AI integrations<br/>for <span class=\"red\">operational</span> systems.","description":"Enterprise AI is only useful when it connects to the systems where work actually happens.","ogDescription":"A note on integration architecture for enterprise AI systems: identity, messaging, workflow, search, and operational context.","date":"2026-05-20","displayDate":"2026 · 05 · 20","readTime":"3 min","quirk":" -  or one SSO callback too many","excerptHtml":"Standalone AI interfaces are not enough for real operations. Enterprise AI becomes valuable when it integrates deeply into the systems where work actually happens.","dekHtml":"Messaging, identity, ticketing, search, security tooling, internal APIs: integration architecture is what turns an AI interface into an operational platform.","tags":["ai","infrastructure","enterprise","workflow"],"nextSlug":"boundary-around-the-model","slug":"enterprise-ai-integrations","href":"/notes/enterprise-ai-integrations","content":"$2c","draft":false,"scheduled":false,"featured":false},{"number":"007","title":"The interesting boundary around the model","titleHtml":"The interesting <em>boundary</em> around the model.","headingHtml":"The interesting <em>boundary</em><br/><span class=\"red\">around</span> the model.","description":"Most AI product work is really tool design, approval-flow design, and observability. The model just sits in the middle, doing the easy part.","ogDescription":"On context engineering, tool design, and why approvals are the actual product.","date":"2026-05-12","displayDate":"2026 · 05 · 12","readTime":"6 min","quirk":" -  or one slow espresso","excerptHtml":"Most \"AI product\" work is really tool design, approval-flow design, and observability. The model just sits in the middle, doing the <em>easy</em> part. A short essay on what actually makes these systems good.","dekHtml":"On context engineering, tool design, observability, and the quiet realization that the <em>model</em> is almost never the hard part.","tags":["ai","agents","security","building","opinions"],"featured":true,"nextSlug":"search-on-object-storage","slug":"boundary-around-the-model","href":"/notes/boundary-around-the-model","content":"$2d","draft":false,"scheduled":false},{"number":"006","title":"Search, on top of object storage","titleHtml":"Search, on top of <em>object storage.</em>","headingHtml":"Search, on top of<br/><span class=\"red\">object</span> <em>storage.</em>","description":"Where the math works out, what you trade, and the strange small joy of a query plan that ends in s3.GetObject.","ogDescription":"On running search workloads where the index lives in S3.","date":"2026-04-28","displayDate":"2026 · 04 · 28","readTime":"9 min","quirk":" -  or two cups of filter coffee","excerptHtml":"What you give up, what you get back, where the math actually works out, and the strange small joy of a query plan that ends in <code>s3.GetObject</code>.","dekHtml":"Where the math actually works out, what you trade for the cheaper bill, and the strange small joy of a query plan that ends in <code>s3.GetObject</code>.","tags":["infrastructure","search","building"],"nextSlug":"boundary-around-the-model","slug":"search-on-object-storage","href":"/notes/search-on-object-storage","content":"$2e","draft":false,"scheduled":false,"featured":false},{"number":"005","title":"Why agentic is quietly becoming useless","titleHtml":"Why <em>\"agentic\"</em> is quietly becoming useless.","description":"A useful word is losing its meaning. A small attempt to put it back together, with verbs.","date":"2026-03-15","displayDate":"2026 · 03 · 15","readTime":"4 min","quirk":" -  or one elevator argument","excerptHtml":"A useful word is losing its meaning  -  not because of anyone in particular, but because everyone is using it for everything. A small attempt to put it back together, with verbs.","tags":["ai","opinions"],"slug":"agentic-becoming-useless","href":"/notes/agentic-becoming-useless","content":"\n<Lede>\n  A useful word is losing its meaning, not because of anyone in particular,\n  but because everyone is using it for everything.\n</Lede>\n\nI am still polishing this note. For now, the thesis is simple: if a system\ncannot choose a tool, plan a next step, inspect the result, and decide whether\nto continue, I probably would not call it agentic.\n\n<EndMark />\n","draft":false,"scheduled":false,"featured":false},{"number":"004","title":"Triage is a UX problem, mostly","titleHtml":"Triage is a <em>UX problem,</em> mostly.","description":"After six months of watching analysts work, I am convinced SOC triage starts with workflow design.","date":"2026-02-22","displayDate":"2026 · 02 · 22","readTime":"7 min","quirk":" -  or the time for an Argo rollout","excerptHtml":"After six months of watching analysts work, I'm convinced that what SOC teams need is less AI and more reorganization. The <em>good</em> AI helps with that, too  -  but only if you start there.","tags":["ai","security","soc","opinions"],"slug":"triage-ux-problem","href":"/notes/triage-ux-problem","content":"\n<Lede>\n  After six months of watching analysts work, I am convinced that what SOC\n  teams need is less AI and more reorganization.\n</Lede>\n\nThe good AI helps with that too, but only if it starts from the workflow:\nwhat gets grouped, what gets hidden, what needs evidence, and where a human\nshould be asked before the system gets clever.\n\n<EndMark />\n","draft":false,"scheduled":false,"featured":false},{"number":"003","title":"What I learned writing my first MCP server","titleHtml":"What I learned writing my first <em>MCP server.</em>","description":"The protocol is small. The interesting design decisions are not.","date":"2026-01-18","displayDate":"2026 · 01 · 18","readTime":"8 min","quirk":" -  or a long ssh reconnect","excerptHtml":"The protocol is small. The interesting design decisions are not. A field report from building, breaking, and re-building a tool server  -  and what I'd actually do differently next time.","tags":["ai","agents","infrastructure","building"],"slug":"first-mcp-server","href":"/notes/first-mcp-server","content":"\n<Lede>\n  The protocol is small. The interesting design decisions are not.\n</Lede>\n\nThe shape that surprised me most was not the transport or schema. It was the\nhuman layer around the tool: descriptions, affordances, permissions, and the\ntiny contracts that teach an agent when not to touch something.\n\n<EndMark />\n","draft":false,"scheduled":false,"featured":false},{"number":"002","title":"Reading the cap table like an offer letter","titleHtml":"Reading the cap table like an <em>offer letter.</em>","description":"A short, opinionated field guide to the part of an offer most engineers try not to read.","date":"2025-12-03","displayDate":"2025 · 12 · 03","readTime":"5 min","quirk":" -  or one careful tea","excerptHtml":"Vesting, cliff, refresh, RSU vs ISO, strike price, dilution  -  a short, opinionated field guide to the part of an offer most engineers (including me, once) try not to read.","tags":["opinions","career"],"slug":"cap-table-offer-letter","href":"/notes/cap-table-offer-letter","content":"\n<Lede>\n  The part of the offer most engineers try not to read is often the part that\n  explains the real offer.\n</Lede>\n\nVesting, cliff, refresh, RSU vs ISO, strike price, dilution: none of this is\nromantic, but all of it changes what the number on the first page actually\nmeans.\n\n<EndMark />\n","draft":false,"scheduled":false,"featured":false},{"number":"001","title":"Demos are easy. Tuesdays are hard","titleHtml":"Demos are easy. Tuesdays are <em>hard.</em>","description":"On the gap between a thing that works in the room and a thing that works in a customer's hands.","date":"2025-10-09","displayDate":"2025 · 10 · 09","readTime":"6 min","quirk":" -  or a slow K8s pod restart","excerptHtml":"On the gap between a thing that works in the room and a thing that works in a customer's hands on a Tuesday morning. The first half of a long-running argument I keep having with myself.","tags":["infrastructure","building","opinions"],"slug":"demos-tuesdays-hard","href":"/notes/demos-tuesdays-hard","content":"\n<Lede>\n  Demos are easy. Tuesdays are hard.\n</Lede>\n\nThe gap between a thing that works in the room and a thing that works in a\ncustomer's hands on Tuesday morning is where most engineering taste lives.\n\n<EndMark />\n","draft":false,"scheduled":false,"featured":false},{"number":"","title":"The boring case for boring infrastructure","titleHtml":"The boring case for <em>boring infrastructure.</em>","description":"The reasons I keep choosing the unsexy option in cloud architecture arguments.","displayDate":" -  ·  -  ·  - ","readTime":"draft","quirk":" -  stewing on this one","excerptHtml":"The reasons I keep choosing the \"unsexy\" option in cloud architecture arguments  -  and why I think the next ten years will reward that choice more than the previous ten did.","tags":["infrastructure","opinions"],"draft":true,"draftLabel":"still cooking","slug":"boring-infrastructure","href":"/notes/boring-infrastructure","content":"\nDraft.\n","scheduled":false,"featured":false},{"number":"","title":"Notes on token-maxxing","titleHtml":"Notes on <em>token-maxxing.</em>","description":"The fun meme; the boring truth.","displayDate":" -  ·  -  ·  - ","readTime":"draft","quirk":" -  probably worth finishing?","excerptHtml":"The fun meme; the boring truth. Context engineering vs prompt engineering vs the actual eval that gets you off the demo treadmill.","tags":["ai","opinions"],"draft":true,"draftLabel":"about to give up","slug":"token-maxxing","href":"/notes/token-maxxing","content":"\nDraft.\n","scheduled":false,"featured":false}]}]
+2f:T139f,
+<Lede>
+  A useful word is losing its meaning, not because of anyone in particular, but
+  because everyone is using it for everything.
+</Lede>
+
+An autocomplete is agentic. A chatbot is agentic. A fixed workflow with one
+model call is agentic. A system that creates accounts and deploys code is also
+agentic.
+
+When one word covers all four, it stops helping engineers, buyers, and users
+understand risk.
+
+## The problem is not the word.
+
+"Agentic" names a real shift: software can increasingly interpret goals,
+choose intermediate steps, use tools, observe results, and continue without
+every transition being specified in advance.
+
+The problem is using the label where a behavioral description is needed.
+
+In a product review, architecture document, or sales conversation, I would
+replace "agentic" with answers to seven questions.
+
+## 1. What goal can the system pursue?
+
+Is the goal a narrow task such as enriching one alert, or an open-ended outcome
+such as investigating suspicious identity activity?
+
+Who supplies the goal? Can the system rewrite it? What prevents retrieved text
+or a tool response from changing it?
+
+Goal scope determines both capability and attack surface.
+
+## 2. What can it decide?
+
+Some systems select among fixed branches. Others generate a plan, add steps,
+delegate to another agent, or decide that more evidence is needed.
+
+Describe the decision:
+
+- choose a source;
+- rank hypotheses;
+- select a tool;
+- request approval;
+- stop or continue;
+- propose an action.
+
+This is more informative than an autonomy label.
+
+## 3. Which tools can it use?
+
+Tools turn language into effects.
+
+List whether they read data, write state, execute code, spend money, or affect a
+person. Explain how arguments are validated, credentials are scoped, and risky
+actions are approved.
+
+OWASP's guidance on agentic threats focuses heavily on tool misuse, identity,
+memory, and cascading behavior because authority changes the consequence of a
+model error.
+
+## 4. What state does it retain?
+
+Does the system remember only the current request, maintain workflow state, or
+write durable memory that affects future decisions?
+
+State needs provenance, ownership, correction, expiry, and deletion. "The agent
+learns" is not a sufficient data model.
+
+## 5. What feedback can it observe?
+
+Can it inspect a tool result, test whether an action succeeded, compare evidence,
+or see a human correction?
+
+Without observation, a sequence of model calls may look autonomous while being
+unable to detect its own failure.
+
+## 6. What authority does it borrow?
+
+An agent rarely has authority of its own. It borrows authority from a user,
+service account, integration, or organization.
+
+The architecture should bind that authority to:
+
+- principal;
+- tenant;
+- task;
+- tool;
+- target;
+- duration;
+- approval.
+
+This is where product language becomes security architecture.
+
+## 7. How does it stop?
+
+Every system needs stopping conditions:
+
+- goal completed;
+- evidence insufficient;
+- budget reached;
+- policy denied;
+- approval expired;
+- repeated failure;
+- human intervention;
+- risk threshold exceeded.
+
+An agent that can continue but cannot explain when to stop is an unbounded loop
+with branding.
+
+## A more useful description.
+
+Instead of:
+
+> We built an agentic SOC analyst.
+
+Try:
+
+> The system investigates one alert at a time. It can retrieve evidence from
+> three approved sources, form and test hypotheses, and draft a disposition. It
+> cannot execute response actions. It stops when evidence is insufficient, its
+> step budget is reached, or an analyst intervenes.
+
+That description is less exciting and much easier to evaluate.
+
+## Autonomy is multidimensional.
+
+A system can have high planning freedom but read-only tools. It can have fixed
+planning but highly privileged actions. It can have durable memory but no tools.
+
+For each workflow, map:
+
+| Dimension | Low | High |
+| --- | --- | --- |
+| goal scope | fixed task | open-ended outcome |
+| planning | fixed path | generated and revised plan |
+| tools | read-only | privileged effects |
+| memory | request only | durable shared memory |
+| supervision | every step | exception only |
+| reversibility | easy rollback | irreversible consequence |
+
+This makes architecture and governance discussions concrete.
+
+## Keep the word, add the verbs.
+
+I still use "agentic" as shorthand. It is useful for naming a family of systems.
+
+But the word should begin the conversation, not finish it.
+
+Tell me what the system observes, decides, retrieves, remembers, changes, and
+refuses to do. Then tell me who gave it permission.
+
+That is the product.
+
+## Sources and further reading.
+
+- [NIST AI Agent Standards Initiative](https://www.nist.gov/artificial-intelligence/ai-agent-standards-initiative)
+- [OWASP agentic AI threats and mitigations](https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/)
+- [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
+- [The control plane for SecOps agents](/notes/secops-agent-control-plane)
+30:T12c6,
+<Lede>
+  After watching analysts work, I am convinced that SOC triage needs less
+  interface archaeology and more deliberate workflow design.
+</Lede>
+
+The good AI helps. But it helps only after the product understands the decision
+an analyst is trying to make.
+
+Triage is not reading an alert and clicking true positive or false positive. It
+is reconstructing enough context to decide what deserves attention, what can be
+closed, what should be escalated, and what action is proportionate.
+
+## The analyst is assembling a case.
+
+For one alert, an analyst may need:
+
+- the affected identity and asset;
+- recent related alerts;
+- process, network, or authentication history;
+- asset criticality;
+- threat-intelligence context;
+- previous investigations;
+- detection logic;
+- response options;
+- confidence in each source.
+
+If this context lives across six tabs, the interface has made assembly the
+analyst's job.
+
+## Group before summarizing.
+
+Many products add an AI summary to every alert. That can make a fragmented queue
+more readable without making it less fragmented.
+
+First ask:
+
+- Which alerts describe the same behavior?
+- Which share an entity, session, process tree, campaign, or time window?
+- Which are duplicates?
+- Which should remain separate because combining them would hide risk?
+
+The unit of work should be an investigation-shaped group, not necessarily the
+vendor's alert object.
+
+## Design an evidence hierarchy.
+
+The first screen should answer:
+
+1. What happened?
+2. Why is it suspicious?
+3. Which evidence supports that view?
+4. What is missing or contradictory?
+5. What can I safely do next?
+
+Use progressive disclosure. Show decisive evidence first, then let the analyst
+inspect raw records. Preserve provenance and timestamps. Distinguish observed
+facts from inferred relationships and generated explanations.
+
+The [evidence layer](/notes/evidence-layer-ai-security-platforms) is therefore a
+UX dependency, not only a backend concern.
+
+## Make uncertainty visible.
+
+Security interfaces often hide uncertainty behind severity colors.
+
+An alert can be severe but poorly supported. A low-severity alert can be one
+piece of a strong campaign pattern.
+
+Show uncertainty as specific missing information:
+
+- endpoint telemetry unavailable;
+- identity not resolved;
+- source older than the incident;
+- entity match ambiguous;
+- expected baseline absent;
+- recommendation depends on an unverified assumption.
+
+"Confidence: 72%" is less useful than knowing why confidence is limited.
+
+## Put actions beside consequences.
+
+Actions should display:
+
+- target;
+- scope;
+- expected effect;
+- required approval;
+- reversibility;
+- evidence supporting the action.
+
+The primary button should not always be "close." Sometimes the correct next step
+is collect evidence, ask the asset owner, escalate, or wait for another source.
+
+## Let AI remove search, not judgment.
+
+Useful assistance includes:
+
+- collecting related evidence;
+- resolving entities;
+- building a timeline;
+- explaining detection logic;
+- identifying missing checks;
+- drafting a disposition with citations;
+- proposing bounded next actions.
+
+The analyst should be able to edit the conclusion, inspect sources, and reject
+the recommendation. Corrections should be captured by type so the team can
+improve retrieval, logic, policy, and UX separately.
+
+## Design for interruption.
+
+SOC work is interrupt-driven. An analyst may leave an investigation for a
+critical incident and return later.
+
+Persist:
+
+- what has been reviewed;
+- hypotheses considered;
+- evidence collected;
+- pending actions;
+- approvals;
+- unresolved questions;
+- a concise handoff note.
+
+Do not make the analyst reconstruct the system's state from a chat transcript.
+
+## Measure the redesigned workflow.
+
+Useful measures include:
+
+- time to defensible disposition;
+- analyst touches;
+- tabs or systems visited;
+- reopened cases;
+- evidence missing at decision time;
+- recommendation edits and rejections;
+- escalation quality;
+- analyst-reported effort.
+
+The goal is not fewer clicks in isolation. It is less avoidable cognitive work
+per sound decision.
+
+## The product principle.
+
+Before adding another model call, redraw the decision surface.
+
+Group the right signals. Put evidence in order. Name uncertainty. Make actions
+and consequences explicit. Preserve state.
+
+Then use AI to gather, connect, and explain.
+
+Triage is a UX problem mostly because the security decision is already hard. The
+interface should not make it harder.
+
+## Sources and further reading.
+
+- [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
+- [MITRE ATT&CK analytics](https://attack.mitre.org/analytics/)
+- [CISA Secure by Design](https://www.cisa.gov/securebydesign)
+- [Measuring whether an AI SOC is working](/notes/measuring-ai-soc-metrics)
+31:T13f5,
+<Lede>
+  The protocol is small. The interesting design decisions are not.
+</Lede>
+
+My first MCP server became useful quickly. It also made a deeper problem obvious:
+exposing a function is easy; exposing the right capability with a contract an
+agent can use safely is product and security work.
+
+## The tool description is an interface.
+
+Humans can infer intent from a button, screen, and surrounding workflow. An
+agent often sees a name, description, and schema.
+
+A useful description explains:
+
+- what the tool does;
+- when to use it;
+- when not to use it;
+- required preconditions;
+- whether it reads or changes state;
+- important cost or latency;
+- what the result means.
+
+`search` is a weak tool name. `search_security_cases` with tenant, time-window,
+and query semantics gives the model a better decision surface.
+
+## Narrow tools beat generic power.
+
+My first instinct was to expose flexible primitives. Flexibility reduces server
+code and transfers complexity and risk to the client.
+
+Prefer:
+
+- `get_case_evidence` over arbitrary SQL;
+- `add_case_note` over generic HTTP;
+- `propose_endpoint_isolation` over shell execution;
+- explicit enums over free-form action names.
+
+Narrow tools are easier to authorize, test, observe, and explain.
+
+## Schema design changes behavior.
+
+Good schemas encode domain constraints:
+
+- required tenant and case context supplied by the server where possible;
+- bounded strings and arrays;
+- enums for known choices;
+- explicit time ranges;
+- separate dry-run and execute operations;
+- structured outputs;
+- no hidden defaults for dangerous fields.
+
+Validate on the server. The model producing valid-looking JSON is not a security
+control.
+
+## Errors are part of the protocol contract.
+
+An agent needs to distinguish:
+
+- invalid arguments;
+- not found;
+- unauthorized;
+- policy denied;
+- approval required;
+- rate limited;
+- upstream unavailable;
+- partial result;
+- retryable failure.
+
+If every failure becomes one text message, the client may retry an unsafe
+operation, hallucinate success, or hide a useful recovery path.
+
+## Authorization needs resource semantics.
+
+The MCP authorization specification for HTTP transports requires protected
+servers to validate access tokens and ensure they were issued for that server.
+That is the transport foundation, not the complete authorization model.
+
+The server must still enforce:
+
+- principal and tenant;
+- tool permission;
+- resource ownership;
+- action scope;
+- policy;
+- approval;
+- credential expiry.
+
+For local stdio servers, the specification recommends retrieving credentials
+from the environment rather than applying the HTTP authorization flow. Those
+credentials still need least privilege.
+
+## Tool output is untrusted context too.
+
+A tool may return text from a webpage, ticket, repository, or threat feed. That
+text can contain prompt injection or misleading instructions.
+
+Return structured data with provenance. Separate data from instructions. Never
+allow tool output to expand permissions. Keep sensitive fields out of responses
+unless the task requires them.
+
+OWASP's MCP Top 10 calls out token exposure, scope creep, tool poisoning,
+supply-chain compromise, command injection, and contextual prompt injection.
+These risks belong in the server design and test plan.
+
+## Observability should follow the capability.
+
+For each request, record:
+
+- principal and tenant;
+- client and server version;
+- tool and schema version;
+- sanitized arguments;
+- policy decision;
+- duration and outcome;
+- affected resource IDs;
+- approval reference;
+- error class.
+
+Do not log secrets or unrestricted tool content by default.
+
+## The test suite I wish I started with.
+
+I now want tests for:
+
+1. schema boundaries and malformed inputs;
+2. unauthorized and cross-tenant resource access;
+3. tool description clarity across representative prompts;
+4. idempotency and replay;
+5. timeout and upstream failure;
+6. poisoned tool output;
+7. secret redaction;
+8. cancellation;
+9. version compatibility;
+10. audit completeness.
+
+Add an evaluation set for tool selection too. A technically correct tool is
+still badly designed if agents consistently choose it in the wrong situation.
+
+## What I would do differently.
+
+I would begin with the smallest domain capability, write the authorization and
+error model before the handler, and test the tool through more than one client.
+
+I would treat descriptions and schemas as versioned product interfaces.
+
+And I would ask one question before adding every tool:
+
+> Does this capability make the agent more useful, or merely more powerful?
+
+The first MCP server taught me that interoperability is the beginning. The
+quality of the boundary determines whether the connection deserves trust.
+
+## Sources and further reading.
+
+- [Model Context Protocol authorization specification](https://modelcontextprotocol.io/specification/2025-06-18/basic/authorization)
+- [OWASP MCP Top 10](https://owasp.org/www-project-mcp-top-10/)
+- [OWASP prompt injection](https://owasp.org/www-community/attacks/PromptInjection)
+- [Securing agentic AI tools for the SOC](/notes/securing-agentic-ai-tools-for-soc)
+32:T15d7,
+<Lede>
+  The part of the offer most engineers try not to read is often the part that
+  explains the real offer.
+</Lede>
+
+An offer might include 50,000 options. That number sounds concrete and tells you
+almost nothing by itself.
+
+You need the fully diluted share count, strike price, vesting terms, exercise
+window, current valuation context, and the economic rights attached to other
+shares before you can understand what was offered.
+
+This is a candidate's reading framework, not tax, legal, or investment advice.
+Equity treatment depends heavily on the plan, company, and jurisdiction. Ask a
+qualified adviser before making a material exercise or tax decision.
+
+## Start with percentage ownership.
+
+Ask:
+
+- How many shares or options are in my grant?
+- What is the fully diluted share count?
+- What percentage would the grant represent today?
+- Is the percentage calculated before or after the current financing?
+
+The basic estimate is:
+
+`grant shares / fully diluted shares = current ownership percentage`
+
+"Fully diluted" should account for issued shares, the employee option pool,
+outstanding options and warrants, and other securities that can become shares.
+Ask the company to define what it included.
+
+## Understand what you are receiving.
+
+Common instruments include stock options, restricted stock, and restricted
+stock units. They differ in ownership, exercise, settlement, and taxation.
+
+For US plans, the IRS distinguishes statutory options, including incentive stock
+options, from nonstatutory options. RSUs generally represent a right to receive
+stock or cash after vesting conditions are met. Other jurisdictions use
+different categories and tax rules.
+
+The label is not enough. Read the plan and grant agreement.
+
+## Read vesting as a retention design.
+
+A common schedule is four years with a one-year cliff, followed by monthly or
+quarterly vesting. Confirm:
+
+- vesting start date;
+- cliff;
+- vesting frequency;
+- treatment during leave;
+- what happens at termination;
+- whether acceleration exists after an acquisition;
+- whether refresh grants are part of normal compensation review.
+
+Ask about both single-trigger and double-trigger acceleration. Do not assume
+either is included.
+
+## Price the option, not only the upside.
+
+An option is the right to buy a share at the strike price. Exercising can require
+meaningful cash:
+
+`vested options × strike price = exercise cost`
+
+Tax may also arise at exercise, vesting, sale, or another event depending on the
+instrument and jurisdiction. The IRS notes, for example, that ISO exercise can
+have alternative minimum tax consequences.
+
+Questions to ask:
+
+- What is the current strike price?
+- When was the latest common-share valuation?
+- What is the post-termination exercise window?
+- Is early exercise allowed?
+- Can exercise be cashless in a liquidity event?
+- Does the company support tender offers or secondary sales?
+
+A 90-day exercise window after leaving can turn vested options into a rushed
+cash decision.
+
+## Model dilution honestly.
+
+Future fundraising, option-pool increases, conversions, and acquisitions can
+reduce your percentage.
+
+Dilution is not automatically bad. Owning a smaller percentage of a much more
+valuable company can be a good outcome. The mistake is treating today's
+percentage as permanent.
+
+Model a few scenarios:
+
+| Scenario | Company value | Your diluted ownership | Gross paper value |
+| --- | ---: | ---: | ---: |
+| downside | lower or zero | reduced | possibly zero |
+| base | plausible next stage | reduced | value before tax and exercise |
+| upside | strong outcome | further reduced | still not cash until liquidity |
+
+Subtract exercise cost and consider tax. Do not assign a public-market liquidity
+discount to a private security that cannot be sold.
+
+## Ask about preference and liquidation structure.
+
+Preferred investors may receive their investment back before common
+shareholders participate, depending on the terms. Participation rights, senior
+preferences, debt, and acquisition structure can change common-share proceeds.
+
+A company may not share the full cap table with a candidate. It should still be
+able to explain:
+
+- the latest preferred financing price and date;
+- the common-share valuation used for options;
+- total funding;
+- whether preferences are broadly standard or unusual;
+- whether there is meaningful debt;
+- the current option-pool size.
+
+## Separate value from certainty.
+
+I treat startup equity as a high-variance component, not deferred cash.
+
+The role, team, learning, scope, base compensation, company runway, and personal
+risk tolerance still matter. A precise spreadsheet does not make the outcome
+predictable; it makes assumptions visible.
+
+## My candidate checklist.
+
+Before accepting, I want:
+
+1. instrument and grant size;
+2. fully diluted ownership percentage;
+3. strike price and valuation date;
+4. vesting and acceleration terms;
+5. exercise window;
+6. option-pool and dilution context;
+7. latest financing and runway context;
+8. liquidity history or policy;
+9. copies of the plan and grant documents;
+10. jurisdiction-specific professional advice where needed.
+
+The point is not to interrogate a founder over every hypothetical.
+
+It is to evaluate the same offer the company believes it is making.
+
+## Sources and further reading.
+
+- [IRS Topic 427: Stock options](https://www.irs.gov/taxtopics/tc427)
+- [IRS Publication 525: Taxable and Nontaxable Income](https://www.irs.gov/publications/p525)
+- [IRS Publication 5992: Equity-based compensation](https://www.irs.gov/pub/irs-pdf/p5992.pdf)
+- [A short letter to recruiters](/for-recruiters)
+33:T16cb,
+<Lede>
+  Demos are easy. Tuesdays are hard.
+</Lede>
+
+A demo gets a clean input, a prepared environment, a patient audience, and an
+engineer standing close enough to intervene.
+
+A customer on Tuesday morning brings stale credentials, partial data, a slow
+integration, two browser tabs, a production incident, and no interest in how
+promising the architecture looked last week.
+
+The distance between those two moments is production engineering.
+
+## A demo proves possibility.
+
+A good demo answers an important question:
+
+> Can this idea create useful behavior at all?
+
+That is real progress. Teams should celebrate it.
+
+But a demo normally avoids the harder questions:
+
+- What happens when an upstream API times out?
+- Can the work be retried without duplicating an action?
+- What does the user see when evidence is incomplete?
+- Which identity is used for a tool call?
+- Can one customer's data enter another customer's context?
+- How much does the workflow cost at the 95th percentile?
+- Can support explain yesterday's failure?
+- Can the system be rolled back?
+
+Production readiness begins when those questions become part of the product,
+not a list for later.
+
+## The first hard thing is input reality.
+
+Demo inputs are selected. Production inputs arrive.
+
+They are malformed, duplicated, delayed, contradictory, oversized, multilingual,
+and occasionally malicious. Security products also ingest attacker-controlled
+text from alerts, tickets, files, websites, and threat reports.
+
+Every boundary needs:
+
+- schema validation;
+- size and rate limits;
+- tenant and sensitivity labels;
+- idempotency;
+- provenance;
+- an explicit failure path.
+
+If the system silently drops fields or invents defaults, the demo's fluency
+becomes an operational liability.
+
+## The second hard thing is durable state.
+
+An AI workflow is usually a distributed workflow.
+
+It retrieves context, calls a model, invokes tools, waits for approvals, stores
+evidence, and publishes a result. Any step can fail after another step has
+already succeeded.
+
+The production design needs:
+
+- durable workflow state;
+- bounded retries;
+- idempotency keys;
+- timeouts;
+- compensating actions;
+- cancellation;
+- human-visible progress;
+- safe resumption after deployment.
+
+A recursive agent loop can be useful for exploration. It is not automatically a
+reliable execution model.
+
+## The third hard thing is authority.
+
+The moment an AI system can change a ticket, disable a user, isolate an endpoint,
+or update a firewall, quality is no longer the only concern.
+
+The platform must know:
+
+- who requested the action;
+- which tenant and case authorize it;
+- which policy applies;
+- what evidence is required;
+- whether approval is needed;
+- how the action can be reversed;
+- what audit record must remain.
+
+CISA's secure AI guidance emphasizes secure design across development,
+deployment, and operation. OWASP's agentic guidance similarly treats tools,
+identity, memory, and unintended actions as system risks.
+
+A prompt asking the model to "be careful" is not an authorization layer.
+
+## The fourth hard thing is failure UX.
+
+Production systems should fail legibly.
+
+"Something went wrong" is not enough. The user needs to know whether:
+
+- no evidence was found;
+- a source was unavailable;
+- an action was denied by policy;
+- approval expired;
+- the model output failed validation;
+- the workflow stopped safely;
+- manual work is required.
+
+Failure states are part of the product contract. They shape whether users trust
+the system and whether support can recover it.
+
+## The fifth hard thing is observation.
+
+CPU and memory are necessary but insufficient.
+
+An AI workflow also needs telemetry for:
+
+- end-to-end completion;
+- each retrieval, model, and tool step;
+- model and prompt version;
+- token usage and cost;
+- evidence IDs;
+- policy decisions;
+- approvals;
+- retries and fallbacks;
+- final outcome and correction.
+
+OpenTelemetry's generative AI conventions help standardize model and agent
+signals. Sensitive prompts and evidence still need deliberate redaction and
+access control.
+
+## The sixth hard thing is change.
+
+Models change. Prompts change. Search indexes change. Tools change. Customer data
+changes.
+
+Every significant change should pass:
+
+1. a deterministic regression suite;
+2. representative offline evaluations;
+3. adversarial tests;
+4. shadow or limited rollout;
+5. monitored production release;
+6. rollback criteria.
+
+The evaluation set should preserve real failures. Otherwise the team pays for
+the same lesson twice.
+
+## My Tuesday test.
+
+Before I call a system production-ready, I want clear answers to ten questions:
+
+1. What is the completed unit of work?
+2. What can fail, and how does each failure appear?
+3. What state survives a restart?
+4. Which actions are reversible?
+5. Where is authorization enforced?
+6. How are tenant and data boundaries tested?
+7. Can a result be traced to evidence?
+8. What are the latency, reliability, and cost budgets?
+9. How does a human correct or stop the system?
+10. What happens during provider or integration failure?
+
+The [AI security production checklist](/notes/ai-security-demo-to-production-checklist)
+goes deeper on release gates.
+
+The demo is not dishonest. It is simply answering the first question.
+
+The product begins with all the questions that arrive on Tuesday.
+
+## Sources and further reading.
+
+- [CISA and NCSC guidelines for secure AI system development](https://www.cisa.gov/news-events/alerts/2023/11/26/cisa-and-uk-ncsc-unveil-joint-guidelines-secure-ai-system-development)
+- [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
+- [OWASP agentic AI threats and mitigations](https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/)
+- [OpenTelemetry generative AI observability](https://opentelemetry.io/blog/2026/genai-observability/)
+6:["$","$L12",null,{"filters":[{"key":"all","label":"all","count":33},{"key":"ai","label":"ai & agents","count":30},{"key":"security","label":"security","count":25},{"key":"infrastructure","label":"infrastructure","count":6},{"key":"opinions","label":"opinions","count":5},{"key":"drafts","label":"drafts","count":0}],"notes":[{"number":"033","title":"Agentic SOC product strategy for founders who need the real version","titleHtml":"Agentic SOC product strategy for founders who need the <em>real</em> version.","headingHtml":"Agentic SOC product strategy<br/>for founders who need the <span class=\"red\">real</span> version.","description":"A practical product strategy note for founders building agentic SOC platforms: wedge selection, trust, analyst workflows, evidence, automation boundaries, GTM proof, and product sequencing.","ogDescription":"Agentic SOC product strategy for founders: pick the right wedge, build trust first, sequence automation, and prove value beyond a demo.","date":"2026-06-25","displayDate":"2026 · 06 · 25","readTime":"11 min","quirk":"-- because the TAM slide is not the product","excerptHtml":"Agentic SOC strategy is not 'AI replaces analysts.' The real strategy is choosing a painful workflow, proving trust, and earning automation step by step.","dekHtml":"A founder-facing product strategy memo for agentic SOC, AI-native SecOps, and security automation teams trying to move from demo to durable business.","tags":["ai","security","secops","agents","startup","product","leadership"],"featured":true,"tableOfContents":true,"nextSlug":"founding-cto-ai-cybersecurity-startup","slug":"agentic-soc-product-strategy-founders","href":"/notes/agentic-soc-product-strategy-founders","content":"$13","draft":false,"scheduled":false},{"number":"032","title":"The AI cybersecurity founding CTO memo I would want to read","titleHtml":"The AI cybersecurity <em>founding CTO</em> memo I would want to read.","headingHtml":"The AI cybersecurity<br/><span class=\"red\">founding CTO</span> memo I would want to read.","description":"A practical founding CTO memo for AI cybersecurity startups: what to build first, how to earn trust, how to avoid shallow AI wrappers, and how to lead the early engineering system.","ogDescription":"A founding CTO memo for AI cybersecurity startups: trust contract, product wedge, architecture, evidence, agent controls, hiring, and operating rhythm.","date":"2026-06-25","displayDate":"2026 · 06 · 25","readTime":"10 min","quirk":"-- or the startup brief that filters out the wrong chaos","excerptHtml":"A founding CTO in AI cybersecurity has to build the product, the trust system, the engineering culture, and the risk posture at the same time.","dekHtml":"A practical memo for founders and recruiters evaluating founding CTO or early engineering leadership in AI-native cybersecurity.","tags":["career","leadership","security","ai","startup","building"],"featured":true,"tableOfContents":true,"nextSlug":"head-of-ai-security-platform-brief","slug":"founding-cto-ai-cybersecurity-startup","href":"/notes/founding-cto-ai-cybersecurity-startup","content":"$14","draft":false,"scheduled":false},{"number":"031","title":"What I would build as Head of AI Security Platform","titleHtml":"What I would build as <em>Head of AI Security Platform</em>.","headingHtml":"What I would build as<br/><span class=\"red\">Head of AI Security Platform</span>.","description":"A practical leadership brief for building AI security platforms: product primitives, evidence systems, agent control, SecOps workflows, trust, team design, and execution.","ogDescription":"What to build as Head of AI Security Platform: evidence layer, agent control plane, SecOps workflows, evals, trust systems, and team operating model.","date":"2026-06-25","displayDate":"2026 · 06 · 25","readTime":"12 min","quirk":"-- or the job description I keep accidentally writing for myself","excerptHtml":"If I owned an AI security platform, I would build around evidence, controlled agency, analyst workflows, reliability, trust, and a team that can ship without losing judgment.","dekHtml":"A builder-leader brief for founders, CISOs, and recruiters evaluating what AI security platform leadership should actually do.","tags":["career","leadership","security","ai","platform","building"],"featured":true,"tableOfContents":true,"nextSlug":"ai-security-demo-to-production-checklist","slug":"head-of-ai-security-platform-brief","href":"/notes/head-of-ai-security-platform-brief","content":"$15","draft":false,"scheduled":false},{"number":"030","title":"From AI security demo to production: the checklist I use","titleHtml":"From AI security demo to <em>production</em>: the checklist I use.","headingHtml":"From AI security demo<br/>to <span class=\"red\">production</span>: the checklist I use.","description":"A practical production-readiness checklist for AI security products, agentic SOC systems, SecOps copilots, and LLM-powered investigation workflows.","ogDescription":"A production-readiness checklist for AI security products: evidence, permissions, evals, observability, rollout gates, analyst trust, and incident response.","date":"2026-06-25","displayDate":"2026 · 06 · 25","readTime":"11 min","quirk":"-- because the demo is where risk politely wears a blazer","excerptHtml":"AI security demos are easy to like. Production systems need evidence, permissions, evals, observability, rollout discipline, and a plan for being wrong.","dekHtml":"A builder's checklist for moving AI-native security workflows from impressive demo to trusted production system.","tags":["ai","security","secops","platform","building","leadership"],"featured":true,"tableOfContents":true,"nextSlug":"ai-security-leadership-interview-questions","slug":"ai-security-demo-to-production-checklist","href":"/notes/ai-security-demo-to-production-checklist","content":"$16","draft":false,"scheduled":false},{"number":"029","title":"AI security leadership interview questions I would actually ask","titleHtml":"AI security leadership interview questions I would <em>actually</em> ask.","headingHtml":"AI security leadership<br/>interview questions I would <span class=\"red\">actually</span> ask.","description":"A practical interview guide for hiring AI security engineering leaders across agentic SOC architecture, SecOps platforms, AI risk, product security, delivery, and team leadership.","ogDescription":"Interview questions for hiring AI security engineering leaders, agentic SOC builders, SecOps platform owners, and hands-on cybersecurity product leaders.","date":"2026-06-25","displayDate":"2026 · 06 · 25","readTime":"14 min","quirk":"-- for recruiters, founders, CISOs, and anyone allergic to vague leadership interviews","excerptHtml":"A practical interview loop for finding AI security leaders who can build systems, lead teams, reason about risk, and ship products analysts can trust.","dekHtml":"A field guide for interviewing AI security engineering leaders: architecture, agent control, SecOps workflow, product judgment, delivery discipline, and team leadership.","tags":["career","leadership","security","ai","secops","building","hiring"],"featured":true,"tableOfContents":true,"nextSlug":"agentic-soc-architecture-scorecard","slug":"ai-security-leadership-interview-questions","href":"/notes/ai-security-leadership-interview-questions","content":"$17","draft":false,"scheduled":false},{"number":"028","title":"The agentic SOC architecture scorecard","titleHtml":"The <em>agentic SOC</em> architecture scorecard.","headingHtml":"The <em>agentic SOC</em><br/>architecture <span class=\"red\">scorecard</span>.","description":"A technical scorecard for agentic SOC architecture: evidence, identity context, tool permissions, approvals, evals, observability, reliability, and analyst trust.","ogDescription":"A practical agentic SOC architecture scorecard for CISOs, founders, and security engineering leaders evaluating AI-native SecOps platforms.","date":"2026-06-25","displayDate":"2026 · 06 · 25","readTime":"13 min","quirk":"-- or twelve questions before the demo gets dangerous","excerptHtml":"An agentic SOC platform should be judged by the control system around the model, not by the confidence of the demo.","dekHtml":"A CISO- and founder-friendly architecture scorecard for evaluating AI-native SOC platforms, security agents, evidence layers, control planes, and analyst trust.","tags":["ai","security","secops","agents","platform","building"],"featured":true,"tableOfContents":true,"nextSlug":"hiring-ai-security-engineering-leader","slug":"agentic-soc-architecture-scorecard","href":"/notes/agentic-soc-architecture-scorecard","content":"$18","draft":false,"scheduled":false},{"number":"027","title":"How I would evaluate an AI security engineering leader","titleHtml":"How I would evaluate an <em>AI security engineering leader</em>.","headingHtml":"How I would evaluate an <em>AI security engineering leader</em>.","description":"A practical scorecard for hiring AI security engineering leaders: architecture judgment, SecOps depth, agent safety, delivery rhythm, product taste, and team leadership.","ogDescription":"A hiring scorecard for AI security engineering leaders across architecture, SecOps, agent safety, delivery, product judgment, and leadership.","date":"2026-06-25","displayDate":"2026 · 06 · 25","readTime":"12 min","quirk":"-- or the interview loop I wish more teams used","excerptHtml":"The fastest way to hire an AI security engineering leader is to stop interviewing only for management polish.","dekHtml":"A recruiter- and founder-friendly scorecard for evaluating builder-leaders in AI-native cybersecurity, SecOps platforms, agentic SOC systems, and security engineering teams.","tags":["career","leadership","security","ai","secops","building"],"featured":true,"tableOfContents":true,"nextSlug":"builder-leader-cybersecurity-engineering","slug":"hiring-ai-security-engineering-leader","href":"/notes/hiring-ai-security-engineering-leader","content":"$19","draft":false,"scheduled":false},{"number":"026","title":"What I mean by builder-leader in cybersecurity engineering","titleHtml":"What I mean by <em>builder-leader</em> in cybersecurity engineering.","headingHtml":"What I mean by <em>builder-leader</em><br/>in <span class=\"red\">cybersecurity engineering</span>.","description":"A recruiter-facing essay on builder-leadership in cybersecurity engineering: technical depth, product judgment, AI-native SecOps, team leadership, and shipping trustworthy systems.","ogDescription":"What builder-leader means in cybersecurity engineering: hands-on architecture, product judgment, AI-native SecOps, team leadership, and delivery.","date":"2026-06-25","displayDate":"2026 · 06 · 25","readTime":"9 min","quirk":"-- or the job title beneath the job title","excerptHtml":"Builder-leader is the shortest phrase I have for the kind of cybersecurity engineering work I want to do next.","dekHtml":"A clear positioning note for recruiters and hiring teams: the role fit is hands-on engineering leadership for AI-native security products and SecOps platforms.","tags":["career","leadership","security","ai","building"],"featured":true,"tableOfContents":true,"nextSlug":"secops-agent-control-plane","slug":"builder-leader-cybersecurity-engineering","href":"/notes/builder-leader-cybersecurity-engineering","content":"$1a","draft":false,"scheduled":false},{"number":"025","title":"The control plane for SecOps agents","titleHtml":"The <em>control plane</em> for SecOps agents.","headingHtml":"The <em>control plane</em><br/>for <span class=\"red\">SecOps agents</span>.","description":"A technical guide to designing the control plane for SecOps agents: policies, tool permissions, approvals, workflows, audit logs, human review, and safe autonomy.","ogDescription":"How to design a SecOps agent control plane with scoped tools, policy enforcement, approvals, evidence, audit logs, and safe autonomy.","date":"2026-06-25","displayDate":"2026 · 06 · 25","readTime":"11 min","quirk":"-- or one agent kept on a leash","excerptHtml":"The difference between useful SecOps agents and dangerous SecOps agents is the control plane around them.","dekHtml":"A technical builder-leader note on the policies, permissions, approvals, tool boundaries, and audit trails that make security agents production-safe.","tags":["ai","security","secops","agents","platform"],"tableOfContents":true,"nextSlug":"evidence-layer-ai-security-platforms","slug":"secops-agent-control-plane","href":"/notes/secops-agent-control-plane","content":"$1b","draft":false,"scheduled":false,"featured":false},{"number":"024","title":"The evidence layer in AI security platforms","titleHtml":"The <em>evidence layer</em> in AI security platforms.","headingHtml":"The <em>evidence layer</em><br/>in <span class=\"red\">AI security platforms</span>.","description":"A technical architecture note on evidence layers for AI security platforms: provenance, citations, confidence, source handling, agent memory, analyst trust, and auditability.","ogDescription":"Why AI security platforms need an evidence layer: provenance, citations, confidence, source handling, analyst trust, auditability, and agent-safe workflows.","date":"2026-06-25","displayDate":"2026 · 06 · 25","readTime":"10 min","quirk":"-- or one summary that can defend itself","excerptHtml":"AI security platforms will not earn analyst trust by sounding fluent. They will earn trust by showing evidence.","dekHtml":"A builder's guide to the platform primitive that makes AI-native SOC systems inspectable, auditable, and safe enough to use.","tags":["ai","security","secops","platform","building"],"featured":true,"tableOfContents":true,"nextSlug":"ai-security-engineering-90-day-plan","slug":"evidence-layer-ai-security-platforms","href":"/notes/evidence-layer-ai-security-platforms","content":"$1c","draft":false,"scheduled":false},{"number":"023","title":"My 90-day plan for leading an AI security engineering team","titleHtml":"My <em>90-day plan</em> for leading an AI security engineering team.","headingHtml":"My <em>90-day plan</em><br/>for leading an <span class=\"red\">AI security engineering</span> team.","description":"A practical 90-day plan for AI security engineering leadership: trust, architecture, SecOps workflows, agent guardrails, delivery rhythm, hiring signals, and measurable outcomes.","ogDescription":"A builder-leader 90-day plan for leading AI security engineering teams across agentic SOC, product architecture, trust boundaries, delivery, and hiring outcomes.","date":"2026-06-25","displayDate":"2026 · 06 · 25","readTime":"11 min","quirk":"-- or one onboarding plan with fewer platitudes","excerptHtml":"The fastest way to evaluate an AI security engineering leader is to ask what they would change in the first 90 days.","dekHtml":"A concrete operating plan for hiring managers who need someone to lead AI-native security product work without losing the builder's grip on architecture.","tags":["ai","security","leadership","building","career"],"featured":true,"tableOfContents":true,"nextSlug":"reliable-ai-security-agents","slug":"ai-security-engineering-90-day-plan","href":"/notes/ai-security-engineering-90-day-plan","content":"$1d","draft":false,"scheduled":false},{"number":"022","title":"Engineering reliable AI security agents","titleHtml":"Engineering <em>reliable AI security agents</em>.","headingHtml":"Engineering <em>reliable AI</em><br/><span class=\"red\">security agents</span>.","description":"A technical guide to reliability engineering for AI security agents: observability, traces, metrics, logs, SLOs, failure modes, agent runs, tool latency, evaluation drift, and incident response.","ogDescription":"How to engineer reliable AI security agents using observability, OpenTelemetry, SLOs, failure-mode design, run traces, tool metrics, and evaluation drift monitoring.","date":"2026-06-07","displayDate":"2026 · 06 · 07","readTime":"12 min","quirk":"-- or one agent outage noticed before the analyst does","excerptHtml":"If an AI security agent becomes part of the SOC workflow, it needs reliability engineering like any other production system.","dekHtml":"A builder's guide to making AI security agents observable, measurable, debuggable, resilient, and safe enough for production security operations.","tags":["ai","security","secops","reliability","agents"],"featured":true,"tableOfContents":true,"nextSlug":"ai-threat-intelligence-pipeline","slug":"reliable-ai-security-agents","href":"/notes/reliable-ai-security-agents","content":"$1e","draft":false,"scheduled":false},{"number":"021","title":"Designing an AI threat intelligence pipeline","titleHtml":"Designing an <em>AI threat intelligence pipeline</em>.","headingHtml":"Designing an <em>AI threat intelligence</em><br/><span class=\"red\">pipeline</span>.","description":"A technical guide to AI-assisted threat intelligence pipelines: source intake, STIX/TAXII, MISP, OpenCTI, TLP handling, entity normalization, retrieval, enrichment, summarization, and analyst review.","ogDescription":"How to design an AI threat intelligence pipeline with source governance, STIX/TAXII, MISP, OpenCTI, TLP, entity normalization, enrichment, and analyst-safe AI.","date":"2026-06-07","displayDate":"2026 · 06 · 07","readTime":"12 min","quirk":"-- or one IOC pile turned into context","excerptHtml":"Threat intelligence pipelines fail when they treat intelligence as a feed problem. The hard part is turning sources into evidence, context, and decisions.","dekHtml":"A builder's architecture for AI-assisted threat intelligence that respects source handling, normalizes entities, preserves provenance, and gives analysts usable context.","tags":["ai","security","threat-intel","secops","building"],"tableOfContents":true,"nextSlug":"soc-knowledge-graph-agentic-investigations","slug":"ai-threat-intelligence-pipeline","href":"/notes/ai-threat-intelligence-pipeline","content":"$1f","draft":false,"scheduled":false,"featured":false},{"number":"020","title":"Building a SOC knowledge graph for agentic investigations","titleHtml":"Building a <em>SOC knowledge graph</em> for agentic investigations.","headingHtml":"Building a <em>SOC knowledge graph</em><br/>for <span class=\"red\">agentic investigations</span>.","description":"A technical guide to building SOC knowledge graphs for AI-native security operations: entities, relationships, evidence, provenance, confidence, ATT&CK mapping, and agentic investigation workflows.","ogDescription":"How to build a SOC knowledge graph for agentic AI investigations using entities, evidence, provenance, confidence, ATT&CK, STIX, and analyst feedback.","date":"2026-06-07","displayDate":"2026 · 06 · 07","readTime":"12 min","quirk":"-- or one less tab spiral","excerptHtml":"Agentic SOC systems need memory, but not the soft kind. They need a structured graph of entities, evidence, relationships, and decisions.","dekHtml":"A builder-leader architecture for turning alerts, identities, assets, vulnerabilities, threat intelligence, and analyst decisions into a graph agents can investigate safely.","tags":["ai","security","secops","agents","knowledge-graph"],"featured":true,"tableOfContents":true,"nextSlug":"agentic-incident-response-playbooks","slug":"soc-knowledge-graph-agentic-investigations","href":"/notes/soc-knowledge-graph-agentic-investigations","content":"$20","draft":false,"scheduled":false},{"number":"019","title":"Agentic incident response playbooks","titleHtml":"<em>Agentic incident response</em> playbooks.","headingHtml":"<em>Agentic incident response</em><br/><span class=\"red\">playbooks</span>.","description":"A detailed architecture guide for agentic incident response playbooks: NIST CSF 2.0, evidence handling, containment staging, human approvals, AI collaboration, TLP, and post-incident learning.","ogDescription":"How to design agentic incident response playbooks with evidence, containment staging, approvals, collaboration, TLP handling, and post-incident learning.","date":"2026-06-05","displayDate":"2026 · 06 · 05","readTime":"13 min","quirk":"-- or one incident bridge with fewer tabs","excerptHtml":"Agentic incident response is not autonomous panic. It is structured delegation inside a response system that preserves evidence and keeps humans in control.","dekHtml":"A builder-leader architecture for AI-assisted incident response: typed playbooks, evidence ledgers, approval gates, collaboration rules, and recovery memory.","tags":["ai","security","secops","incident-response","agents"],"featured":true,"tableOfContents":true,"nextSlug":"identity-first-ai-soc","slug":"agentic-incident-response-playbooks","href":"/notes/agentic-incident-response-playbooks","content":"$21","draft":false,"scheduled":false},{"number":"018","title":"The identity-first AI SOC","titleHtml":"The <em>identity-first</em> AI SOC.","headingHtml":"The <em>identity-first</em><br/><span class=\"red\">AI SOC</span>.","description":"A technical guide to building identity-first AI security operations: valid accounts, phishing-resistant MFA, session risk, credential exposure, entity resolution, zero trust, and agent-assisted investigation.","ogDescription":"Identity-first AI SOC architecture: valid accounts, MFA posture, credential exposure, entity resolution, session risk, and zero trust investigation workflows.","date":"2026-06-05","displayDate":"2026 · 06 · 05","readTime":"13 min","quirk":"-- or one valid account caught early","excerptHtml":"Modern intrusions often look like normal users doing abnormal things. That makes identity the center of the AI-native SOC.","dekHtml":"How to design AI-assisted security operations around identities, sessions, privileges, credential exposure, authentication strength, and zero trust context.","tags":["ai","security","secops","identity","building"],"tableOfContents":true,"nextSlug":"evaluating-ai-soc-agents","slug":"identity-first-ai-soc","href":"/notes/identity-first-ai-soc","content":"$22","draft":false,"scheduled":false,"featured":false},{"number":"017","title":"How to evaluate AI SOC agents before production","titleHtml":"How to evaluate <em>AI SOC agents</em> before production.","headingHtml":"How to evaluate<br/><span class=\"red\">AI SOC agents</span> before production.","description":"A detailed evaluation framework for AI SOC agents: golden cases, tool-call testing, prompt-injection tests, evidence scoring, false-positive handling, analyst trust, and production readiness.","ogDescription":"How to evaluate AI SOC agents before production using evidence tests, tool-call tests, prompt-injection scenarios, analyst review, and operational metrics.","date":"2026-06-05","displayDate":"2026 · 06 · 05","readTime":"12 min","quirk":"-- or one confident hallucination caught","excerptHtml":"An AI SOC agent should not graduate to production because it gave three impressive demos. It should graduate because it survived evaluation.","dekHtml":"A practical framework for testing AI security agents against real workflows, hostile inputs, tool boundaries, evidence quality, and analyst trust.","tags":["ai","security","secops","agents","evaluation"],"tableOfContents":true,"nextSlug":"detection-engineering-ai-native-soc","slug":"evaluating-ai-soc-agents","href":"/notes/evaluating-ai-soc-agents","content":"$23","draft":false,"scheduled":false,"featured":false},{"number":"016","title":"Detection engineering for an AI-native SOC","titleHtml":"Detection engineering for an <em>AI-native SOC</em>.","headingHtml":"Detection engineering<br/>for an <span class=\"red\">AI-native SOC</span>.","description":"A technical guide to detection engineering in AI-native security operations: ATT&CK mapping, data sources, Sigma, OCSF, telemetry quality, AI-assisted rule writing, testing, and feedback loops.","ogDescription":"AI-native SOC detection engineering: how to design detections around telemetry, ATT&CK data sources, Sigma, OCSF, tests, and analyst feedback.","date":"2026-06-05","displayDate":"2026 · 06 · 05","readTime":"13 min","quirk":"-- or one noisy rule retired","excerptHtml":"AI can help write detections, but detection engineering is still an evidence discipline, not a prompt trick.","dekHtml":"How builder-leaders should design AI-assisted detection engineering around telemetry quality, normalized schemas, ATT&CK data components, test cases, and production feedback.","tags":["ai","security","secops","detection","building"],"tableOfContents":true,"nextSlug":"securing-agentic-ai-tools-for-soc","slug":"detection-engineering-ai-native-soc","href":"/notes/detection-engineering-ai-native-soc","content":"$24","draft":false,"scheduled":false,"featured":false},{"number":"015","title":"Securing agentic AI tools for the SOC","titleHtml":"Securing <em>agentic AI tools</em> for the SOC.","headingHtml":"Securing <em>agentic AI tools</em><br/>for the <span class=\"red\">SOC</span>.","description":"A technical architecture guide for securing agentic AI tools in security operations: permissions, tool schemas, MCP risks, prompt injection, evidence boundaries, audit logs, and approval gates.","ogDescription":"How to secure agentic AI tools for the SOC: least agency, scoped tools, MCP risks, prompt injection defenses, approvals, and auditability.","date":"2026-06-05","displayDate":"2026 · 06 · 05","readTime":"12 min","quirk":"-- or one overpowered tool avoided","excerptHtml":"Agentic AI in the SOC becomes dangerous when tools are treated like plugins instead of production security interfaces.","dekHtml":"A builder's guide to designing SOC agents with narrow permissions, typed tools, hostile-input handling, approval gates, and evidence-preserving audit trails.","tags":["ai","security","secops","agents","building"],"tableOfContents":true,"nextSlug":"agentic-ai-soc-speaker","slug":"securing-agentic-ai-tools-for-soc","href":"/notes/securing-agentic-ai-tools-for-soc","content":"$25","draft":false,"scheduled":false,"featured":false},{"number":"014","title":"Agentic AI in the SOC: the builder-leader talk security teams need now","titleHtml":"Agentic AI in the <em>SOC</em>: the builder-leader talk security teams need now.","headingHtml":"Agentic AI in the <em>SOC</em>:<br/><span class=\"red\">the builder-leader talk security teams need now</span>.","description":"A keynote-style field guide from a builder-leader on agentic AI in the SOC, AI-native security operations, cybersecurity leadership, analyst trust, and modern SecOps architecture.","ogDescription":"Agentic AI in the SOC from a builder-leader perspective: what security leaders, builders, and conference audiences need to understand about AI-native security operations.","date":"2026-06-05","displayDate":"2026 · 06 · 05","readTime":"15 min","quirk":"-- or one panel question answered early","excerptHtml":"The best AI cybersecurity talk right now is not about replacing analysts. It is about rebuilding the SOC around evidence, workflow, trust, and controlled agentic systems, from someone who can build and lead the work.","dekHtml":"A builder-leader field guide for security teams trying to understand agentic AI, SOC modernization, AI-native cybersecurity, and what should actually be built.","tags":["ai","security","secops","agents","speaking","building","leadership"],"featured":true,"tableOfContents":true,"nextSlug":"ai-native-secops-platform","slug":"agentic-ai-soc-speaker","href":"/notes/agentic-ai-soc-speaker","content":"$26","draft":false,"scheduled":false},{"number":"013","title":"Rethinking SecOps: designing an AI-native security operations platform","titleHtml":"Rethinking <em>SecOps</em>: designing an AI-native security operations platform.","headingHtml":"Rethinking <em>SecOps</em>:<br/><span class=\"red\">AI-native</span> security operations.","description":"A detailed architecture note on designing AI-native SecOps platforms for investigation, triage, telemetry, detection engineering, workflow orchestration, and human-supervised response.","ogDescription":"How to design AI-native SecOps platforms: alert intake, evidence, correlation, workflows, detection engineering, safety, evaluation, and analyst trust.","date":"2026-05-26","displayDate":"2026 · 05 · 26","readTime":"17 min","quirk":" -  or one alert queue avoided","excerptHtml":"Traditional security platforms were built around dashboards and queues. AI-native SecOps platforms need evidence, workflow memory, typed actions, guardrails, and analyst control.","dekHtml":"Security operations do not need one more dashboard. They need systems that reason across context, orchestrate evidence, and keep humans in control of consequential action.","tags":["ai","security","secops","building"],"featured":true,"tableOfContents":true,"nextSlug":"darkweb-exposure-agent","slug":"ai-native-secops-platform","href":"/notes/ai-native-secops-platform","content":"$27","draft":false,"scheduled":false},{"number":"012","title":"Building a dark web exposure intelligence agent","titleHtml":"Building a dark web <em>exposure intelligence</em> agent.","headingHtml":"Building a dark web<br/><span class=\"red\">exposure</span> intelligence agent.","description":"A detailed architecture note on building dark web exposure intelligence agents for credential leaks, stealer logs, breach data, identity risk, enrichment, triage, and analyst-safe remediation.","ogDescription":"Dark web exposure intelligence agents: entity resolution, breach context, credential risk, source handling, safety guardrails, and operational response.","date":"2026-05-26","displayDate":"2026 · 05 · 26","readTime":"16 min","quirk":" -  or one leaked credential panic avoided","excerptHtml":"Dark web exposure work is not just searching shady indexes. It is entity resolution, evidence handling, identity risk, source confidence, privacy discipline, and response orchestration.","dekHtml":"A practical architecture map for turning breach data, stealer logs, credential exposure, and external intelligence into analyst-grade operational decisions.","tags":["ai","security","threat-intel","agents"],"tableOfContents":true,"nextSlug":"langflow-workflow-engineering","slug":"darkweb-exposure-agent","href":"/notes/darkweb-exposure-agent","content":"$28","draft":false,"scheduled":false,"featured":false},{"number":"011","title":"Engineering AI workflow systems with Langflow","titleHtml":"Engineering AI workflow systems with <em>Langflow</em>.","headingHtml":"Engineering AI<br/><span class=\"red\">workflow</span> systems with Langflow.","description":"A practical guide to using Langflow for AI workflow design, conditional routing, subflows, APIs, testing, versioning, security, and production boundaries.","ogDescription":"How to use Langflow as a workflow design surface while keeping production state, policy, credentials, evaluation, and operations explicit.","date":"2026-05-23","displayDate":"2026 · 05 · 23","readTime":"9 min","quirk":" -  or three conditional edges","excerptHtml":"Langflow makes AI workflow structure visible. Production engineering begins with deciding which responsibilities belong outside the graph.","dekHtml":"A field guide to visual orchestration, conditional paths, subflows, APIs, evaluation, and reliable operational boundaries.","tags":["ai","agents","infrastructure","workflow"],"featured":true,"tableOfContents":true,"nextSlug":"deep-research-systems","slug":"langflow-workflow-engineering","href":"/notes/langflow-workflow-engineering","content":"$29","draft":false,"scheduled":false},{"number":"010","title":"Building deep research systems for cybersecurity intelligence","titleHtml":"Building <em>deep research systems</em> for cybersecurity intelligence.","headingHtml":"Building deep research systems<br/>for <span class=\"red\">cybersecurity</span> intelligence.","description":"A detailed architecture note on building AI-assisted deep research systems for cybersecurity intelligence, threat research, vulnerability context, and analyst decision support.","ogDescription":"Deep research systems for cybersecurity intelligence: retrieval, correlation, evidence, reasoning, memory, guardrails, and operational output.","date":"2026-05-26","displayDate":"2026 · 05 · 26","readTime":"18 min","quirk":" -  or one analyst with a calmer inbox","excerptHtml":"Security investigations are not search problems. They are evidence problems. Deep research systems need retrieval, correlation, memory, provenance, and a refusal to invent confidence.","dekHtml":"What changes when a cybersecurity research system is expected to synthesize operational intelligence instead of returning a pile of links, IOCs, and vibes.","tags":["ai","security","research","threat-intel"],"tableOfContents":true,"nextSlug":"infrastructure-reliability-for-ai","slug":"deep-research-systems","href":"/notes/deep-research-systems","content":"$2a","draft":false,"scheduled":false,"featured":false},{"number":"009","title":"Engineering reliable AI systems: why infrastructure discipline matters","titleHtml":"Engineering reliable AI systems: why <em>infrastructure discipline</em> matters.","headingHtml":"Engineering reliable AI systems:<br/>why <span class=\"red\">infrastructure</span> discipline matters.","description":"A reliability architecture for production AI systems covering SLOs, durable workflows, fallbacks, observability, cost, data quality, and change management.","ogDescription":"Production AI is a distributed-systems problem. Reliability depends on workflows, retrieval, tools, telemetry, fallbacks, and disciplined releases.","date":"2026-05-21","displayDate":"2026 · 05 · 21","readTime":"9 min","quirk":" -  or one p99 before lunch","excerptHtml":"Model quality matters, but users experience the reliability of the complete workflow.","dekHtml":"A practical guide to SLOs, failure containment, observability, and controlled change for operational AI.","tags":["ai","infrastructure","reliability","building"],"featured":true,"tableOfContents":true,"nextSlug":"enterprise-ai-integrations","slug":"infrastructure-reliability-for-ai","href":"/notes/infrastructure-reliability-for-ai","content":"$2b","draft":false,"scheduled":false},{"number":"008","title":"Designing enterprise AI integrations for operational systems","titleHtml":"Designing <em>enterprise AI integrations</em> for operational systems.","headingHtml":"Designing enterprise AI integrations<br/>for <span class=\"red\">operational</span> systems.","description":"A production architecture for enterprise AI integrations across identity, events, APIs, workflows, search, tools, approvals, reliability, and audit.","ogDescription":"How to build enterprise AI integrations that preserve identity, workflow state, permissions, reliability, and operational context.","date":"2026-05-20","displayDate":"2026 · 05 · 20","readTime":"9 min","quirk":" -  or one SSO callback too many","excerptHtml":"Enterprise AI becomes useful when it enters existing work without losing identity, context, reliability, or control.","dekHtml":"Messaging, identity, ticketing, search, security tools, and internal APIs are the architecture around the model.","tags":["ai","infrastructure","enterprise","workflow"],"featured":true,"tableOfContents":true,"nextSlug":"boundary-around-the-model","slug":"enterprise-ai-integrations","href":"/notes/enterprise-ai-integrations","content":"$2c","draft":false,"scheduled":false},{"number":"007","title":"The interesting boundary around the model","titleHtml":"The interesting <em>boundary</em> around the model.","headingHtml":"The interesting <em>boundary</em><br/><span class=\"red\">around</span> the model.","description":"Most AI product work is really tool design, approval-flow design, and observability. The model just sits in the middle, doing the easy part.","ogDescription":"On context engineering, tool design, and why approvals are the actual product.","date":"2026-05-12","displayDate":"2026 · 05 · 12","readTime":"6 min","quirk":" -  or one slow espresso","excerptHtml":"Most \"AI product\" work is really tool design, approval-flow design, and observability. The model just sits in the middle, doing the <em>easy</em> part. A short essay on what actually makes these systems good.","dekHtml":"On context engineering, tool design, observability, and the quiet realization that the <em>model</em> is almost never the hard part.","tags":["ai","agents","security","building","opinions"],"featured":true,"nextSlug":"search-on-object-storage","slug":"boundary-around-the-model","href":"/notes/boundary-around-the-model","content":"$2d","draft":false,"scheduled":false},{"number":"006","title":"Search, on top of object storage","titleHtml":"Search, on top of <em>object storage.</em>","headingHtml":"Search, on top of<br/><span class=\"red\">object</span> <em>storage.</em>","description":"Where the math works out, what you trade, and the strange small joy of a query plan that ends in s3.GetObject.","ogDescription":"On running search workloads where the index lives in S3.","date":"2026-04-28","displayDate":"2026 · 04 · 28","readTime":"9 min","quirk":" -  or two cups of filter coffee","excerptHtml":"What you give up, what you get back, where the math actually works out, and the strange small joy of a query plan that ends in <code>s3.GetObject</code>.","dekHtml":"Where the math actually works out, what you trade for the cheaper bill, and the strange small joy of a query plan that ends in <code>s3.GetObject</code>.","tags":["infrastructure","search","building"],"nextSlug":"boundary-around-the-model","slug":"search-on-object-storage","href":"/notes/search-on-object-storage","content":"$2e","draft":false,"scheduled":false,"featured":false},{"number":"005","title":"Why agentic is quietly becoming useless","titleHtml":"Why <em>\"agentic\"</em> is quietly becoming useless.","headingHtml":"Why <span class=\"red\">agentic</span> is quietly<br/>becoming useless.","description":"A practical vocabulary for describing AI agents through goals, planning, tools, state, authority, feedback, and stopping conditions.","ogDescription":"The word agentic is losing precision. Here is a more useful way to describe what an AI system actually does.","date":"2026-03-15","displayDate":"2026 · 03 · 15","readTime":"7 min","quirk":" -  or one elevator argument","excerptHtml":"A useful word is losing its meaning because it is being used for everything. The repair starts with verbs and authority.","dekHtml":"A small vocabulary for replacing agentic theatre with an inspectable description of system behavior.","tags":["ai","opinions","agents"],"featured":true,"tableOfContents":true,"nextSlug":"ai-native-secops-platform","slug":"agentic-becoming-useless","href":"/notes/agentic-becoming-useless","content":"$2f","draft":false,"scheduled":false},{"number":"004","title":"Triage is a UX problem, mostly","titleHtml":"Triage is a <em>UX problem,</em> mostly.","headingHtml":"Triage is a <span class=\"red\">UX problem</span>,<br/>mostly.","description":"A practical UX model for SOC triage: grouping, evidence hierarchy, uncertainty, actions, feedback, and AI assistance.","ogDescription":"Why alert triage improves when security teams redesign the decision surface before adding more AI.","date":"2026-02-22","displayDate":"2026 · 02 · 22","readTime":"8 min","quirk":" -  or the time for an Argo rollout","excerptHtml":"SOC triage starts with the decision surface: what gets grouped, what gets hidden, what needs evidence, and when a human should be asked.","dekHtml":"A workflow and interface design note for reducing analyst effort without hiding security judgment behind automation.","tags":["ai","security","soc","opinions"],"featured":true,"tableOfContents":true,"nextSlug":"agentic-becoming-useless","slug":"triage-ux-problem","href":"/notes/triage-ux-problem","content":"$30","draft":false,"scheduled":false},{"number":"003","title":"What I learned writing my first MCP server","titleHtml":"What I learned writing my first <em>MCP server.</em>","headingHtml":"What I learned writing<br/>my first <span class=\"red\">MCP server</span>.","description":"A practical field report on MCP tool design: schemas, descriptions, errors, authorization, credentials, observability, and safe agent affordances.","ogDescription":"The MCP protocol is small. The important engineering decisions live in tool contracts, permissions, errors, and operations.","date":"2026-01-18","displayDate":"2026 · 01 · 18","readTime":"9 min","quirk":" -  or a long ssh reconnect","excerptHtml":"The protocol is small. The interesting design decisions are not: descriptions, schemas, permissions, errors, and when an agent should not use a tool.","dekHtml":"A builder's field report from turning an internal capability into a tool an AI client can discover and use safely.","tags":["ai","agents","infrastructure","building"],"featured":true,"tableOfContents":true,"nextSlug":"triage-ux-problem","slug":"first-mcp-server","href":"/notes/first-mcp-server","content":"$31","draft":false,"scheduled":false},{"number":"002","title":"Reading the cap table like an offer letter","titleHtml":"Reading the cap table like an <em>offer letter.</em>","headingHtml":"Reading the cap table<br/>like an <span class=\"red\">offer letter</span>.","description":"A practical guide for engineers evaluating startup equity: ownership, dilution, vesting, strike price, preferences, exercise windows, and questions to ask.","ogDescription":"How engineers can evaluate startup equity as part of the complete offer without pretending the headline option count is enough.","date":"2025-12-03","displayDate":"2025 · 12 · 03","readTime":"8 min","quirk":" -  or one careful tea","excerptHtml":"Vesting, strike price, dilution, preferences, and exercise terms change what the equity number on an offer actually means.","dekHtml":"A candidate's field guide to asking better questions about startup equity, without treating uncertain private shares like cash.","tags":["opinions","career"],"featured":true,"tableOfContents":true,"nextSlug":"first-mcp-server","slug":"cap-table-offer-letter","href":"/notes/cap-table-offer-letter","content":"$32","draft":false,"scheduled":false},{"number":"001","title":"Demos are easy. Tuesdays are hard","titleHtml":"Demos are easy. Tuesdays are <em>hard.</em>","headingHtml":"Demos are easy.<br/><span class=\"red\">Tuesdays are hard.</span>","description":"A production-readiness guide for turning an AI or security demo into a reliable product customers can use on an ordinary Tuesday.","ogDescription":"The engineering gap between a convincing demo and a reliable AI product: failure modes, controls, observability, cost, and operations.","date":"2025-10-09","displayDate":"2025 · 10 · 09","readTime":"8 min","quirk":" -  or a slow K8s pod restart","excerptHtml":"The gap between a thing that works in the room and a thing that works in a customer's hands on Tuesday morning is where most engineering taste lives.","dekHtml":"A practical production-readiness test for AI, security, and infrastructure products after the applause stops.","tags":["infrastructure","building","opinions"],"featured":true,"tableOfContents":true,"nextSlug":"cap-table-offer-letter","slug":"demos-tuesdays-hard","href":"/notes/demos-tuesdays-hard","content":"$33","draft":false,"scheduled":false}]}]
 7:["$","div",null,{"className":"ornament","children":["$","span",null,{"children":"✦"}]}]
 8:["$","div",null,{"className":"end-block","children":[["$","em",null,{"children":"that's everything pinned to the wall, for now."}],["$","br",null,{}],["$","span",null,{"style":{"fontSize":22},"children":["new notes show up ",["$","span",null,{"className":"arr","children":"↬"}]," ","whenever they're ready."]}]]}]
 9:["$","footer",null,{"className":"bottom","children":[["$","$Lc",null,{"href":"/","className":"big-back","children":[["$","span",null,{"children":"←"}]," back to the rest of the notebook"]}],["$","div",null,{"children":["© 2026 · ",["$","b",null,{"children":"Prince Sinha"}]," · made by hand, mostly."]}]]}]
 a:["$","script","script-0",{"src":"/_next/static/chunks/0h4smigb-901j.js","async":true}]
-b:["$","$L2f",null,{"children":["$","$30",null,{"name":"Next.MetadataOutlet","children":"$@31"}]}]
+b:["$","$L34",null,{"children":["$","$35",null,{"name":"Next.MetadataOutlet","children":"$@36"}]}]
 e:["$","$Lc","hiring-ai-security-engineering-leader",{"className":"hiring-path-card","href":"/notes/hiring-ai-security-engineering-leader","children":[["$","span",null,{"className":"step","children":"07"}],["$","strong",null,{"dangerouslySetInnerHTML":{"__html":"How I would evaluate an <em>AI security engineering leader</em>."}}],["$","small",null,{"dangerouslySetInnerHTML":{"__html":"The fastest way to hire an AI security engineering leader is to stop interviewing only for management polish."}}]]}]
 f:["$","$Lc","ai-security-engineering-90-day-plan",{"className":"hiring-path-card","href":"/notes/ai-security-engineering-90-day-plan","children":[["$","span",null,{"className":"step","children":"08"}],["$","strong",null,{"dangerouslySetInnerHTML":{"__html":"My <em>90-day plan</em> for leading an AI security engineering team."}}],["$","small",null,{"dangerouslySetInnerHTML":{"__html":"The fastest way to evaluate an AI security engineering leader is to ask what they would change in the first 90 days."}}]]}]
 10:["$","$Lc","builder-leader-cybersecurity-engineering",{"className":"hiring-path-card","href":"/notes/builder-leader-cybersecurity-engineering","children":[["$","span",null,{"className":"step","children":"09"}],["$","strong",null,{"dangerouslySetInnerHTML":{"__html":"What I mean by <em>builder-leader</em> in cybersecurity engineering."}}],["$","small",null,{"dangerouslySetInnerHTML":{"__html":"Builder-leader is the shortest phrase I have for the kind of cybersecurity engineering work I want to do next."}}]]}]
 11:["$","div",null,{"className":"hiring-path-cta","children":[["$","$Lc",null,{"href":"/for-recruiters","children":"read the recruiter letter"}],["$","$Lc",null,{"href":"/resume.pdf","children":"open resume"}]]}]
-31:null
+36:null
