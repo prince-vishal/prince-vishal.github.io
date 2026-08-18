@@ -1,3 +1,3 @@
 :HL["/_next/static/chunks/0-zxi~xkytfab.css","style"]
 :HL["/_next/static/chunks/162han0tzris2.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"notes","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"builder-leader-cybersecurity-engineering","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"S8Wi2KFTCwv0SkO3UyEHz"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"notes","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"builder-leader-cybersecurity-engineering","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"0wl_8HhZ9f6qHODZnmWhD"}
