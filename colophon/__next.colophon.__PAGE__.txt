@@ -320,7 +320,7 @@
     transition: gap .15s ease, color .15s ease;
   }
   .big-back:hover { color: var(--red); gap: 18px; }
-</style>0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"body":"$3","scripts":["\n  const themeBtn = document.getElementById('theme-toggle');\n  if (themeBtn) themeBtn.addEventListener('click', () => {\n    const cur = document.documentElement.getAttribute('data-theme') || 'light';\n    const nxt = cur === 'light' ? 'dark' : 'light';\n    document.documentElement.setAttribute('data-theme', nxt);\n    try { localStorage.setItem('theme', nxt); } catch (e) {}\n  });\n"],"styles":"$4"}],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Qmx2b6q09_pZ_JRXJk2oo"}
+</style>0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"body":"$3","scripts":["\n  const themeBtn = document.getElementById('theme-toggle');\n  if (themeBtn) themeBtn.addEventListener('click', () => {\n    const cur = document.documentElement.getAttribute('data-theme') || 'light';\n    const nxt = cur === 'light' ? 'dark' : 'light';\n    document.documentElement.setAttribute('data-theme', nxt);\n    try { localStorage.setItem('theme', nxt); } catch (e) {}\n  });\n"],"styles":"$4"}],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"n6aQWzB8_KPHVC73q1vFw"}
 5:["$","script","script-0",{"src":"/_next/static/chunks/0cpu9mdm3uq6j.js","async":true}]
 6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
 9:null
